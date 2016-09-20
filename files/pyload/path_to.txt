@@ -1,0 +1,8 @@
+ /usr/share/pyload/
+ 
+sudo mv /usr/share/pyload/module/network/HTTPRequest.py /usr/share/pyload/module/network/HTTPRequest.py.save
+
+sudo mv HTTPRequest.py /usr/share/pyload/module/network/HTTPRequest.py
+
+sudo chown root:root HTTPRequest.py
+sudo chmod 644 HTTPRequest.py
