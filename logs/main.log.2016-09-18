@@ -1,0 +1,257 @@
+18/09/2016 17:45:31 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:45:31 ERROR: Error global name 'MySQLdb' is not defined
+18/09/2016 17:45:31 ERROR: Error 'NoneType' object has no attribute 'cursor'
+18/09/2016 17:46:18 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:46:18 ERROR: Error global name 'MySQLdb' is not defined
+18/09/2016 17:46:18 ERROR: Error 'NoneType' object has no attribute 'cursor'
+18/09/2016 17:46:43 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:46:43 ERROR: Error global name 'MySQLdb' is not defined
+18/09/2016 17:46:43 ERROR: Error 'NoneType' object has no attribute 'cursor'
+18/09/2016 17:47:37 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:47:37 ERROR: Error global name 'MySQLdb' is not defined
+18/09/2016 17:47:37 ERROR: Error 'NoneType' object has no attribute 'cursor'
+18/09/2016 17:49:58 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:49:58 ERROR: Error global name 'ursor' is not defined
+18/09/2016 17:51:10 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:51:10 ERROR: Error 'NoneType' object has no attribute '__getitem__'
+18/09/2016 17:51:21 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:51:21 ERROR: Error 'NoneType' object has no attribute '__getitem__'
+18/09/2016 17:51:42 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:51:42 INFO: Run 1161 times
+18/09/2016 17:51:42 WARNING: [D1]There are links to be scraped first
+18/09/2016 17:51:42 INFO: Checking for new albums : year 2016
+18/09/2016 17:51:44 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 17:51:44 INFO: 2.13 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 17:51:44 INFO: 93/181 valid urls scraped
+18/09/2016 17:51:44 INFO: Albums online : 93, Albums database : 93
+18/09/2016 17:51:44 INFO: No new album added
+18/09/2016 17:51:44 WARNING: There are albums to be scraped first
+18/09/2016 17:51:44 WARNING: 674 : File(s) already downloading
+18/09/2016 17:53:13 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:53:13 INFO: Run 1162 times
+18/09/2016 17:53:13 WARNING: [D1]There are links to be scraped first
+18/09/2016 17:53:13 INFO: Checking for new albums : year 2016
+18/09/2016 17:53:15 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 17:53:15 INFO: 2.11 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 17:53:15 INFO: 93/181 valid urls scraped
+18/09/2016 17:53:15 INFO: Albums online : 93, Albums database : 93
+18/09/2016 17:53:15 INFO: No new album added
+18/09/2016 17:53:15 WARNING: There are albums to be scraped first
+18/09/2016 17:53:15 WARNING: 674 : File(s) already downloading
+18/09/2016 17:54:21 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:54:21 INFO: Run 1163 times
+18/09/2016 17:54:21 WARNING: [D1]There are links to be scraped first
+18/09/2016 17:54:21 INFO: Checking for new albums : year 2016
+18/09/2016 17:54:23 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 17:54:23 INFO: 1.77 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 17:54:23 INFO: 93/181 valid urls scraped
+18/09/2016 17:54:23 INFO: Albums online : 93, Albums database : 93
+18/09/2016 17:54:23 INFO: No new album added
+18/09/2016 17:54:23 WARNING: There are albums to be scraped first
+18/09/2016 17:54:23 WARNING: 674 : File(s) already downloading
+18/09/2016 17:55:37 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:55:37 INFO: Run 1164 times
+18/09/2016 17:55:37 WARNING: [D1]There are links to be scraped first
+18/09/2016 17:55:37 INFO: Checking for new albums : year 2016
+18/09/2016 17:55:39 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 17:55:39 INFO: 1.75 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 17:55:39 INFO: 93/181 valid urls scraped
+18/09/2016 17:55:39 INFO: Albums online : 93, Albums database : 93
+18/09/2016 17:55:39 INFO: No new album added
+18/09/2016 17:55:39 WARNING: There are albums to be scraped first
+18/09/2016 17:55:39 WARNING: 674 : File(s) already downloading
+18/09/2016 17:59:54 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 17:59:54 INFO: Run 1166 times
+18/09/2016 17:59:54 WARNING: [D1]There are links to be scraped first
+18/09/2016 17:59:54 INFO: Checking for new albums : year 2016
+18/09/2016 17:59:57 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 17:59:57 INFO: 3.05 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 17:59:57 INFO: 93/181 valid urls scraped
+18/09/2016 17:59:57 INFO: Albums online : 93, Albums database : 93
+18/09/2016 17:59:57 INFO: No new album added
+18/09/2016 17:59:57 WARNING: There are albums to be scraped first
+18/09/2016 17:59:57 WARNING: 674 : File(s) already downloading
+18/09/2016 18:00:38 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:00:38 INFO: Run 1167 times
+18/09/2016 18:00:38 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:00:38 INFO: Checking for new albums : year 2016
+18/09/2016 18:00:40 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:00:40 INFO: 2.24 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:00:40 INFO: 93/181 valid urls scraped
+18/09/2016 18:00:40 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:00:40 INFO: No new album added
+18/09/2016 18:00:40 WARNING: There are albums to be scraped first
+18/09/2016 18:00:40 WARNING: 674 : File(s) already downloading
+18/09/2016 18:01:31 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:01:31 INFO: Run 1168 times
+18/09/2016 18:01:32 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:01:32 INFO: Checking for new albums : year 2016
+18/09/2016 18:01:35 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:01:35 INFO: 2.37 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:01:35 INFO: 93/181 valid urls scraped
+18/09/2016 18:01:35 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:01:35 INFO: No new album added
+18/09/2016 18:01:35 WARNING: There are albums to be scraped first
+18/09/2016 18:01:35 WARNING: 674 : File(s) already downloading
+18/09/2016 18:02:33 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:02:33 INFO: Run 1169 times
+18/09/2016 18:02:33 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:02:33 INFO: Checking for new albums : year 2016
+18/09/2016 18:02:36 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:02:36 INFO: 3.07 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:02:36 INFO: 93/181 valid urls scraped
+18/09/2016 18:02:36 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:02:36 INFO: No new album added
+18/09/2016 18:02:36 WARNING: There are albums to be scraped first
+18/09/2016 18:02:36 WARNING: 674 : File(s) already downloading
+18/09/2016 18:03:04 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:03:04 INFO: Run 1170 times
+18/09/2016 18:03:04 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:03:04 INFO: Checking for new albums : year 2016
+18/09/2016 18:03:07 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:03:07 INFO: 3.25 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:03:07 INFO: 93/181 valid urls scraped
+18/09/2016 18:03:07 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:03:07 INFO: No new album added
+18/09/2016 18:03:07 WARNING: There are albums to be scraped first
+18/09/2016 18:03:07 WARNING: 674 : File(s) already downloading
+18/09/2016 18:06:03 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:06:03 INFO: Run 1171 times
+18/09/2016 18:06:03 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:06:03 INFO: Checking for new albums : year 2016
+18/09/2016 18:06:10 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:06:10 INFO: 6.91 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:06:10 INFO: 93/181 valid urls scraped
+18/09/2016 18:06:10 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:06:10 INFO: No new album added
+18/09/2016 18:06:10 WARNING: There are albums to be scraped first
+18/09/2016 18:06:10 WARNING: 674 : File(s) already downloading
+18/09/2016 18:06:10 ERROR: Error 'in <string>' requires string as left operand, not NoneType : None
+18/09/2016 18:06:10 INFO: 0.07 seconds to rename and save files
+18/09/2016 18:06:10 INFO: 0.03 seconds to update albums size
+18/09/2016 18:06:10 INFO: Updating pyLoad pid for "Udta Punjab (2016) 320Kbps"
+18/09/2016 18:07:17 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:07:17 INFO: Run 1172 times
+18/09/2016 18:07:17 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:07:17 INFO: Checking for new albums : year 2016
+18/09/2016 18:08:19 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:08:19 INFO: Run 1173 times
+18/09/2016 18:08:19 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:08:19 INFO: Checking for new albums : year 2016
+18/09/2016 18:08:20 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:08:20 INFO: 1.38 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:08:20 INFO: 93/181 valid urls scraped
+18/09/2016 18:08:21 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:08:21 INFO: No new album added
+18/09/2016 18:08:21 WARNING: There are albums to be scraped first
+18/09/2016 18:08:21 WARNING: 674 : File(s) already downloading
+18/09/2016 18:08:21 ERROR: Error 'in <string>' requires string as left operand, not NoneType : 674
+18/09/2016 18:08:21 INFO: 0.06 seconds to rename and save files
+18/09/2016 18:08:21 INFO: 0.03 seconds to update albums size
+18/09/2016 18:08:21 INFO: Updating pyLoad pid for "Udta Punjab (2016) 320Kbps"
+18/09/2016 18:11:28 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:11:28 INFO: Run 1174 times
+18/09/2016 18:11:28 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:11:28 INFO: Checking for new albums : year 2016
+18/09/2016 18:11:31 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:11:31 INFO: 2.76 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:11:31 INFO: 93/181 valid urls scraped
+18/09/2016 18:11:31 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:11:31 INFO: No new album added
+18/09/2016 18:11:54 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:11:54 INFO: Run 1175 times
+18/09/2016 18:11:54 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:11:54 INFO: Checking for new albums : year 2016
+18/09/2016 18:11:55 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:11:55 INFO: 1.03 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:11:55 INFO: 93/181 valid urls scraped
+18/09/2016 18:11:55 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:11:55 INFO: No new album added
+18/09/2016 18:11:55 ERROR: Error 'in <string>' requires string as left operand, not NoneType : 674
+18/09/2016 18:11:55 INFO: 0.06 seconds to rename and save files
+18/09/2016 18:11:55 INFO: 0.03 seconds to update albums size
+18/09/2016 18:11:55 INFO: Updating pyLoad pid for "Udta Punjab (2016) 320Kbps"
+18/09/2016 18:12:09 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:12:09 INFO: Run 1176 times
+18/09/2016 18:12:09 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:12:09 INFO: Checking for new albums : year 2016
+18/09/2016 18:12:10 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:12:10 INFO: 0.95 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:12:10 INFO: 93/181 valid urls scraped
+18/09/2016 18:12:10 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:12:10 INFO: No new album added
+18/09/2016 18:12:10 ERROR: Error 'in <string>' requires string as left operand, not NoneType : 674
+18/09/2016 18:12:10 INFO: 0.06 seconds to rename and save files
+18/09/2016 18:12:10 INFO: 0.03 seconds to update albums size
+18/09/2016 18:12:10 INFO: Updating pyLoad pid for "Udta Punjab (2016) 320Kbps"
+18/09/2016 18:20:01 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:20:01 INFO: Run 1179 times
+18/09/2016 18:20:01 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:20:01 INFO: Checking for new albums : year 2016
+18/09/2016 18:20:03 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:20:03 INFO: 1.75 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:20:03 INFO: 93/181 valid urls scraped
+18/09/2016 18:20:03 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:20:03 INFO: No new album added
+18/09/2016 18:20:03 INFO: 0.06 seconds to rename and save files
+18/09/2016 18:20:03 INFO: 0.02 seconds to update albums size
+18/09/2016 18:20:03 INFO: 0.02 seconds to update albums pyLoad pid
+18/09/2016 18:20:03 INFO: 0.04 seconds to update albums error
+18/09/2016 18:20:03 INFO: 0.02 seconds to backup full database
+18/09/2016 18:21:59 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:21:59 INFO: Run 1180 times
+18/09/2016 18:21:59 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:21:59 INFO: Checking for new albums : year 2016
+18/09/2016 18:22:00 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:22:00 INFO: 1.42 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:22:00 INFO: 93/181 valid urls scraped
+18/09/2016 18:22:00 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:22:00 INFO: No new album added
+18/09/2016 18:22:01 INFO: 0.07 seconds to rename and save files
+18/09/2016 18:22:01 INFO: 0.03 seconds to update albums size
+18/09/2016 18:22:01 INFO: 0.02 seconds to update albums pyLoad pid
+18/09/2016 18:22:01 INFO: 0.04 seconds to update albums error
+18/09/2016 18:22:01 INFO: 0.01 seconds to backup full database
+18/09/2016 18:22:01 INFO: Exiting program
+18/09/2016 18:23:10 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:23:10 INFO: Run 1181 times
+18/09/2016 18:23:10 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:23:10 INFO: Checking for new albums : year 2016
+18/09/2016 18:23:11 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:23:11 INFO: 0.95 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:23:11 INFO: 93/181 valid urls scraped
+18/09/2016 18:23:11 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:23:11 INFO: No new album added
+18/09/2016 18:23:12 INFO: 0.06 seconds to rename and save files
+18/09/2016 18:23:12 INFO: 0.03 seconds to update albums size
+18/09/2016 18:23:12 INFO: 0.02 seconds to update albums pyLoad pid
+18/09/2016 18:23:12 INFO: 0.04 seconds to update albums error
+18/09/2016 18:23:12 INFO: Exiting program
+18/09/2016 18:31:00 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:31:00 INFO: Run 1182 times
+18/09/2016 18:31:00 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:31:00 INFO: Checking for new albums : year 2016
+18/09/2016 18:31:01 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:31:01 INFO: 1.21 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:31:01 INFO: 93/181 valid urls scraped
+18/09/2016 18:31:02 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:31:02 INFO: No new album added
+18/09/2016 18:31:02 INFO: 0.07 seconds to rename and save files
+18/09/2016 18:31:02 INFO: 0.03 seconds to update albums size
+18/09/2016 18:31:02 INFO: 0.03 seconds to update albums pyLoad pid
+18/09/2016 18:31:02 INFO: 0.04 seconds to update albums error
+18/09/2016 18:31:02 INFO: Exiting program
+18/09/2016 18:31:20 INFO: Starting program with BASE : /Users/anwar/Google Drive/WinApp/MediaScraper
+18/09/2016 18:31:20 INFO: Run 1183 times
+18/09/2016 18:31:21 WARNING: [D1]There are links to be scraped first
+18/09/2016 18:31:21 INFO: Checking for new albums : year 2016
+18/09/2016 18:31:22 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+18/09/2016 18:31:22 INFO: 0.95 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+18/09/2016 18:31:22 INFO: 93/181 valid urls scraped
+18/09/2016 18:31:22 INFO: Albums online : 93, Albums database : 93
+18/09/2016 18:31:22 INFO: No new album added
+18/09/2016 18:31:22 INFO: 0.06 seconds to rename and save files
+18/09/2016 18:31:22 INFO: 0.03 seconds to update albums size
+18/09/2016 18:31:22 INFO: 0.03 seconds to update albums pyLoad pid
+18/09/2016 18:31:22 INFO: 0.04 seconds to update albums error
+18/09/2016 18:31:22 INFO: Exiting program
