@@ -50,7 +50,7 @@ def main():
 	downloader.checkNewAlbumsThisYear()
 
 	# download the next N albums in waiting list
-	#downloader.downloadNextNAlbums()
+	downloader.downloadNextNAlbums()
 	
 	# check if any download has already completed
 	downloader.checkIfDownloadsCompleted()	

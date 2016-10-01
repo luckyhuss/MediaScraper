@@ -12,3 +12,17 @@
 01/10/2016 20:25:00 INFO: 0.02 seconds to update albums pyLoad pid
 01/10/2016 20:25:00 INFO: 0.04 seconds to update albums error
 01/10/2016 20:25:00 INFO: Exiting program
+01/10/2016 20:28:56 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+01/10/2016 20:28:56 INFO: Run 1289 times
+01/10/2016 20:28:57 WARNING: [D1]There are links to be scraped first
+01/10/2016 20:28:57 INFO: Checking for new albums : year 2016
+01/10/2016 20:28:58 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+01/10/2016 20:28:58 INFO: 1.36 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+01/10/2016 20:28:58 INFO: 95/183 valid urls scraped
+01/10/2016 20:28:58 INFO: Albums online : 95, Albums database : 95
+01/10/2016 20:28:58 INFO: No new album added
+01/10/2016 20:28:58 INFO: 0.07 seconds to rename and save files
+01/10/2016 20:28:58 INFO: 0.03 seconds to update albums size
+01/10/2016 20:28:58 INFO: 0.02 seconds to update albums pyLoad pid
+01/10/2016 20:28:59 INFO: 0.04 seconds to update albums error
+01/10/2016 20:28:59 INFO: Exiting program
