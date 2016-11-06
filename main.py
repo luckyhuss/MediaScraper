@@ -79,6 +79,9 @@ def main():
 	# rename files => OK
 	# automate setup on linux through shell => OK
 	# database backup => OK
+	# 06/11/2016
+	# check if WDMyCloud has been loaded (electricity cut) => KO
+	# automate rsync in python instead of cron => KO
 
 	# get the reports
 	if os.name != "nt" and os.name != "posix":
