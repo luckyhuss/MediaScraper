@@ -5,6 +5,7 @@
 # Version : 1.5
 
 import os
+import sys
 import subprocess
 import mylogger
 import mail
@@ -25,9 +26,9 @@ PARAM_TopLevelPage = "Download.TopLevelPage"
 PARAM_MaxAlbumPerDay = "Download.MaxAlbumPerDay"
 
 # application paths
-if os.name == "nt" or os.name == "posix":
+if sys.platform == "win32" or sys.platform == "darwin":
 	PATH_BASE = os.path.dirname(os.path.realpath(__file__))
-else:
+elif sys.platform == "linux2":
 	PATH_BASE = os.path.dirname("/media/shares/SEAGATE-II/RasperryPi/MediaScraper/")
 PATH_LOG = os.path.normpath(PATH_BASE + "/logs")
 PATH_FILES = os.path.normpath(PATH_BASE + "/files")
@@ -46,13 +47,13 @@ TAG_MP3_INFO = "[SongsPK.info] "
 TAG_MP3_RU = "[SongsPK.ru] "
 TAG_MP3_PK = "[Songs.PK] "
 
-if os.name == "nt":
+if sys.platform == "win32":
 	# windows
 	PATH_DOWNLOADS = "E:/Perso/_movies/_download/"
-elif os.name == "posix":
-	# mac
+elif sys.platform == "darwin":
+	# mac osx
 	PATH_DOWNLOADS = "/Users/anwar/Downloads/"
-else:
+elif sys.platform == "linux2":
 	# linux
 	PATH_DOWNLOADS = "/media/shares/SEAGATE-II/Torrent/Others/"
 

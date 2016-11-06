@@ -3,7 +3,7 @@
 # Date : 10/02/2016
 # Version : 1.8
 
-import os
+import sys
 
 # include custom files and imports
 import mylogger
@@ -11,8 +11,8 @@ import utils
 
 # define configs depending on the environment
 
-if os.name == "nt" or os.name == "posix":
-	# windows
+if sys.platform == "win32" or sys.platform == "darwin":
+	# windows or mac osx
 	import mysql.connector
 	config = {
 	  'user': 'mac',
@@ -22,7 +22,7 @@ if os.name == "nt" or os.name == "posix":
 	  'raise_on_warnings': True,
 	  'use_pure': False,
 	}
-else:
+elif sys.platform == "linux2":
 	# linux
 	import MySQLdb
 	config = {
@@ -36,10 +36,10 @@ else:
 def dbConnect():
 	"""Connect to the MySQL database"""
 	try:
-		if os.name == "nt" or os.name == "posix":
-			# windows or mac
+		if sys.platform == "win32" or sys.platform == "darwin":
+			# windows or mac osx
 			connection = mysql.connector.connect(**config)
-		else:
+		elif sys.platform == "linux2":
 			# linux
 			connection = MySQLdb.connect(**config)
 		return connection

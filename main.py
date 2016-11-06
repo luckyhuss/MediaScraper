@@ -10,7 +10,7 @@
 # launch MediaScraper every 3 hours:15mins
 #15 */3 * * * python /home/pi/mypython/MediaScraper/main.py
 
-import os
+#import os
 import sys
 
 # include custom files
@@ -71,8 +71,11 @@ def main():
 	#utils.oneShotDumpDownload()
 
 	# full backup of database
-	if os.name != "nt" and os.name != "posix":
+	if sys.platform != "win32" and sys.platform != "darwin":
+		# if not windows nor mac osx
 		utils.dumpDatabase()
+		# get the reports
+		utils.outputSystemInfo()
 
 	# dumps downloads folder content
 	# package name + size update => OK
@@ -83,11 +86,7 @@ def main():
 	# check if WDMyCloud has been loaded (electricity cut) => KO
 	# automate rsync in python instead of cron => KO
 
-	# get the reports
-	if os.name != "nt" and os.name != "posix":
-		utils.outputSystemInfo()
-
-	utils.info("Exiting program")	
+	utils.info("Exiting program")
 	
 # call main function
 main()
