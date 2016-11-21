@@ -1,7 +1,8 @@
 # This program scrapes the web page to get download urls for mp3
 # Author : Anwar Buchoo (luckyhuss@msn.com | http://ideaof.me)
 # Date : 01/03/2016
-# Version : 3.1
+# Date : 21/11/2016
+# Version : 3.3
 # sudo crontab -l
 # sudo crontab -e
 # m h  dom mon dow   command
@@ -38,10 +39,15 @@ def main():
 	# initialise application
 	initialise()
 	
-	if len(sys.argv) > 1 and sys.argv[1] == "tree":
-		# generate tree view for downloaded albums
-		utils.treeDownloads()
-		return
+	if len(sys.argv) > 1:
+		if sys.argv[1] == "tree":
+			# generate tree view for downloaded albums
+			utils.treeDownloads()
+			return
+		elif sys.argv[1] == "wdmycloud":
+			# open SSHv2 to WDMycloud
+			utils.checkWDMyCloud()
+			return
 
 	# generate top level pages (by year)
 	downloader.generateTopLevelPages()

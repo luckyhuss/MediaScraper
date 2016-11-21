@@ -1,6 +1,77 @@
-Total size : 21.74 GB @ 15/03/2016 (Bolly)
+Total size : 32.98 GB @ 21/11/2016 (Bolly)
 MP3
 ├── 2016
+│    │
+│    ├─── 1-13-7 - Ek Tera Saath (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - ETS - Aye Mere Khuda.mp3 => 11.84 MB
+│    │       02 - ETS - Ek Tera Saath.mp3 => 10.07 MB
+│    │       03 - ETS - Pakeeza.mp3 => 13.25 MB
+│    │       04 - ETS - Saiyyan.mp3 => 12.01 MB
+│    │       05 - ETS - Queen.mp3 => 8.48 MB
+│    │       06 - ETS - Humsafar.mp3 => 12.57 MB
+│    │
+│    ├─── 31St October (2016) 320Kbps [Ripped : None]
+│    │
+│    │       01 - 31st October - Yaqeen.mp3 => 11.35 MB
+│    │       02 - 31st October - Andhere.mp3 => 10.57 MB
+│    │       03 - 31st October - Rabb De Bande.mp3 => 10.95 MB
+│    │       04 - 31st October - Umeed.mp3 => 11.78 MB
+│    │       05 - 31st October - Maula.mp3 => 13.65 MB
+│    │       06 - 31st October - Andhere (Male Version).mp3 => 8.80 MB
+│    │       07 - 31st October - Umeed (Reprise Version).mp3 => 11.68 MB
+│    │       08 - 31st October - Yaqeen (Reprise Version).mp3 => 11.32 MB
+│    │
+│    ├─── 7 Hours To Go (2016) [Ripped : 18/09/16]
+│    │
+│    │       Dalinder Dance (7 Hours To Go) - 128kbps.mp3 => 4.26 MB
+│    │       Dalinder Dance (7 Hours To Go) - 320kbps.mp3 => 9.69 MB
+│    │       Tere Naina (7 Hours To Go) - 128kbps.mp3 => 4.20 MB
+│    │       Tere Naina (7 Hours To Go) - 320kbps.mp3 => 7.23 MB
+│    │
+│    ├─── A Flying Jatt (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - AFJ - A Flying Jatt (Title Track).mp3 => 11.53 MB
+│    │       02 - AFJ - Toota Jo Kabhi Taara.mp3 => 12.61 MB
+│    │       03 - AFJ - Khair Mangda.mp3 => 10.80 MB
+│    │       04 - AFJ - Bhangra Pa.mp3 => 10.05 MB
+│    │       05 - AFJ - Beat Pe Booty.mp3 => 8.51 MB
+│    │       06 - AFJ - Raj Karega Khalsa.mp3 => 13.47 MB
+│    │
+│    ├─── A Scandall (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - A Scandal - Long Night.mp3 => 9.24 MB
+│    │       02 - A Scandal - Labon Se.mp3 => 8.85 MB
+│    │       03 - A Scandal - Labon Se 2.0.mp3 => 6.58 MB
+│    │
+│    ├─── Actor In Law (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - AIL - Dil Dancer.mp3 => 9.17 MB
+│    │       02 - AIL - Khudaya.mp3 => 9.72 MB
+│    │       03 - AIL - Actor In Law.mp3 => 7.82 MB
+│    │       04 - AIL - Funkaraan.mp3 => 7.49 MB
+│    │       05 - AIL - Actor In Law (Repsire).mp3 => 7.82 MB
+│    │
+│    ├─── Ae Dil Hai Mushkil (2016) 320Kbps [Ripped : 27/10/16]
+│    │
+│    │       01 - Ae Dil Hai Mushkil - Ae Dil Hai Mushkil.mp3 => 11.58 MB
+│    │       02 - Ae Dil Hai Mushkil - Bulleya.mp3 => 14.63 MB
+│    │       03 - Ae Dil Hai Mushkil - Channa Mereya.mp3 => 12.36 MB
+│    │       04 - Ae Dil Hai Mushkil - The Breakup Song.mp3 => 10.96 MB
+│    │       05 - Ae Dil Hai Mushkil - Cutiepie.mp3 => 10.15 MB
+│    │       06 - Ae Dil Hai Mushkil - Alizeh.mp3 => 12.09 MB
+│    │
+│    ├─── Ae Dil Hai Mushkil - Deluxe Edition (2016) 320Kbps [Ripped : 12/11/16]
+│    │
+│    │       01 - ADHMDE - Ae Dil Hai Mushkil.mp3 => 8.86 MB
+│    │       02 - ADHMDE - Bulleya.mp3 => 11.43 MB
+│    │       03 - ADHMDE - Channa Mereya.mp3 => 9.68 MB
+│    │       04 - ADHMDE - The Breakup Song.mp3 => 8.40 MB
+│    │       05 - ADHMDE - Cutiepie.mp3 => 7.89 MB
+│    │       06 - ADHMDE - Alizeh.mp3 => 9.31 MB
+│    │       07 - ADHMDE - Bulleya (Reprise).mp3 => 10.76 MB
+│    │       08 - ADHMDE - Channa Mereya (Unplugged).mp3 => 4.86 MB
+│    │       09 - ADHMDE - Aaj Jane Ki Zid Na Karo.mp3 => 5.59 MB
 │    │
 │    ├─── Airlift (2016) 320Kbps [Ripped : 15/02/16]
 │    │
@@ -9,6 +80,52 @@ MP3
 │    │       03 - Airlift - Mera Nachan Nu.mp3 => 8.83 MB
 │    │       04 - Airlift - Tu Bhoola Jise.mp3 => 10.70 MB
 │    │       05 - Airlift - Soch Na Sake (Version 2).mp3 => 11.07 MB
+│    │
+│    ├─── Akira (2016) 128Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Akira - Rajj Rajj Ke.mp3 => 4.71 MB
+│    │       02 - Akira - Purza.mp3 => 4.14 MB
+│    │       03 - Akira - Kehkasha Tu Meri.mp3 => 3.38 MB
+│    │       04 - Akira - Rajj Rajj Ke.mp3 => 6.07 MB
+│    │       05 - Akira - Baadal.mp3 => 6.60 MB
+│    │       06 - Akira - Rajj Rajj Ke (Remix).mp3 => 4.69 MB
+│    │
+│    ├─── Baar Baar Dekho (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - BBD - Kala Chashma.mp3 => 7.76 MB
+│    │       02 - BBD - Kho Gaye Hum Kahan.mp3 => 8.75 MB
+│    │       03 - BBD - Sau Aasmaan.mp3 => 9.58 MB
+│    │       04 - BBD - Dariya.mp3 => 8.94 MB
+│    │       05 - BBD - Nachde Ne Saare.mp3 => 8.05 MB
+│    │       06 - BBD - Teri Khair Mangdi.mp3 => 9.22 MB
+│    │
+│    ├─── Babuji Ek Ticket Bambai (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - BETB - Aankh Pe Chashma Daal Ke.mp3 => 8.34 MB
+│    │       02 - BETB - Bepanhaa Tum Ko Chahe (Version 1).mp3 => 11.92 MB
+│    │       03 - BETB - Tose Naina Ladey.mp3 => 9.81 MB
+│    │       04 - BETB - Dhokha Hai Dhokha Ishq Main.mp3 => 12.70 MB
+│    │       05 - BETB - Bepanhaa Tum Ko Chahe (Version 2).mp3 => 11.91 MB
+│    │       06 - BETB - Tose Naina Ladey (Remix).mp3 => 11.11 MB
+│    │
+│    ├─── Banjo (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Banjo - Bappa.mp3 => 7.59 MB
+│    │       02 - Banjo - Udan Choo.mp3 => 8.53 MB
+│    │       03 - Banjo - Rada.mp3 => 8.12 MB
+│    │       04 - Banjo - Pee Paa Ke.mp3 => 7.59 MB
+│    │       05 - Banjo - Reham-O-Karam.mp3 => 9.55 MB
+│    │
+│    ├─── Beiimaan Love (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Beiimaan Love - Rang Reza (Female Version).mp3 => 8.64 MB
+│    │       02 - Beiimaan Love - Main Adhoora.mp3 => 8.20 MB
+│    │       03 - Beiimaan Love - Pyaar De.mp3 => 9.31 MB
+│    │       04 - Beiimaan Love - Hug Me.mp3 => 8.54 MB
+│    │       05 - Beiimaan Love - Mar Gaye.mp3 => 6.25 MB
+│    │       06 - Beiimaan Love - Mere Peeche Hindustan.mp3 => 7.03 MB
+│    │       07 - Beiimaan Love - Rang Reza (Male Version).mp3 => 8.64 MB
+│    │       08 - Beiimaan Love - Mar Gaye (Punjabi Version).mp3 => 6.52 MB
 │    │
 │    ├─── Chalk N Duster (2016) 320Kbps [Ripped : 15/02/16]
 │    │
@@ -26,6 +143,32 @@ MP3
 │    │       06 - CK - Rafa Dafa.mp3 => 9.91 MB
 │    │       07 - CK - Single Chal Riya Hu Reprise.mp3 => 9.73 MB
 │    │
+│    ├─── Days Of Tafree (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Days Of Tafree - Jeeley Yeh Lamhe.mp3 => 10.02 MB
+│    │       02 - Days Of Tafree - Paarapaa.mp3 => 11.83 MB
+│    │       03 - Days Of Tafree - Main Hun Tu Ho.mp3 => 10.45 MB
+│    │
+│    ├─── Dear Zindagi (2016) 320Kbps [Ripped : 16/11/16]
+│    │
+│    │       01 - Dear Zindagi - Love You Zindagi.mp3 => 9.48 MB
+│    │       02 - Dear Zindagi - Tu Hi Hai.mp3 => 8.23 MB
+│    │       03 - Dear Zindagi - Taarefon Se.mp3 => 11.23 MB
+│    │       04 - Dear Zindagi - Lets Break Up.mp3 => 10.00 MB
+│    │       05 - Dear Zindagi - Just Go to Hell Dil.mp3 => 13.39 MB
+│    │       06 - Dear Zindagi - Love You Zindagi (Club Mix).mp3 => 8.81 MB
+│    │       07 - Dear Zindagi - Ae Zindagi Gale Laga Le (Take 1).mp3 => 7.14 MB
+│    │       08 - Dear Zindagi - Ae Zindagi Gale Laga Le (Take 2) -.mp3 => 7.71 MB
+│    │
+│    ├─── Dil Toh Deewana Hai (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - DTDH - Dil Toh Deewana Hai.mp3 => 10.83 MB
+│    │       02 - DTDH - Kyun Dil Ki Galiyo Mai.mp3 => 10.11 MB
+│    │       03 - DTDH - Hone Do Romance.mp3 => 11.55 MB
+│    │       04 - DTDH - Dhoop Khile Jab Tum Muskarao.mp3 => 10.42 MB
+│    │       05 - DTDH - Raat Bhar Tanha Raha.mp3 => 13.08 MB
+│    │       06 - DTDH - Mujhe Itna Bolna Hai.mp3 => 9.13 MB
+│    │
 │    ├─── Direct Ishq (2016) 320Kbps [Ripped : 15/02/16]
 │    │
 │    │       01 - DI - Direct Ishq (Title Track).mp3 => 10.91 MB
@@ -37,6 +180,58 @@ MP3
 │    │       07 - DI - Aan Baam.mp3 => 8.44 MB
 │    │       08 - DI - Mera Kissa (Unplugged).mp3 => 7.57 MB
 │    │
+│    ├─── Dishoom (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Dishoom - Sau Tarah Ke.mp3 => 9.89 MB
+│    │       02 - Dishoom - Toh Dishoom.mp3 => 10.06 MB
+│    │       03 - Dishoom - Jaaneman Aah.mp3 => 9.57 MB
+│    │       04 - Dishoom - Sau Tarah Ke (Revisited).mp3 => 9.94 MB
+│    │       05 - Dishoom - Jaaneman Aah (Film Version).mp3 => 9.59 MB
+│    │       06 - Dishoom - Ishqa.mp3 => 7.18 MB
+│    │       07 - Dishoom - Subha Hone Na De (Remix).mp3 => 12.19 MB
+│    │
+│    ├─── Do Lafzon Ki Kahani (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - DLKK - Kuch To Hai.mp3 => 10.13 MB
+│    │       02 - DLKK - Jeena Marna.mp3 => 11.52 MB
+│    │       03 - DLKK - Ankhiyaan.mp3 => 10.33 MB
+│    │       04 - DLKK - Jeena Marna (Female).mp3 => 11.52 MB
+│    │       05 - DLKK - Sehra.mp3 => 10.84 MB
+│    │
+│    ├─── Dongri Ka Raja (2016) 320Kbps [Ripped : 12/11/16]
+│    │
+│    │       01 - DKR - Naina.mp3 => 12.34 MB
+│    │       02 - DKR - Piya Tu Piya.mp3 => 14.57 MB
+│    │       03 - DKR - Madad Al Madad (Qawaali).mp3 => 16.06 MB
+│    │       04 - DKR - Choli Block Buster.mp3 => 10.65 MB
+│    │       05 - DKR - Choli Block Buster (Version 2).mp3 => 10.67 MB
+│    │
+│    ├─── Ek Kahani Julie Ki (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - EKJK - O Re Piya.mp3 => 11.41 MB
+│    │       02 - EKJK - Saiyaan Ve.mp3 => 8.61 MB
+│    │       03 - EKJK - Fannari.mp3 => 6.36 MB
+│    │       04 - EKJK - Julie (Title Track).mp3 => 9.62 MB
+│    │       05 - EKJK - Julie (Remix).mp3 => 4.25 MB
+│    │
+│    ├─── Fever (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 Bas Ek Baar (Fever).mp3 => 12.46 MB
+│    │       02 Besambhle (Fever).mp3 => 10.59 MB
+│    │       03 Mile Ho Tum (Fever).mp3 => 10.21 MB
+│    │       04 Kharaa Kharaa (Fever).mp3 => 7.60 MB
+│    │       05 Teri Yaad (Fever).mp3 => 13.74 MB
+│    │       06 Nahi Nahi (Fever).mp3 => 8.47 MB
+│    │       07 Kuch Is Tarah (Fever).mp3 => 12.95 MB
+│    │       08 Kya Kasak (Fever).mp3 => 11.80 MB
+│    │       09 Mujhme Kabhi (Fever).mp3 => 7.68 MB
+│    │       10 Look Look (Fever).mp3 => 7.04 MB
+│    │       11 D accord (Fever).mp3 => 9.93 MB
+│    │       12 Carried Away (Fever).mp3 => 7.54 MB
+│    │       13 Mile Ho Tum (Reprise) (Fever).mp3 => 10.21 MB
+│    │       14 Teri Yaad (Unplugged) (Fever).mp3 => 10.58 MB
+│    │       15 Dil Ashkon Mein (Fever).mp3 => 10.51 MB
+│    │
 │    ├─── Fitoor (2016) 320Kbps [Ripped : 15/02/16]
 │    │
 │    │       01 - Fitoor - Pashmina.mp3 => 11.34 MB
@@ -46,6 +241,58 @@ MP3
 │    │       05 - Fitoor - Tere Liye.mp3 => 10.87 MB
 │    │       06 - Fitoor - Rangaa Re (Hindi Version).mp3 => 11.56 MB
 │    │       07 - Fitoor - Rangaa Re (English Version).mp3 => 11.56 MB
+│    │
+│    ├─── Force 2 (2016) 320Kbps [Ripped : 28/10/16]
+│    │
+│    │       01 - Force 2 - Rang Laal.mp3 => 9.26 MB
+│    │       02 - Force 2 - O Janiya.mp3 => 10.65 MB
+│    │       03 - Force 2 - Ishaara.mp3 => 10.28 MB
+│    │       04 - Force 2 - Catch Me If U Can.mp3 => 10.64 MB
+│    │
+│    ├─── Freaky Ali (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Freaky Ali - Din Mein Karengey Jagrata.mp3 => 9.63 MB
+│    │       02 - Freaky Ali - Parinda Hai Parinda.mp3 => 10.14 MB
+│    │       03 - Freaky Ali - Ya Ali Murtaza (Qawwali).mp3 => 10.08 MB
+│    │
+│    ├─── Fuddu (2016) 320Kbps [Ripped : 15/10/16]
+│    │
+│    │       01 - Fuddu - Tum Tum Tum Ho (Punjabi Version).mp3 => 9.14 MB
+│    │       02 - Fuddu - Tu Zaroorat Nahi Tu Zaroori Hai.mp3 => 12.57 MB
+│    │       03 - Fuddu - Fuddu (Title Track).mp3 => 9.37 MB
+│    │       04 - Fuddu - Curves Mere Killerrr Killerrr.mp3 => 8.66 MB
+│    │       05 - Fuddu - Tum Tum Tum Ho.mp3 => 11.86 MB
+│    │       06 - Fuddu - Fuddu Ka Jalwa.mp3 => 8.50 MB
+│    │       07 - Fuddu - Aankhen Meri.mp3 => 12.30 MB
+│    │       08 - Fuddu - Chaar Din.mp3 => 10.95 MB
+│    │       09 - Fuddu - Dil Toh Hai Idiot.mp3 => 9.90 MB
+│    │       10 - Fuddu - Tu Zaroorat Nahi Tu Zaroori Hai (Hip Hop Version).mp3 => 11.04 MB
+│    │       11 - Fuddu - Tu Zaroorat Nahi Tu Zaroori Hai (Female  Version).mp3 => 12.83 MB
+│    │       12 - Fuddu - Tu Zaroorat Nahi Tu Zaroori Hai (Male  Version).mp3 => 12.83 MB
+│    │
+│    ├─── Great Grand Masti (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - GGM - Teri Kamar Ko.mp3 => 8.33 MB
+│    │       02 - GGM - Resham Ka Rumaal.mp3 => 7.38 MB
+│    │       03 - GGM - I Wanna Tera Ishq.mp3 => 8.11 MB
+│    │       04 - GGM - Lipstick Laga Ke.mp3 => 8.37 MB
+│    │
+│    ├─── Hai Apna Dil Toh Awara (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - HADTA - Chu Liya.mp3 => 10.79 MB
+│    │       02 - HADTA - Meheram Mere.mp3 => 11.21 MB
+│    │       03 - HADTA - Hai Apna Dil Toh Awara.mp3 => 10.41 MB
+│    │       04 - HADTA - Tere Ishq Ne Nachaaya.mp3 => 8.72 MB
+│    │       05 - HADTA - Bhool Saari Baat.mp3 => 10.17 MB
+│    │       06 - HADTA - Dil Ke Rahi.mp3 => 7.75 MB
+│    │
+│    ├─── Happy Bhag Jayegi (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - HBJ - Happy Oye.mp3 => 10.99 MB
+│    │       02 - HBJ - Gabru Ready to Mingle Ha.mp3 => 8.90 MB
+│    │       03 - HBJ - Aashiq Tera.mp3 => 11.52 MB
+│    │       04 - HBJ - Zara Si Dosti.mp3 => 12.77 MB
+│    │       05 - HBJ - Yaaram.mp3 => 10.37 MB
 │    │
 │    ├─── Ho Mann Jahaan (2016) 320Kbps [Ripped : 15/02/16]
 │    │
@@ -59,6 +306,21 @@ MP3
 │    │       08 - HMJ - Sarak Sarak.mp3 => 8.26 MB
 │    │       09 - HMJ - Shakar Wandaan.mp3 => 9.04 MB
 │    │       10 - HMJ - The Audition.mp3 => 3.16 MB
+│    │
+│    ├─── Ishq Click (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Ishq Click - Mana Tujhi Ko Khuda (Duet).mp3 => 9.57 MB
+│    │       02 - Ishq Click - Dhai Akhar.mp3 => 15.18 MB
+│    │       03 - Ishq Click - Ka Dekhun (Duet Version).mp3 => 8.46 MB
+│    │       04 - Ishq Click - Ishq Mein.mp3 => 10.70 MB
+│    │       05 - Ishq Click - Kuhu Bole.mp3 => 13.16 MB
+│    │       06 - Ishq Click - Mana Tujhi Ko Khuda.mp3 => 13.22 MB
+│    │       07 - Ishq Click - Mana Tujhi Ko Khuda (Solo Version).mp3 => 13.26 MB
+│    │       08 - Ishq Click - Ka Dekhun (Duet Version).mp3 => 19.64 MB
+│    │       09 - Ishq Click - Ka Dekhun.mp3 => 19.51 MB
+│    │       10 - Ishq Click - Abhi Ajnabee (Part 1).mp3 => 9.26 MB
+│    │       11 - Ishq Click - Abhi Ajnabee (Part 2).mp3 => 9.41 MB
+│    │       12 - Ishq Click - Ka Dekhun (Unplugged).mp3 => 19.51 MB
 │    │
 │    ├─── Ishq Forever (2016) 320Kbps [Ripped : 15/02/16]
 │    │
@@ -91,6 +353,14 @@ MP3
 │    │       10 - Jai Gangaajal - Sab Dhan Maati (Remix).mp3 => 9.36 MB
 │    │       11 - Jai Gangaajal - Sab Dhan Maati.mp3 => 9.32 MB
 │    │
+│    ├─── Janaan (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Janaan - Janaan (Title Track)).mp3 => 8.48 MB
+│    │       02 - Janaan - Janaan (Reprise).mp3 => 6.45 MB
+│    │       03 - Janaan - Shor Sharaba.mp3 => 8.25 MB
+│    │       04 - Janaan - Reid-i-Gul.mp3 => 11.50 MB
+│    │       05 - Janaan - Jhoom Le.mp3 => 8.57 MB
+│    │
 │    ├─── Jugni (2016) 320Kbps [Ripped : 16/02/16]
 │    │
 │    │       01 - Jugni - Jugni.mp3 => 10.40 MB
@@ -101,6 +371,29 @@ MP3
 │    │       06 - Jugni - Dilaan De Saudey.mp3 => 8.10 MB
 │    │       07 - Jugni - Lakhon Salaam.mp3 => 13.10 MB
 │    │
+│    ├─── Junooniyat (2016) 320Kbps [Ripped : None]
+│    │
+│    │       01 - Junooniyat - Mujhko Barsaat Bana Lo.mp3 => 10.72 MB
+│    │       02 - Junooniyat - Nachange Saari Raat.mp3 => 10.18 MB
+│    │       03 - Junooniyat - Ishqe Di Lat.mp3 => 13.12 MB
+│    │       04 - Junooniyat - Junooniyat.mp3 => 14.98 MB
+│    │       05 - Junooniyat - Pagalon Sa Naach.mp3 => 10.38 MB
+│    │       06 - Junooniyat - Tu Junooniyat (Climax).mp3 => 11.98 MB
+│    │
+│    ├─── Kabali (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Kabali - Jag Hai Ye Dabang Ka.mp3 => 7.78 MB
+│    │       02 - Kabali - Jadoo Rawan Rawan.mp3 => 8.55 MB
+│    │       03 - Kabali - Veeron Ki Bheed Men.mp3 => 6.33 MB
+│    │       04 - Kabali - Taare Saare Chhup Gae.mp3 => 9.19 MB
+│    │       05 - Kabali - Aag Hun Main.mp3 => 6.92 MB
+│    │
+│    ├─── Kahaani 2 (2016) 320Kbps [Ripped : 19/11/16]
+│    │
+│    │       01 - Kahaani 2 - Mehram.mp3 => 11.23 MB
+│    │       02 - Kahaani 2 - Lamhon Ke Rasgulle.mp3 => 8.34 MB
+│    │       03 - Kahaani 2 - Aaur Main Khush Hoon.mp3 => 9.32 MB
+│    │
 │    ├─── Kapoor & Sons (2016) 320Kbps [Ripped : 10/03/16]
 │    │
 │    │       01 - KAS - Kar Gayi Chull.mp3 => 7.93 MB
@@ -108,6 +401,13 @@ MP3
 │    │       03 - KAS - Buddhu Sa Mann.mp3 => 8.66 MB
 │    │       04 - KAS - Saathi Rey.mp3 => 11.15 MB
 │    │       05 - KAS - Lets Nacho.mp3 => 8.98 MB
+│    │
+│    ├─── Kerry On Kutton (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - KOK - Bham Bhole Pee Key.mp3 => 7.79 MB
+│    │       02 - KOK - Dheere Dheere.mp3 => 10.42 MB
+│    │       03 - KOK - Ranjjo Bhaiya.mp3 => 9.62 MB
+│    │       04 - KOK - Rita Rani.mp3 => 4.30 MB
 │    │
 │    ├─── Ki & Ka (2016) 320Kbps [Ripped : 10/03/16]
 │    │
@@ -125,6 +425,16 @@ MP3
 │    │       03 - KKHH3 - House Party.mp3 => 9.63 MB
 │    │       04 - KKHH3 - Kya Kool Hain Hum 3 (Title Track).mp3 => 9.83 MB
 │    │
+│    ├─── Love Day (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Love Days - Fiza Ye Khiza.mp3 => 9.39 MB
+│    │       02 - Love Days - Raat Saturday Ki Hai.mp3 => 7.92 MB
+│    │       03 - Love Days - Tararampam Chala (Dosti Song Child Version).mp3 => 5.37 MB
+│    │       04 - Love Days - Chui Mui Samjho Nako.mp3 => 8.97 MB
+│    │       05 - Love Days - Khawo Khujawo Batti Bhujawo.mp3 => 9.29 MB
+│    │       06 - Love Days - O Saheba.mp3 => 7.82 MB
+│    │       07 - Love Days - Lage Love Day.mp3 => 8.28 MB
+│    │
 │    ├─── Love Games (2016) 320Kbps [Ripped : 10/03/16]
 │    │
 │    │       01 - LG - Awargi.mp3 => 10.79 MB
@@ -134,6 +444,15 @@ MP3
 │    │       05 - LG - Aye Dil.mp3 => 10.22 MB
 │    │       06 - LG - Lock Him Up.mp3 => 7.09 MB
 │    │       07 - LG - Poison.mp3 => 5.45 MB
+│    │
+│    ├─── Love Ke Funday (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 Naina Shatir Bade (Love Ke Funday).mp3 => 9.24 MB
+│    │       02 Tere Bina Kudi Saada Jeena (Love Ke Funday).mp3 => 10.13 MB
+│    │       03 Ye Pyaar Hai (Love Ke Funday).mp3 => 10.12 MB
+│    │       04 Love Ke Funday (Love Ke Funday).mp3 => 9.35 MB
+│    │       05 Anmol Maska (Love Ke Funday).mp3 => 10.76 MB
+│    │       06 Ye Pyaar Hai (Unplugged) (Love Ke Funday).mp3 => 12.96 MB
 │    │
 │    ├─── Loveshhuda (2016) 320Kbps [Ripped : 17/02/16]
 │    │
@@ -149,6 +468,40 @@ MP3
 │    │       10 - LS - Total Talli (Trap Remix).mp3 => 8.94 MB
 │    │       11 - LS - Chitta Kukkad (Male).mp3 => 8.96 MB
 │    │
+│    ├─── Luv U Alia (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - LUA - Luv U Alia.mp3 => 11.72 MB
+│    │       02 - LUA - Sapne.mp3 => 9.82 MB
+│    │       03 - LUA - Sote Jaagte.mp3 => 5.60 MB
+│    │       04 - LUA - Kamakshi.mp3 => 8.44 MB
+│    │
+│    ├─── M.S. Dhoni (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - M.S. Dhoni - Besabriyaan.mp3 => 10.94 MB
+│    │       02 - M.S. Dhoni - Kaun Tujhe.mp3 => 10.40 MB
+│    │       03 - M.S. Dhoni - Jab Tak.mp3 => 7.82 MB
+│    │       04 - M.S. Dhoni - Phir Kabhi.mp3 => 12.15 MB
+│    │       05 - M.S. Dhoni - Parwah Nahin.mp3 => 10.45 MB
+│    │       06 - M.S. Dhoni - Jab Tak (Redux).mp3 => 9.53 MB
+│    │       07 - M.S. Dhoni - Padhoge Likhoge.mp3 => 8.33 MB
+│    │       08 - M.S. Dhoni - Har Gully Mein Dhoni Hai.mp3 => 10.50 MB
+│    │
+│    ├─── Madaari (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Madaari - Dama Dama Dam.mp3 => 8.82 MB
+│    │       02 - Madaari - Masoom Sa.mp3 => 15.54 MB
+│    │
+│    ├─── Majaz - Ae Gham-E-Dil Kya Karun (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Majaz - Teskin E Dil.mp3 => 16.60 MB
+│    │       02 - Majaz - Husn Ko Behijab.mp3 => 12.97 MB
+│    │       03 - Majaz - Dekhna Jazbe Mohabbat.mp3 => 14.25 MB
+│    │       04 - Majaz - Kuch Tujko Khabar (Male Version).mp3 => 14.33 MB
+│    │       05 - Majaz - Barbad Ae Tamana.mp3 => 15.02 MB
+│    │       06 - Majaz - Ae Gham-E-Dil (Title Song).mp3 => 20.61 MB
+│    │       07 - Majaz - Ye Mera Chaman.mp3 => 14.59 MB
+│    │       08 - Majaz - Chalo Re Sakhi.mp3 => 10.54 MB
+│    │
 │    ├─── Mastizaade (2016) 320Kbps [Ripped : 17/02/16]
 │    │
 │    │       01 - Mastizaade - Rom Rom Romantic.mp3 => 10.92 MB
@@ -156,6 +509,35 @@ MP3
 │    │       03 - Mastizaade - Dekhega Raja Trailer.mp3 => 9.34 MB
 │    │       04 - Mastizaade - Mastizaade.mp3 => 10.61 MB
 │    │       05 - Mastizaade - Kamina Hai Dil.mp3 => 9.77 MB
+│    │
+│    ├─── Mirzya (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Mirzya - Yeh Wadiyan Doodiyan Kohre Ki.mp3 => 1.88 MB
+│    │       02 - Mirzya - Mirzya.mp3 => 8.29 MB
+│    │       03 - Mirzya - Teen Gawah Hain Ishq Ke.mp3 => 11.29 MB
+│    │       04 - Mirzya - Mirza Se Darre Khuda.mp3 => 1.95 MB
+│    │       05 - Mirzya - Chakora.mp3 => 9.02 MB
+│    │       06 - Mirzya - Mera Mirza Sher Jawan.mp3 => 2.47 MB
+│    │       07 - Mirzya - Aave Re Hitchki.mp3 => 13.82 MB
+│    │       08 - Mirzya - Lahoo Luhaan Zameen Hui.mp3 => 2.37 MB
+│    │       09 - Mirzya - Hota Hai.mp3 => 12.34 MB
+│    │       10 - Mirzya - Puchh Na Pende Mamle.mp3 => 2.11 MB
+│    │       11 - Mirzya - Ek Nadi Thi.mp3 => 8.47 MB
+│    │       12 - Mirzya - Doli Re Doli.mp3 => 13.38 MB
+│    │       13 - Mirzya - Kaaga.mp3 => 7.13 MB
+│    │       14 - Mirzya - Phaa Paye Na Ishq Da.mp3 => 3.32 MB
+│    │       15 - Mirzya - Mirzya Theme (Broken Arrows).mp3 => 6.69 MB
+│    │
+│    ├─── Mohenjo Daro (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - MD - Mohenjo Mohenjo.mp3 => 15.02 MB
+│    │       02 - MD - Sindhu Ma.mp3 => 13.70 MB
+│    │       03 - MD - Sarsariya.mp3 => 14.58 MB
+│    │       04 - MD - Tu Hai.mp3 => 9.58 MB
+│    │       05 - MD - Whispers Of The Mind.mp3 => 10.21 MB
+│    │       06 - MD - Whispers Of The Heart.mp3 => 9.26 MB
+│    │       07 - MD - The Shimmer Of Sindhu.mp3 => 8.14 MB
+│    │       08 - MD - Lakh Lakh Thora.mp3 => 7.37 MB
 │    │
 │    ├─── Murari The Mad Gentleman (2016) 320Kbps [Ripped : 12/03/16]
 │    │
@@ -165,12 +547,52 @@ MP3
 │    │       04 - MTMG - Udi Udi.mp3 => 7.82 MB
 │    │       05 - MTMG - Udi Udi (Duet).mp3 => 8.62 MB
 │    │
+│    ├─── My Father Iqbal (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - MFI - Tere Naina Dil Mera.mp3 => 6.97 MB
+│    │       02 - MFI - Rang Gul.mp3 => 7.79 MB
+│    │       03 - MFI - Waqtey Fursat (Male Version).mp3 => 12.06 MB
+│    │       04 - MFI - Waqtey Fursat (Female Version).mp3 => 12.06 MB
+│    │       05 - MFI - Waqtey Fursat (Version 2).mp3 => 12.11 MB
+│    │
 │    ├─── Neerja (2016) 320Kbps [Ripped : 17/02/16]
 │    │
 │    │       01 - Neerja - Jeete Hain Chal.mp3 => 9.85 MB
 │    │       02 - Neerja - Aankhein Milayenge Darr Se.mp3 => 7.10 MB
 │    │       03 - Neerja - Gehra Ishq.mp3 => 8.25 MB
 │    │       04 - Neerja - Aisa Kyun Maa.mp3 => 8.75 MB
+│    │
+│    ├─── Pink (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Pink - Jeenay De Mujhe.mp3 => 9.57 MB
+│    │       02 - Pink - Kaari Kaari.mp3 => 15.26 MB
+│    │       03 - Pink - Tujhse Hi Hai Roshni.mp3 => 10.70 MB
+│    │       04 - Pink - Pink (Title Track).mp3 => 9.16 MB
+│    │
+│    ├─── Raaz Reboot (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - RR - Lo Maan Liya.mp3 => 9.79 MB
+│    │       02 - RR - Raaz Aankhein Teri.mp3 => 9.52 MB
+│    │       03 - RR - O Meri Jaan.mp3 => 9.08 MB
+│    │       04 - RR - Yaad Hai Na.mp3 => 8.16 MB
+│    │       05 - RR - Hummein Tummein Jo Tha.mp3 => 6.07 MB
+│    │       06 - RR - Yaad Hai Na (Unplugged).mp3 => 7.43 MB
+│    │       07 - RR - The Sound of Raaz.mp3 => 3.58 MB
+│    │
+│    ├─── Raman Raghav 2.0 (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - RR - Qatl-E-Aam.mp3 => 9.80 MB
+│    │       02 - RR - Behooda.mp3 => 7.71 MB
+│    │       03 - RR - Paani Ka Raasta.mp3 => 9.67 MB
+│    │       04 - RR - Raghav Theme.mp3 => 11.51 MB
+│    │       05 - RR - Qatl-E-Aam (Unplugged).mp3 => 9.18 MB
+│    │
+│    ├─── Rare & Dare Six-X (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - RADSX - Sajan Sawan.mp3 => 12.67 MB
+│    │       02 - RADSX - Banni.mp3 => 9.84 MB
+│    │       03 - RADSX - Soniye (Romantic Version).mp3 => 9.38 MB
+│    │       04 - RADSX - Soniye (Sad Version).mp3 => 4.65 MB
 │    │
 │    ├─── Rhythm (2016) 320Kbps [Ripped : 18/02/16]
 │    │
@@ -183,6 +605,17 @@ MP3
 │    │       07 - Rhythm - Fattey Chuck.mp3 => 10.44 MB
 │    │       08 - Rhythm - Do You Wanna Dance With Me (English).mp3 => 12.94 MB
 │    │
+│    ├─── Rock On 2 (2016) 320Kbps [Ripped : 01/10/16]
+│    │
+│    │       01 - Rock On 2 - Jaago.mp3 => 13.49 MB
+│    │       02 - Rock On 2 - Udja Re.mp3 => 12.37 MB
+│    │       03 - Rock On 2 - You Know What I Mean.mp3 => 8.03 MB
+│    │       04 - Rock On 2 - Manzar Naya.mp3 => 8.59 MB
+│    │       05 - Rock On 2 - Tere Mere Dil.mp3 => 9.83 MB
+│    │       06 - Rock On 2 - Woh Jahaan.mp3 => 13.24 MB
+│    │       07 - Rock On 2 - Hoi Kiw - Chalo Chalo.mp3 => 9.89 MB
+│    │       08 - Rock On 2 - Ishq Mastana.mp3 => 8.83 MB
+│    │
 │    ├─── Rocky Handsome (2016) 320Kbps [Ripped : 23/02/16]
 │    │
 │    │       01 - RH - Rock Tha Party.mp3 => 8.55 MB
@@ -192,6 +625,19 @@ MP3
 │    │       05 - RH - Titliyan.mp3 => 14.27 MB
 │    │       06 - RH - Aye Khuda (Duet).mp3 => 14.78 MB
 │    │
+│    ├─── Rustom (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Rustom - Tere Sang Yaara.mp3 => 11.60 MB
+│    │       02 - Rustom - Rustom Vahi.mp3 => 7.58 MB
+│    │       03 - Rustom - Tay Hai.mp3 => 9.21 MB
+│    │       04 - Rustom - Dekha Hazaro Dafaa.mp3 => 8.53 MB
+│    │       05 - Rustom - Dhal Jaun Main.mp3 => 11.71 MB
+│    │       06 - Rustom - Jab Tum Hote Ho.mp3 => 10.37 MB
+│    │       07 - Rustom - Rustom Vahi (Theme).mp3 => 3.69 MB
+│    │       08 - Rustom - Rustom Vahi (Marathi).mp3 => 7.62 MB
+│    │       09 - Rustom - Rustom Vahi (Male).mp3 => 7.59 MB
+│    │       10 - Rustom - Tere Bin Yaara (Reprise).mp3 => 9.15 MB
+│    │
 │    ├─── Saala Khadoos (2016) 320Kbps [Ripped : 18/02/16]
 │    │
 │    │       01 - SK - Saala Khadoos.mp3 => 10.61 MB
@@ -199,6 +645,16 @@ MP3
 │    │       03 - SK - Dil Ye Ladaku.mp3 => 8.63 MB
 │    │       04 - SK - Jagaa Khunnas.mp3 => 10.80 MB
 │    │       05 - SK - Dhuaan Hai Dhuaan Zindagi.mp3 => 8.19 MB
+│    │
+│    ├─── Saansein (2016) 320Kbps [Ripped : 27/10/16]
+│    │
+│    │       01 - Saansein - Mera Ishq.mp3 => 10.50 MB
+│    │       02 - Saansein - Tum Jo Mile.mp3 => 10.97 MB
+│    │       03 - Saansein - Tum Ho Mere.mp3 => 13.22 MB
+│    │       04 - Saansein - Dil Yeh Khamakha.mp3 => 12.08 MB
+│    │       05 - Saansein - Royi.mp3 => 13.88 MB
+│    │       06 - Saansein - Dil Yeh Khamakha (Reprise).mp3 => 12.10 MB
+│    │       07 - Saansein - Tum Jo Mile (Unplugged).mp3 => 10.95 MB
 │    │
 │    ├─── Sanam Re (2016) 320Kbps [Ripped : 18/02/16]
 │    │
@@ -232,6 +688,50 @@ MP3
 │    │       03 - SK - Ek Tu Hi Tu.mp3 => 12.06 MB
 │    │       04 - SK - Bum Mein Dum.mp3 => 7.96 MB
 │    │
+│    ├─── Shivaay (2016) 320Kbps [Ripped : 08/10/16]
+│    │
+│    │       01 - Shivaay - Bolo Har Har Har.mp3 => 11.74 MB
+│    │       02 - Shivaay - Darkhaast.mp3 => 14.72 MB
+│    │       03 - Shivaay - Raatein.mp3 => 9.06 MB
+│    │       04 - Shivaay - Tere Naal Ishqa.mp3 => 13.89 MB
+│    │       05 - Shivaay - Raatein (Reprise Version).mp3 => 8.96 MB
+│    │
+│    ├─── Shorgul (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Shorgul - Tere Bina.mp3 => 9.11 MB
+│    │       02 - Shorgul - Baroodi Hawa.mp3 => 10.49 MB
+│    │       03 - Shorgul - Mast Hawa.mp3 => 8.18 MB
+│    │       04 - Shorgul - Shaam O Seher.mp3 => 10.36 MB
+│    │
+│    ├─── Sultan (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Sultan - Baby Ko Bass Pasand Hai.mp3 => 10.08 MB
+│    │       02 - Sultan - Jag Ghoomeya.mp3 => 11.17 MB
+│    │       03 - Sultan - 440 Volt.mp3 => 10.65 MB
+│    │       04 - Sultan - Sultan.mp3 => 11.10 MB
+│    │       05 - Sultan - Sachi Muchi.mp3 => 9.56 MB
+│    │       06 - Sultan - Bulleya.mp3 => 14.04 MB
+│    │       07 - Sultan - Tuk Tuk.mp3 => 10.04 MB
+│    │       08 - Sultan - Jag Ghoomeya (Female).mp3 => 10.12 MB
+│    │       09 - Sultan - Rise Of Sultan.mp3 => 6.76 MB
+│    │       10 - Sultan - Baby Nu Bass Pasand Hai.mp3 => 10.20 MB
+│    │
+│    ├─── Sunshine Music Tours And Travels (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - SMTAT - Main Jee Raha Hoon.mp3 => 5.05 MB
+│    │       02 - SMTAT - Phir Se Udd Chala.mp3 => 9.64 MB
+│    │       03 - SMTAT - Chamdi Boys.mp3 => 6.52 MB
+│    │       04 - SMTAT - Na Ho Paayi.mp3 => 4.38 MB
+│    │       05 - SMTAT - No Sex Please (Remix).mp3 => 5.82 MB
+│    │
+│    ├─── Te3N (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Te3n - Haq Hai.mp3 => 12.90 MB
+│    │       02 - Te3n - Rootha.mp3 => 11.41 MB
+│    │       03 - Te3n - Kyun Re.mp3 => 8.47 MB
+│    │       04 - Te3n - Grahan.mp3 => 11.46 MB
+│    │       05 - Te3n - Kyun Re 2.mp3 => 8.50 MB
+│    │
 │    ├─── Teraa Surroor (2016) 320Kbps [Ripped : 21/02/16]
 │    │
 │    │       01 - TS - Main Woh Chaand.mp3 => 13.19 MB
@@ -242,6 +742,78 @@ MP3
 │    │       06 - TS - Ishq Samundar (Reloaded).mp3 => 10.67 MB
 │    │       07 - TS - Teri Yaad (Reprise).mp3 => 12.56 MB
 │    │
+│    ├─── The Legend Of Michael Mishra (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - TLOMM - Luv Letter.mp3 => 8.88 MB
+│    │       02 - TLOMM - Ishq Di Gaadi.mp3 => 9.23 MB
+│    │       03 - TLOMM - Phir Tu.mp3 => 9.51 MB
+│    │       04 - TLOMM - Nikhatoo.mp3 => 8.74 MB
+│    │       05 - TLOMM - Filam Shuru Hui Hai.mp3 => 7.24 MB
+│    │       06 - TLOMM - Nikhatoo (Remix).mp3 => 6.38 MB
+│    │
+│    ├─── Tum Bin 2 (2016) 320Kbps [Ripped : 22/10/16]
+│    │
+│    │       01 - Tum Bin 2 - Teri Fariyad.mp3 => 7.69 MB
+│    │       02 - Tum Bin 2 - Ishq Mubarak.mp3 => 11.89 MB
+│    │       03 - Tum Bin 2 - Dekh Lena.mp3 => 11.31 MB
+│    │       04 - Tum Bin 2 - Tum Bin.mp3 => 16.44 MB
+│    │       05 - Tum Bin 2 - Masta.mp3 => 9.40 MB
+│    │       06 - Tum Bin 2 - Dil Nawaziyaan.mp3 => 8.26 MB
+│    │       07 - Tum Bin 2 - Jaeger Bomb.mp3 => 9.07 MB
+│    │       08 - Tum Bin 2 - Teri Fariyad (Extended).mp3 => 24.81 MB
+│    │
+│    ├─── Tutak Tutak Tutiya (2016) 320Kbps [Ripped : 01/10/16]
+│    │
+│    │       01 - TTT - Rail Gaddi.mp3 => 9.09 MB
+│    │       02 - TTT - Chal Maar.mp3 => 10.30 MB
+│    │       03 - TTT - Tutak Tutak Tutiya.mp3 => 8.50 MB
+│    │       04 - TTT - Love The Way You Dance.mp3 => 8.73 MB
+│    │       05 - TTT - Chalte Chalte.mp3 => 10.95 MB
+│    │       06 - TTT - Suku Suku.mp3 => 8.61 MB
+│    │       07 - TTT - Ranga Re.mp3 => 12.81 MB
+│    │
+│    ├─── Udta Punjab (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Udta Punjab - Chitta Ve.mp3 => 11.67 MB
+│    │       02 - Udta Punjab - Ikk Kudi.mp3 => 9.97 MB
+│    │       03 - Udta Punjab - Ud-Daa Punjab.mp3 => 11.19 MB
+│    │       04 - Udta Punjab - Da Da Dasse.mp3 => 9.92 MB
+│    │       05 - Udta Punjab - Vadiya.mp3 => 10.96 MB
+│    │       06 - Udta Punjab - Hass Nache Le.mp3 => 11.01 MB
+│    │       07 - Udta Punjab - Ikk Kudi (Reprised Version).mp3 => 10.14 MB
+│    │
+│    ├─── Veerappan (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Veerappan - Muchhi Re.mp3 => 8.04 MB
+│    │       02 - Veerappan - Veer Veer Veerappan.mp3 => 9.67 MB
+│    │       03 - Veerappan - Khallas.mp3 => 7.80 MB
+│    │       04 - Veerappan - Veer Veer Veerappan.mp3 => 8.97 MB
+│    │
+│    ├─── Waarrior Savitri (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - WS - Shake My Booty.mp3 => 6.19 MB
+│    │       02 - WS - Jadon Teri Yaad.mp3 => 9.80 MB
+│    │       03 - WS - Night and Day.mp3 => 8.65 MB
+│    │       04 - WS - Chahat Kee Barish.mp3 => 8.23 MB
+│    │       05 - WS - Heavy Heavy.mp3 => 7.40 MB
+│    │
+│    ├─── Waiting (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - Waiting - Tu Hai Toh Main Hoon.mp3 => 8.65 MB
+│    │       02 - Waiting - Got My Eyes On You.mp3 => 7.07 MB
+│    │       03 - Waiting - Waiting for You.mp3 => 8.38 MB
+│    │       04 - Waiting - Zara Zara.mp3 => 10.34 MB
+│    │
+│    ├─── Wajah Tum Ho (2016) 320Kbps [Ripped : 06/11/16]
+│    │
+│    │       01 - Wajah Tum Ho - Wajah Tum Ho.mp3 => 12.46 MB
+│    │       02 - Wajah Tum Ho - Dil Ke Paas.mp3 => 11.56 MB
+│    │       03 - Wajah Tum Ho - Dil Mein Chhupa Loonga.mp3 => 13.86 MB
+│    │       04 - Wajah Tum Ho - Maahi Ve.mp3 => 15.14 MB
+│    │       05 - Wajah Tum Ho - Wajah Tum Ho (Solo Version).mp3 => 12.48 MB
+│    │       06 - Wajah Tum Ho - Dil Ke Paas (Unplugged).mp3 => 12.50 MB
+│    │       07 - Wajah Tum Ho - Wajah Tum Ho (Lounge).mp3 => 13.00 MB
+│    │
 │    ├─── Wazir (2016) 320Kbps [Ripped : 18/02/16]
 │    │
 │    │       01 - Wazir - Tere Bin.mp3 => 9.99 MB
@@ -250,6 +822,25 @@ MP3
 │    │       04 - Wazir - Khel Khel Mein.mp3 => 9.76 MB
 │    │       05 - Wazir - Tere Liye Mere Kareem.mp3 => 7.47 MB
 │    │       06 - Wazir - Wazir Theme.mp3 => 7.53 MB
+│    │
+│    ├─── Yea Toh Two Much Ho Gayaa (2016) 320Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - YTTMHG - Meri Aawaargi.mp3 => 8.85 MB
+│    │       02 - YTTMHG - Party Time.mp3 => 8.93 MB
+│    │       03 - YTTMHG - Hairat-E-Aashiqui.mp3 => 10.51 MB
+│    │       04 - YTTMHG - Chappan Taal.mp3 => 8.86 MB
+│    │       05 - YTTMHG - Tu Maula Hai.mp3 => 9.52 MB
+│    │
+│    ├─── Zindagi Kitni Haseen Hay (2016) 128Kbps [Ripped : 18/09/16]
+│    │
+│    │       01 - ZKHH - Zindagi Kitni Haseen Hay.mp3 => 4.34 MB
+│    │       02 - ZKHH - Udasiyaan (Rock Version).mp3 => 5.09 MB
+│    │       03 - ZKHH - Chulbul.mp3 => 3.99 MB
+│    │       04 - ZKHH - Kitni Baar.mp3 => 4.48 MB
+│    │       05 - ZKHH - Ali Ali.mp3 => 4.12 MB
+│    │       06 - ZKHH - Tootiya Tara.mp3 => 4.14 MB
+│    │       07 - ZKHH - Udasiyaan (Slow Version).mp3 => 3.46 MB
+│    │       08 - ZKHH - Zindagi Kitni Haseen Hay (Instrumental).mp3 => 4.72 MB
 ├── 2015
 │    │
 │    ├─── Abcd 2 (2015) 320Kbps [Ripped : 19/02/16]
@@ -2846,731 +3437,2133 @@ MP3
 │    │       04 - Toh Se Naina.mp3 => 7.06 MB
 │    │       05 - Rabba.mp3 => 7.11 MB
 │    │       06 - Delhi Delhi.mp3 => 6.13 MB
-└── 2012
-     │
-     ├─── 1920 - Evil Returns (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       01 - Apnaa Mujhe Tu Lagaa.mp3 => 11.27 MB
-     │       02 - Uska Hi Banana.mp3 => 10.20 MB
-     │       03 - Jaavedaan Hai.mp3 => 10.80 MB
-     │       04 - Khud Ko Tere.mp3 => 9.57 MB
-     │       05 - Majboor Tu Bhi Kahin.mp3 => 9.12 MB
-     │
-     ├─── 3 Bachelors (2012) [Ripped : 11/03/16]
-     │
-     │       01 - Dag Mag Dag Mag.mp3 => 5.30 MB
-     │       02 - Dhoom Dham.mp3 => 7.35 MB
-     │       03 - Shankeriya Shankeriya.mp3 => 5.72 MB
-     │
-     ├─── Agent Vinod (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       Agent Vinod - 01- I Will Do The Talking Tonight.mp3 => 8.59 MB
-     │       Agent Vinod - 02 - Pungi.mp3 => 8.29 MB
-     │       Agent Vinod - 03 - Raabta.mp3 => 7.58 MB
-     │       Agent Vinod - 04 - Agent Vinod (Theme).mp3 => 9.31 MB
-     │       Agent Vinod - 05 - I Will Do The Talking Tonight (Remix).mp3 => 8.85 MB
-     │       Agent Vinod - 06 - Raabta (Night In Motel).mp3 => 5.97 MB
-     │       Agent Vinod - 07 - Pungi (Remix).mp3 => 8.79 MB
-     │       Agent Vinod - 08 - Raabta (Kehte Hain Khuda Ne).mp3 => 8.88 MB
-     │       Agent Vinod - 09 - Raabta (Siyaah Raatein).mp3 => 8.81 MB
-     │       Agent Vinod - 10 - Dil Mera Muft Ka.mp3 => 8.95 MB
-     │       Agent Vinod - 11 - Dil Mera Muft Ka (Remix).mp3 => 7.36 MB
-     │
-     ├─── Agneepath (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       Agneepath - 01 - Chikni Chameli.mp3 => 9.27 MB
-     │       Agneepath - 02 - O Saiyyan.mp3 => 7.30 MB
-     │       Agneepath - 03 - Gun Gun Guna.mp3 => 7.52 MB
-     │       Agneepath - 04 - Shah Ka Rutba.mp3 => 9.01 MB
-     │       Agneepath - 05 - Abhi Mujh Mein Kahin.mp3 => 9.55 MB
-     │       Agneepath - 06 - Deva Shree Ganesha.mp3 => 9.88 MB
-     │
-     ├─── Aiyyaa (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       - Aiyyaa - 01 - Dreamum Wakeupum.mp3 => 6.64 MB
-     │       - Aiyyaa - 02 - Sava Dollar (Lavni).mp3 => 8.99 MB
-     │       - Aiyyaa - 03 - Aga Bai.mp3 => 8.34 MB
-     │       - Aiyyaa - 04 - Mahek Bhi.mp3 => 9.90 MB
-     │       - Aiyyaa - 05 - What To Do.mp3 => 10.15 MB
-     │       - Aiyyaa - 06 - Wakda.mp3 => 7.83 MB
-     │
-     ├─── Ajab Gazabb Love (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       Ajab Gazabb Love - 01 - Boom Boom (Lip Lock).mp3 => 8.62 MB
-     │       Ajab Gazabb Love - 02 - Tu.mp3 => 8.26 MB
-     │       Ajab Gazabb Love - 03 - Sun Soniye.mp3 => 8.51 MB
-     │       Ajab Gazabb Love - 04 - Nachde Punjabi.mp3 => 7.52 MB
-     │       Ajab Gazabb Love - 05 - Boom Boom (Remix).mp3 => 7.51 MB
-     │       Ajab Gazabb Love - 06 - Sun Soniye (Remix).mp3 => 7.30 MB
-     │
-     ├─── Bittoo Boss (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       Bittoo Boss - 01 - Bittoo Sab Ki Lega.mp3 => 7.43 MB
-     │       Bittoo Boss - 02 - Kaun Kenda.mp3 => 9.34 MB
-     │       Bittoo Boss - 03 - Kick Lag Gayi.mp3 => 9.90 MB
-     │       Bittoo Boss - 04 - Audi (Tenu Tak De).mp3 => 8.12 MB
-     │       Bittoo Boss - 05 - Kabootar.mp3 => 8.87 MB
-     │       Bittoo Boss - 06 - Mann Jaage.mp3 => 10.88 MB
-     │       Bittoo Boss - 07 - Kaun Kenda (Female).mp3 => 8.92 MB
-     │       Bittoo Boss - 08 - Kick Lag Gayi (Remix).mp3 => 9.78 MB
-     │
-     ├─── Blood Money (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       Blood Money - 01 - Chaahat.mp3 => 7.76 MB
-     │       Blood Money - 02 - Gunaah.mp3 => 8.79 MB
-     │       Blood Money - 03 - Teri Yaadon Se.mp3 => 8.18 MB
-     │       Blood Money - 04 - Jo Tere Sang.mp3 => 9.18 MB
-     │       Blood Money - 05 - Arzoo.mp3 => 7.71 MB
-     │       Blood Money - 06 - Gunaah (Unplugged).mp3 => 9.82 MB
-     │       Blood Money - 07 - Teri Yaadon Se (Remix).mp3 => 9.36 MB
-     │
-     ├─── Bol Bachchan (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       01 - Bol Bachchan.mp3 => 11.46 MB
-     │       02 - Chalao Na Naino Se.mp3 => 10.96 MB
-     │       03 - Nach Le Nach Le.mp3 => 8.67 MB
-     │       04 - Jab Se Dekhi Hai.mp3 => 7.48 MB
-     │       05 - Bol Bachchan (Remix).mp3 => 8.79 MB
-     │       06 - Nach Le Nach Le (Remix).mp3 => 10.40 MB
-     │       07 - Chalao Na Naino Se (Remix).mp3 => 8.90 MB
-     │       08 - Jab Se Dekhi Hai (Remix).mp3 => 7.85 MB
-     │
-     ├─── Bumboo (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       Bumboo - 01 - Life Saali Life.mp3 => 5.48 MB
-     │       Bumboo - 02 - Life Saali Life (Remix).mp3 => 6.15 MB
-     │       Bumboo - 03 - Pinky Punjabi.mp3 => 5.64 MB
-     │       Bumboo - 04 - Pinky (Reprise).mp3 => 5.94 MB
-     │       Bumboo - 05 - Lag Gaya Bumboo.mp3 => 6.58 MB
-     │
-     ├─── Chaalis Chauraasi (2012) [Ripped : 11/03/16]
-     │
-     │       chaalis-chauraasi01(www.SongsPK.info).mp3 => 6.42 MB
-     │       chaalis-chauraasi02(www.SongsPK.info).mp3 => 6.66 MB
-     │       chaalis-chauraasi03(www.SongsPK.info).mp3 => 4.12 MB
-     │       chaalis-chauraasi04(www.SongsPK.info).mp3 => 4.20 MB
-     │       chaalis-chauraasi05(www.SongsPK.info).mp3 => 4.20 MB
-     │
-     ├─── Chaar Din Ki Chandni (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       01 - Chandni O Meri Chandni.mp3 => 7.98 MB
-     │       02 - Kangna Tera Ni.mp3 => 6.55 MB
-     │       03 - Radha Rani.mp3 => 6.81 MB
-     │       04 - Dj Play That Song.mp3 => 8.30 MB
-     │       05 - O Meri Chandni (House Mix).mp3 => 5.57 MB
-     │       06 - Chaar Din Ki Chandni (Club Mix).mp3 => 8.65 MB
-     │
-     ├─── Chakradhaar (2012) [Ripped : 11/03/16]
-     │
-     │       Chakradhaar - 01 - Har Mod Pe.mp3 => 5.09 MB
-     │       Chakradhaar - 02 -  Bin Tere.mp3 => 5.03 MB
-     │       Chakradhaar - 03 - Billori.mp3 => 5.51 MB
-     │       Chakradhaar - 04 - Chakradhaar (Theme).mp3 => 2.08 MB
-     │
-     ├─── Chakravyuh (2012) 320Kbps [Ripped : 11/03/16]
-     │
-     │       Chakravyuh - 01 - Mehangai.mp3 => 12.02 MB
-     │       Chakravyuh - 02 - Chheen Ke Lenge.mp3 => 7.78 MB
-     │       Chakravyuh - 03 - Kunda Khol.mp3 => 7.45 MB
-     │       Chakravyuh - 04 - Aiyo Piyaji.mp3 => 11.69 MB
-     │       Chakravyuh - 05 - Tambai Sa Rang.mp3 => 6.92 MB
-     │       Chakravyuh - 06 - Paro.mp3 => 10.41 MB
-     │       Chakravyuh - 07 - Mehangai (Remix).mp3 => 8.44 MB
-     │       Chakravyuh - 08 - Chakravyuh Theme Song.mp3 => 7.67 MB
-     │
-     ├─── Chal Pichchur Banate Hain (2012) [Ripped : 12/03/16]
-     │
-     │       01 - Copy Paste.mp3 => 5.20 MB
-     │       02 - It'S Time.mp3 => 4.23 MB
-     │       03 - Bas Tu Hi (Male).mp3 => 5.65 MB
-     │       04 - Main Gaa Loon Zara.mp3 => 4.48 MB
-     │       05 - Baanwra Mann (Male).mp3 => 5.44 MB
-     │
-     ├─── Challo Driver (2012) [Ripped : 12/03/16]
-     │
-     │       01 - Challo Driver - Kudi Pataka Driver.mp3 => 3.98 MB
-     │       02 - Challo Driver - Dehle Pe Gulla.mp3 => 4.36 MB
-     │       03 - Challo Driver - Wakhre Wakhre Kaam.mp3 => 3.68 MB
-     │       04 - Challo Driver - Umangon Ka Karwan.mp3 => 4.63 MB
-     │       05 - Challo Driver - Ittefaq Hai Daastan Hai.mp3 => 3.97 MB
-     │
-     ├─── Chhodo Kal Ki Baatein (2012) [Ripped : 12/03/16]
-     │
-     │       01 - Dil Darpan (Film).mp3 => 5.85 MB
-     │       02 - Rum Me Gum.mp3 => 4.60 MB
-     │       03 - Atak Gaya.mp3 => 6.52 MB
-     │       04 - Kaam Kar.mp3 => 3.98 MB
-     │       05 - Chhodo Kal Ki Baatein.mp3 => 8.50 MB
-     │       06 - Rum Me Gum (Remix).mp3 => 6.05 MB
-     │       07 - Dil Darpan (Guitar Version).mp3 => 7.45 MB
-     │
-     ├─── Cigarette Ki Tarah (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       01 - Doorian.mp3 => 10.60 MB
-     │       02 - Hey Bhagwan.mp3 => 5.66 MB
-     │       03 - Mujhko Khud Se.mp3 => 12.31 MB
-     │       04 - Cigarette Ki Tarah.mp3 => 7.73 MB
-     │       05 - Ye Bata Do Piya.mp3 => 9.22 MB
-     │
-     ├─── Cocktail (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       Cocktail - 01 - Tum Hi Ho Bandhu.mp3 => 9.98 MB
-     │       Cocktail - 02 - Daaru Desi.mp3 => 8.66 MB
-     │       Cocktail - 03 - Yaariyaan.mp3 => 11.52 MB
-     │       Cocktail - 04 - Second Hand Jawaani.mp3 => 7.79 MB
-     │       Cocktail - 05 - Tera Naam Japdi Phiran.mp3 => 6.49 MB
-     │       Cocktail - 06 - Luttna (Saif Ul Malook).mp3 => 9.96 MB
-     │       Cocktail - 07 - Jugni.mp3 => 13.07 MB
-     │       Cocktail - 08 - Yaariyan (Reprise).mp3 => 8.89 MB
-     │       Cocktail - 09 - Luttna (Version 2).mp3 => 9.22 MB
-     │       Cocktail - 10 - Tera Naam Japdi Phiran (Version 2).mp3 => 8.46 MB
-     │
-     ├─── Daal Mein Kuch Kaala Hai! (2012) [Ripped : 12/03/16]
-     │
-     │       01 - Madam Malai.mp3 => 4.83 MB
-     │       02 - Vada Pav.mp3 => 4.69 MB
-     │       03 - Mumbai Money Hai.mp3 => 3.92 MB
-     │       04 - Apun Ki Life.mp3 => 4.96 MB
-     │       05 - Nadiya.mp3 => 5.32 MB
-     │
-     ├─── Dabangg 2 (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       01 - Dagabaaz Re - Dabangg 2.mp3 => 8.65 MB
-     │       02 - Pandeyjee Seeti - Dabangg 2.mp3 => 9.48 MB
-     │       03 - Fevicol Se - Dabangg 2.mp3 => 10.23 MB
-     │       04 - Saanson Ne - Dabangg 2.mp3 => 9.80 MB
-     │       05 - Dabangg Reloaded - Dabangg 2.mp3 => 8.39 MB
-     │       06 - Pandeyjee Seeti (Remix) - Dabangg 2.mp3 => 9.03 MB
-     │       07 - Fevicol Se (Remix) - Dabangg 2.mp3 => 8.90 MB
-     │       08 - Dabangg Reloaded (Remix) - Dabangg 2.mp3 => 7.83 MB
-     │
-     ├─── Dangerous Ishhq (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       01 - Tu Hi Rab Tu Hi Dua - Dangerous Ishq.mp3 => 14.40 MB
-     │       02 - Naina Re Tu Hi - Dangerous Ishq.mp3 => 10.85 MB
-     │       03 - Ishq Mein Ruswaa - Dangerous Ishq.mp3 => 8.44 MB
-     │       04 - Lagan Lagi More Piya - Dangerous Ishq.mp3 => 11.67 MB
-     │       05 - Umeed Hai - Dangerous Ishq.mp3 => 9.34 MB
-     │       06 - Naina Re Tu Hi (Reprise) - Dangerous Ishq.mp3 => 10.42 MB
-     │       07 - Tu Hi Rab Tu Hi Dua (R&B Remix) - Dangerous Ishq.mp3 => 9.20 MB
-     │       08 - Naina Re (Remix) - Dangerous Ishq.mp3 => 8.71 MB
-     │       09 - Ishq Mein Ruswaa (Remix) - Dangerous Ishq.mp3 => 5.46 MB
-     │       10 - Umeed (Remix) - Dangerous Ishq.mp3 => 7.16 MB
-     │       11 - Tu Hi Rab Tu Hi Dua (Reprise) - Dangerous Ishq.mp3 => 8.75 MB
-     │
-     ├─── Dard-E-Disco It&#039;s Rocking (2012) [Ripped : 12/03/16]
-     │
-     │       01 - Dard-E-Disco.mp3 => 6.82 MB
-     │       02 - Boka Chor.mp3 => 5.24 MB
-     │       03 - Cut To Disco.mp3 => 5.30 MB
-     │       04 - Mohabat.mp3 => 6.86 MB
-     │       05 - Disco King.mp3 => 5.53 MB
-     │       06 - Cut To Disco (Remix).mp3 => 4.64 MB
-     │       07 - Dard-E-Disco (Remix).mp3 => 5.99 MB
-     │
-     ├─── Department (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       Department - 01 - Dan Dan Cheeni Shoot Mix.mp3 => 8.38 MB
-     │       Department - 02 - Kammo.mp3 => 10.29 MB
-     │       Department - 03 - Theme Of Department (Ek Do Teen Chaar).mp3 => 7.04 MB
-     │       Department - 04 - Bad Boys.mp3 => 7.59 MB
-     │       Department - 05 - Mumbai Police.mp3 => 9.17 MB
-     │
-     ├─── Ek Main Aur Ekk Tu (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       01 - Ek Main Aur Ekk Tu.mp3 => 7.97 MB
-     │       02 - Gubbare.mp3 => 8.18 MB
-     │       03 - Aunty Ji.mp3 => 8.56 MB
-     │       04 - Aahatein.mp3 => 7.37 MB
-     │       05 - Kar Chalna Shuru Tu.mp3 => 8.87 MB
-     │       06 - Ek Main Aur Ekk Tu (Remix).mp3 => 7.91 MB
-     │       07 - Aahatein (Remix).mp3 => 6.63 MB
-     │
-     ├─── Ek Tha Tiger (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       Ek Tha Tiger - 01 - MashAllah.mp3 => 9.64 MB
-     │       Ek Tha Tiger - 02 - Laapata.mp3 => 8.43 MB
-     │       Ek Tha Tiger - 03 - Banjaara.mp3 => 8.79 MB
-     │       Ek Tha Tiger - 04 - Saiyaara.mp3 => 8.27 MB
-     │       Ek Tha Tiger - 05 - Tiger's Theme.mp3 => 6.26 MB
-     │       Ek Tha Tiger - 06 - MashAllah (Remix).mp3 => 6.17 MB
-     │       Ek Tha Tiger - 07 - Laapata (Remix).mp3 => 6.64 MB
-     │       Ek Tha Tiger - 08 - Banjaara (Remix).mp3 => 6.65 MB
-     │
-     ├─── Ekk Deewana Tha (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       01 - Ekk Deewana Tha - Kya Hai Mohabbat.mp3 => 7.98 MB
-     │       02 - Ekk Deewana Tha - Dost Hai (Girl I Loved You).mp3 => 7.56 MB
-     │       03 - Ekk Deewana Tha - Aromale (My Beloved).mp3 => 9.94 MB
-     │       04 - Ekk Deewana Tha - Hosanna.mp3 => 10.62 MB
-     │       05 - Ekk Deewana Tha - Phoolon Jaisi.mp3 => 9.56 MB
-     │       06 - Ekk Deewana Tha - Sharminda Hoon.mp3 => 12.70 MB
-     │       07 - Ekk Deewana Tha - Sunlo Zara.mp3 => 8.07 MB
-     │       08 - Ekk Deewana Tha - Zohra-Jabeen.mp3 => 5.59 MB
-     │       09 - Ekk Deewana Tha - Broken Promises.mp3 => 6.97 MB
-     │       10 - Ekk Deewana Tha - Moments In Kerala.mp3 => 4.50 MB
-     │       11 - Ekk Deewana Tha - Jessie's Land.mp3 => 5.24 MB
-     │       12 - Ekk Deewana Tha - Jessie's Driving Me Crazy.mp3 => 5.55 MB
-     │
-     ├─── English Vinglish (2012) 320Kbps [Ripped : 12/03/16]
-     │
-     │       01 - Badla Nazara (Female).mp3 => 8.50 MB
-     │       02 - Dhak Dhuk.mp3 => 9.34 MB
-     │       03 - Manhattan.mp3 => 8.54 MB
-     │       04 - Gustakh Dil.mp3 => 10.46 MB
-     │       05 - Navrai Majhi.mp3 => 8.15 MB
-     │       06 - Badla Nazara (Male).mp3 => 8.48 MB
-     │
-     ├─── Fatso (2012) [Ripped : 12/03/16]
-     │
-     │       01 - Fatso.mp3 => 3.95 MB
-     │       02 - Haye Re Re.mp3 => 4.25 MB
-     │       03 - Jiya Jaye Na.mp3 => 4.56 MB
-     │       04 - Very Sorry.mp3 => 3.40 MB
-     │
-     ├─── Ferrari Ki Sawaari (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       Ferrari Ki Sawaani - 01 - Maara Re.mp3 => 7.58 MB
-     │       Ferrari Ki Sawaani - 02 - Rusy's Theme.mp3 => 5.95 MB
-     │       Ferrari Ki Sawaani - 03 - Mala Jau De.mp3 => 8.77 MB
-     │       Ferrari Ki Sawaani - 04 - Ae Mere Mann.mp3 => 9.90 MB
-     │       Ferrari Ki Sawaani - 05 - Good Night.mp3 => 9.34 MB
-     │       Ferrari Ki Sawaani - 06 - Chal Ghoome (Ferrari Ki Sawaari).mp3 => 7.85 MB
-     │
-     ├─── From Sydney With Love (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       01 - From Sydney With Love - Feeling Love In Sydney.mp3 => 5.46 MB
-     │       02 - From Sydney With Love - Ho Jaayega.mp3 => 7.00 MB
-     │       03 - From Sydney With Love - Khatkaa Khatkaa.mp3 => 5.96 MB
-     │       04 - From Sydney With Love - Naino Ne.mp3 => 7.67 MB
-     │       05 - From Sydney With Love - Item Ye Hi Fi.mp3 => 4.97 MB
-     │       06 - From Sydney With Love - Pyaari Pyaari.mp3 => 6.10 MB
-     │       07 - From Sydney With Love - Ho Jaayega (Remix).mp3 => 7.31 MB
-     │       08 - From Sydney With Love - Feeling Love In Sydney (Remix).mp3 => 4.91 MB
-     │
-     ├─── Future To Bright Hai Ji (2012) [Ripped : 13/03/16]
-     │
-     │       01 - Future To Bright Hai.mp3 => 3.35 MB
-     │       02 - Akhiyan Nu Rehn.mp3 => 6.07 MB
-     │       03 - Tum Mere Sath Ho.mp3 => 10.04 MB
-     │       04 - Future To Bright Hai Ji.mp3 => 7.85 MB
-     │       05 - Akhiyan Nu Rehn De.mp3 => 6.14 MB
-     │
-     ├─── Gali Gali Chor Hai (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       01 - Gali Gali Chor Hai.mp3 => 14.10 MB
-     │       02 - Suno Suno.mp3 => 9.65 MB
-     │       03 - Chhanno.mp3 => 12.31 MB
-     │       04 - Gali Gali Chor Hai (Remix).mp3 => 7.71 MB
-     │       05 - Chhanno (Remix).mp3 => 9.90 MB
-     │       06 - Gali Gali Shor Hai.mp3 => 1.71 MB
-     │
-     ├─── Gangs Of Wasseypur (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       01 - Jiya Tu.mp3 => 10.80 MB
-     │       02 - Hunter.mp3 => 8.58 MB
-     │       03 - O Womaniya Live.mp3 => 8.99 MB
-     │       04 - Keh Ke Lunga.mp3 => 9.75 MB
-     │       05 - Bhoos.mp3 => 10.62 MB
-     │       06 - Ik Bagal.mp3 => 10.64 MB
-     │       07 - Bhaiyya.mp3 => 6.25 MB
-     │       08 - Tain Tain To To.mp3 => 8.21 MB
-     │       09 - Soona Kar Ke Gharwa.mp3 => 4.17 MB
-     │       10 - Aey Jawanon.mp3 => 3.98 MB
-     │       11 - Womaniya.mp3 => 10.14 MB
-     │       12 - Manmauji.mp3 => 4.86 MB
-     │       13 - Loonga Loonga.mp3 => 5.96 MB
-     │       14 - Humni Ke Chhodi Ke.mp3 => 7.74 MB
-     │
-     ├─── Gangs Of Wasseypur 2 (2012) [Ripped : 13/03/16]
-     │
-     │       01 - Chhi Chha Ledar.mp3 => 4.84 MB
-     │       02 - Kaala Rey.mp3 => 6.22 MB
-     │       03 - Electric Piya.mp3 => 4.69 MB
-     │       04 - Bahut Khoob.mp3 => 2.64 MB
-     │       05 - Taar Bijli.mp3 => 8.41 MB
-     │       06 - Aabroo.mp3 => 5.22 MB
-     │       07 - Perpendicular (Theme).mp3 => 2.82 MB
-     │       08 - Moora.mp3 => 6.07 MB
-     │       09 - Tunya.mp3 => 1.77 MB
-     │       10 - Bahut Khoob 8 Bit.mp3 => 3.68 MB
-     │       11 - Electric Piya - Fused.mp3 => 5.38 MB
-     │       12 - Moora - Morning.mp3 => 6.71 MB
-     │       13 - KKL.mp3 => 4.25 MB
-     │
-     ├─── Hate Story (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       Hate Story - 01 - Mahe Jaan.mp3 => 10.25 MB
-     │       Hate Story - 02 - Dil Kanch Sa.mp3 => 11.20 MB
-     │       Hate Story - 03 - Raat.mp3 => 10.13 MB
-     │       Hate Story - 04 - Mahe Jaan (Rock Version).mp3 => 9.16 MB
-     │       Hate Story - 05 - Raat (Remix).mp3 => 7.54 MB
-     │       Hate Story - 06 - Dil Kanch Sa (Heart N Soul).mp3 => 11.21 MB
-     │
-     ├─── Housefull 2 (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       Housefull 2 - 01 - Papa Toh Band Bajaye.mp3 => 8.41 MB
-     │       Housefull 2 - 02 - Anarkali Disco Chali.mp3 => 9.35 MB
-     │       Housefull 2 - 03 - Right Now Now.mp3 => 8.33 MB
-     │       Housefull 2 - 04 - Do U Know.mp3 => 10.71 MB
-     │       Housefull 2 - 05 - Anarkali Disco Chali (Hyper Mix).mp3 => 9.00 MB
-     │       Housefull 2 - 06 - Right Now Now (Remix).mp3 => 8.35 MB
-     │       Housefull 2 - 07 - Do U Know (Remix).mp3 => 10.42 MB
-     │       Housefull 2 - 08 - Anarkali Disco Chali (Remix).mp3 => 7.45 MB
-     │
-     ├─── Ishaqzaade (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       Ishaqzaade - 01 - Ishaqzaade.mp3 => 8.75 MB
-     │       Ishaqzaade - 02 - Chokra Jawaan.mp3 => 8.59 MB
-     │       Ishaqzaade - 03 - Pareshaan.mp3 => 8.28 MB
-     │       Ishaqzaade - 04 - Jhalla Wallah.mp3 => 9.15 MB
-     │       Ishaqzaade - 05 - Aafaton Ke Parinde.mp3 => 6.17 MB
-     │       Ishaqzaade - 06 - Pareshaan (Remix).mp3 => 8.16 MB
-     │       Ishaqzaade - 07 - Jhalla Wallah (Remix).mp3 => 7.46 MB
-     │
-     ├─── Ishkq In Paris (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       Ishkq In Paris - 01 - Its All About Tonight.mp3 => 7.63 MB
-     │       Ishkq In Paris - 02 - Saiyaan.mp3 => 10.64 MB
-     │       Ishkq In Paris - 03 - Jaane Bhi De (Duet).mp3 => 8.59 MB
-     │       Ishkq In Paris - 04 - Teri Choodiyan Da Crazy Crazy Sound.mp3 => 7.73 MB
-     │       Ishkq In Paris - 05 - Kudiye Di Kurti.mp3 => 8.70 MB
-     │       Ishkq In Paris - 06 - Jaane Bhi De.mp3 => 8.59 MB
-     │
-     ├─── Jab Tak Hai Jaan (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       Jab Tak Hai Jaan - 01 - Challa.mp3 => 10.90 MB
-     │       Jab Tak Hai Jaan - 02 - Saans.mp3 => 10.52 MB
-     │       Jab Tak Hai Jaan - 03 - Ishq Shava.mp3 => 9.26 MB
-     │       Jab Tak Hai Jaan - 04 - Heer.mp3 => 10.22 MB
-     │       Jab Tak Hai Jaan - 05 - Jiya Re.mp3 => 10.43 MB
-     │       Jab Tak Hai Jaan - 06 - Jab Tak Hai Jaan.mp3 => 7.45 MB
-     │       Jab Tak Hai Jaan - 07 - Saans (Reprise).mp3 => 4.06 MB
-     │       Jab Tak Hai Jaan - 08 - Ishq Dance.mp3 => 7.32 MB
-     │       Jab Tak Hai Jaan - 09 - Jab Tak Hai Jaan - The Poem.mp3 => 4.52 MB
-     │
-     ├─── Jannat 2 (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       Jannat 2 - 01 - Tu Hi Mera.mp3 => 8.52 MB
-     │       Jannat 2 - 02 - Jannat 2 - Tera Deedar Hua.mp3 => 10.79 MB
-     │       Jannat 2 - 03 - Tujhe Sochta Hoon.mp3 => 9.77 MB
-     │       Jannat 2 - 04 - Rab Ka Shukrana.mp3 => 9.33 MB
-     │       Jannat 2 - 05 - Jannatein Kahan.mp3 => 7.15 MB
-     │       Jannat 2 - 06 - Sang Hoon Tere.mp3 => 8.27 MB
-     │       Jannat 2 - 07 - Jannatein Kahan (Power Ballad).mp3 => 8.46 MB
-     │       Jannat 2 - 08 - Tera Deedar Hua (From The Heart).mp3 => 10.75 MB
-     │       Jannat 2 - 09 - Rab Ka Shukrana (Reprise).mp3 => 8.65 MB
-     │
-     ├─── Jeena Hai Toh Thok Daal (2012) [Ripped : 13/03/16]
-     │
-     │       01 - Palang Tod Hai Tere Jawani.mp3 => 5.77 MB
-     │       02 - Tees Uthee Dil Mein.mp3 => 6.32 MB
-     │       03 - Ankhiya Mila Ke Channa.mp3 => 5.84 MB
-     │       04 - Jeena Hai Toh Thok Daal.mp3 => 3.64 MB
-     │       05 - Kahiya Se Jogali Gullackwa.mp3 => 10.05 MB
-     │       06 - Palang Tod Hai Tere Jawani (Remix).mp3 => 5.27 MB
-     │       07 - Ankhiya Mila Ke Channa (Unplugged).mp3 => 4.94 MB
-     │
-     ├─── Jism - 2 (2012) 320Kbps [Ripped : 13/03/16]
-     │
-     │       01 - Jism 2 - Abhi Abhi (Male).mp3 => 9.96 MB
-     │       02 - Jism 2 - Yeh Kasoor.mp3 => 9.97 MB
-     │       03 - Jism 2 - Maula.mp3 => 8.88 MB
-     │       04 - Jism 2 - Ye Jism.mp3 => 6.60 MB
-     │       05 - Jism 2 - Darta Hoon (Adhoora).mp3 => 9.53 MB
-     │       06 - Jism 2 - Abhi Abhi (Duet) Hum To Haare (Abhi Abhi).mp3 => 9.96 MB
-     │       07 - Jism 2 - Hey Walla.mp3 => 6.83 MB
-     │
-     ├─── Jodi Breakers (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       Jodi Breakers - 01 - Kunwara.mp3 => 7.80 MB
-     │       Jodi Breakers - 02 - Bipasha.mp3 => 8.57 MB
-     │       Jodi Breakers - 03 - Darmiyaan.mp3 => 9.82 MB
-     │       Jodi Breakers - 04 - Mujhko Teri Zaroorat Hai.mp3 => 9.50 MB
-     │       Jodi Breakers - 05 - Jab Main Tumhare Saath Hun.mp3 => 8.94 MB
-     │       Jodi Breakers - 06 - Darmiyaan (Reprise).mp3 => 4.16 MB
-     │       Jodi Breakers - 07 - Bipasha (Remix).mp3 => 8.62 MB
-     │       Jodi Breakers - 08 - Mujhko Teri Zaroorat Hai (Remix).mp3 => 8.54 MB
-     │
-     ├─── Joker (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       01 - Joker - Kafirana.mp3 => 9.58 MB
-     │       02 - Joker - Jugnu.mp3 => 8.08 MB
-     │       03 - Joker - Sing Raja.mp3 => 7.45 MB
-     │       04 - Joker - Yeh Joker.mp3 => 9.00 MB
-     │       05 - Joker - Tears of Joker.mp3 => 6.55 MB
-     │       06 - Joker - Alien Arrival.mp3 => 5.57 MB
-     │
-     ├─── Kahaani (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       Kahaani - 01 - Aami Shotti Bolchi.mp3 => 6.60 MB
-     │       Kahaani - 02 - Piya Tu Kaahe Rootha Re.mp3 => 8.99 MB
-     │       Kahaani - 03 - Kahaani.mp3 => 7.91 MB
-     │       Kahaani - 04 - Tore Bina.mp3 => 10.66 MB
-     │       Kahaani - 05 - Kahani (Female).mp3 => 7.54 MB
-     │       Kahaani - 06 - Ekla Cholo Re.mp3 => 9.30 MB
-     │
-     ├─── Kamaal Dhamaal Malamaal (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       01 - Dariya Ho.mp3 => 7.96 MB
-     │       02 - Desi Mem.mp3 => 7.59 MB
-     │       03 - Zor Naache.mp3 => 7.80 MB
-     │       04 - Ishq Ki Dafli Baje.mp3 => 6.84 MB
-     │       05 - Ringa Ringa.mp3 => 8.00 MB
-     │       06 - Kamaal Dhamaal Malamaal (Theme).mp3 => 2.55 MB
-     │       07 - Desi Mem (Remix).mp3 => 7.72 MB
-     │       08 - Dariya Ho (Remix).mp3 => 7.39 MB
-     │       09 - Ringa Ringa (Remix).mp3 => 7.14 MB
-     │
-     ├─── Khiladi 786 (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       Khiladi 786 - 01 - Lonely.mp3 => 7.77 MB
-     │       Khiladi 786 - 02 - Balma.mp3 => 7.16 MB
-     │       Khiladi 786 - 03 - Long Drive.mp3 => 8.39 MB
-     │       Khiladi 786 - 04 - Sari Sari Raat.mp3 => 10.27 MB
-     │       Khiladi 786 - 05 - Hookah Bar.mp3 => 7.96 MB
-     │       Khiladi 786 - 06 - Khiladi (Title Track).mp3 => 7.96 MB
-     │       Khiladi 786 - 07 - Tu Hoor Pari.mp3 => 10.08 MB
-     │       Khiladi 786 - 08 - Lonely (Remix).mp3 => 7.57 MB
-     │       Khiladi 786 - 09 - Hookah Bar (Remix).mp3 => 6.36 MB
-     │       Khiladi 786 - 10 - Long Drive (Bhangra Mix).mp3 => 6.10 MB
-     │       Khiladi 786 - 11 - Balma (Remix).mp3 => 8.43 MB
-     │       Khiladi 786 - 12 - Khiladi (Remix).mp3 => 7.63 MB
-     │
-     ├─── Kismet Love Paisa Dilli (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       Kismet Love Paisa Dilli -  01 - Dhishkiyaon.mp3 => 8.97 MB
-     │       Kismet Love Paisa Dilli -  02 - Appy Budday (Videshi).mp3 => 6.79 MB
-     │       Kismet Love Paisa Dilli -  03 - Jugaad.mp3 => 9.70 MB
-     │       Kismet Love Paisa Dilli -  04 - Don'T Fuff My Mind.mp3 => 7.63 MB
-     │       Kismet Love Paisa Dilli -  05 - Appy Budday (Desi).mp3 => 5.48 MB
-     │       Kismet Love Paisa Dilli -  06 - Don'T Fuff My Mind (Remix).mp3 => 6.57 MB
-     │
-     ├─── Kyaa Super Kool Hain Hum (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       01 - Kya Super Kool Hain Hum - Dil Garden Garden Ho Gaya.mp3 => 6.02 MB
-     │       02 - Kya Super Kool Hain Hum - Shirt Da Button.mp3 => 12.12 MB
-     │       03 - Kya Super Kool Hain Hum - Hum Toh Hain Cappuccino (U.P. - Bihar Lootne).mp3 => 10.31 MB
-     │       04 - Kya Super Kool Hain Hum - Volume High Karle.mp3 => 6.45 MB
-     │       05 - Kya Super Kool Hain Hum - Shirt Da Button (Version 2).mp3 => 11.91 MB
-     │       06 - Kya Super Kool Hain Hum - Dil Garden Garden Ho Gaya (Remix).mp3 => 6.48 MB
-     │       07 - Kya Super Kool Hain Hum - Volume High Karle (Remix).mp3 => 6.96 MB
-     │
-     ├─── Le Gaya Saddam (2012) [Ripped : 14/03/16]
-     │
-     │       01 - Dhin Chak Tak Dhin.mp3 => 8.22 MB
-     │       02 - Maula Maula.mp3 => 5.91 MB
-     │       03 - Bill Gates Ki Poti.mp3 => 6.78 MB
-     │       04 - Ye Le Ye Le.mp3 => 3.68 MB
-     │       05 - Le Gaya Re Saddam.mp3 => 3.71 MB
-     │       06 - Jugni Jugni.mp3 => 4.75 MB
-     │       07 - Madmast Nigahein.mp3 => 5.05 MB
-     │
-     ├─── Life Ki Toh Lag Gayi (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       Life Ki Toh Lag Gayi - 01 - Deboshree.mp3 => 7.99 MB
-     │       Life Ki Toh Lag Gayi - 02 - Galiyan.mp3 => 9.39 MB
-     │       Life Ki Toh Lag Gayi - 03 - Life Ki Toh Lag Gayi.mp3 => 8.08 MB
-     │       Life Ki Toh Lag Gayi - 04 - Haryana Ka Sher.mp3 => 5.89 MB
-     │       Life Ki Toh Lag Gayi - 05 - Zindagi.mp3 => 2.03 MB
-     │       Life Ki Toh Lag Gayi - 06 - Saja E Maut.mp3 => 1.44 MB
-     │       Life Ki Toh Lag Gayi - 07 - Haryana Ka Sher (Remix).mp3 => 5.26 MB
-     │       Life Ki Toh Lag Gayi - 08 - Mumbai Lifeline (Instrumental).mp3 => 3.10 MB
-     │       Life Ki Toh Lag Gayi - 09 - Character Theme (Instrumental).mp3 => 1.81 MB
-     │
-     ├─── London Paris New York (2012) [Ripped : 14/03/16]
-     │
-     │       London Paris New York - 01 - London Paris New York.mp3 => 4.31 MB
-     │       London Paris New York - 02 - Voh Dekhnay Mein.mp3 => 5.14 MB
-     │       London Paris New York - 03 - Ting Rang.mp3 => 4.79 MB
-     │       London Paris New York - 04 - Thehree Si Zindagi.mp3 => 5.81 MB
-     │       London Paris New York - 05 - Oo Lala.mp3 => 5.32 MB
-     │       London Paris New York - 06 - Aaja.mp3 => 4.37 MB
-     │       London Paris New York - 07 - Voh Dekhnay mein (Female Acoustic Ver).mp3 => 1.56 MB
-     │
-     ├─── Luv Shuv Tey Chicken Khurana (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       01 - KikliKalerdi.mp3 => 7.64 MB
-     │       02 - Motorwada.mp3 => 8.17 MB
-     │       03 - Luv Shuv Tey Chicken Khurana.mp3 => 8.23 MB
-     │       04 - Luni Hasi (Female Version).mp3 => 9.14 MB
-     │       05 - Makkhan Malai.mp3 => 8.21 MB
-     │       06 - Farukha Baadi.mp3 => 8.98 MB
-     │       07 - Luv Shuv Tey Chicken Khurana Theme.mp3 => 5.18 MB
-     │       08 - Luni hasi (Male Version).mp3 => 7.02 MB
-     │       09 - KikliKalerdi (Punjabi Version).mp3 => 7.64 MB
-     │
-     ├─── Makkhi (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       Makkhi - 01 - Are Are Are.mp3 => 7.86 MB
-     │       Makkhi - 02 - Thoda Hans Ke.mp3 => 7.71 MB
-     │       Makkhi - 03 - Naam Apun Ka Jaani.mp3 => 8.90 MB
-     │       Makkhi - 04 - Lava Lava.mp3 => 7.30 MB
-     │       Makkhi - 05 - Sapnon Ki Ek.mp3 => 5.34 MB
-     │       Makkhi - 06 - Naam Apun Ka Jaani (Remix).mp3 => 8.13 MB
-     │
-     ├─── Married 2 America (2012) [Ripped : 14/03/16]
-     │
-     │       Married To America - 01 - O Pardesi.mp3 => 3.08 MB
-     │       Married To America - 02 - Dil Ki Itni Kahani Hai.mp3 => 5.85 MB
-     │       Married To America - 03 - Sanjh Laja Gayi.mp3 => 4.12 MB
-     │       Married To America - 04 - Haadson Mein.mp3 => 7.18 MB
-     │       Married To America - 05 - Rabba Re.mp3 => 6.20 MB
-     │       Married To America - 06 - Dil Ki Itni Kahani Hai (Sad Version).mp3 => 3.11 MB
-     │
-     ├─── Maximum (2012) 320Kbps [Ripped : 14/03/16]
-     │
-     │       01 - Maximum - Aa Ante Amalapuram.mp3 => 9.11 MB
-     │       02 - Maximum - Maan Qunto Maula.mp3 => 8.71 MB
-     │       03 - Maximum - Aaja Meri Jaan.mp3 => 9.12 MB
-     │       04 - Maximum - Sutta.mp3 => 9.01 MB
-     │       05 - Maximum - Ya Maula.mp3 => 15.03 MB
-     │       06 - Maximum - Namani Shamishaan.mp3 => 5.85 MB
-     │
-     ├─── Mr. Bhatti On Chutti (2012) [Ripped : 14/03/16]
-     │
-     │       01 - Good Boys Bad Boys.mp3 => 5.30 MB
-     │       02 - Mr. Bhatti On Chutti.mp3 => 6.24 MB
-     │       03 - Balle Balle.mp3 => 5.43 MB
-     │       04 - Pani Pani.mp3 => 4.00 MB
-     │       05 - Bhatti Is Gonna Get Ya.mp3 => 3.07 MB
-     │
-     ├─── Myoho (2012) [Ripped : 15/03/16]
-     │
-     │       Myoho - 01 - Haq Ali Da.mp3 => 3.96 MB
-     │       Myoho - 02 - Saathiya.mp3 => 6.98 MB
-     │       Myoho - 03 - Naag Lapete.mp3 => 5.14 MB
-     │       Myoho - 04 - Vande Mataram.mp3 => 5.31 MB
-     │       Myoho - 05 - Boyega.mp3 => 4.77 MB
-     │       Myoho - 06 - Naag Lapete (Remix).mp3 => 6.15 MB
-     │       Myoho - 07 - Myoho Theme (Remix).mp3 => 5.21 MB
-     │
-     ├─── OMG Oh My God! (2012) [Ripped : 15/03/16]
-     │
-     │       Oh My God - 01 - Go Go Govinda.mp3 => 5.96 MB
-     │       Oh My God - 02 - Go Go Govinda (Reprise).mp3 => 5.93 MB
-     │
-     ├─── Players (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       Players - 01 - Jis Jagah Pe Khatam.mp3 => 8.18 MB
-     │       Players - 02 - Kyun Dooriyan (Jhoom Jhoom Ta Ja).mp3 => 10.05 MB
-     │       Players - 03 - Ho Gayi Tun.mp3 => 7.79 MB
-     │       Players - 04 - Buddhi Do Bhagwaan (Charlie's Song).mp3 => 9.59 MB
-     │       Players - 05 - Dil Ye Bekarar Kyun Hai.mp3 => 8.53 MB
-     │       Players - 06 - Kyun Dooriyan (Jhoom Jhoom Ta Hun Main).mp3 => 9.19 MB
-     │       Players - 07 - Dil Ye Bekarar Kyun Hai (Reprise).mp3 => 10.61 MB
-     │       Players - 08 - Jhoom Jhoom Ta Hun Main (Film Version).mp3 => 9.78 MB
-     │       Players - 09 - Jis Jagah Pe Khatam (Remix).mp3 => 6.83 MB
-     │       Players - 10 - Dil Ye Bekarar Kyun Hai (Remix).mp3 => 10.10 MB
-     │
-     ├─── Qasam Se Qasam Se (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       01 - Pankh Lage.mp3 => 10.97 MB
-     │       02 - Rokde Ki Maya.mp3 => 9.46 MB
-     │       03 - Zindagi Kahe Rahi Hain.mp3 => 9.09 MB
-     │       04 - Bolne Mein Kya Jaata Hain.mp3 => 8.46 MB
-     │       05 - Mumkin Nahin.mp3 => 6.84 MB
-     │       06 - Tum Kahan Ho.mp3 => 10.65 MB
-     │       07 - Qasam Se Qasam Se.mp3 => 9.33 MB
-     │       08 - Har Varak.mp3 => 9.23 MB
-     │       09 - Meethi Yaadein.mp3 => 14.11 MB
-     │       10 - Tujhe Paya.mp3 => 9.75 MB
-     │       11 - Mumkin (Sad Version).mp3 => 4.87 MB
-     │       12 - Meethi Yaadein (Remix).mp3 => 10.30 MB
-     │
-     ├─── Qayamat Hi Qayamat (2012) [Ripped : 15/03/16]
-     │
-     │       01 - Nakhralo.mp3 => 4.69 MB
-     │       02 - Janam Janam.mp3 => 5.59 MB
-     │       03 - Bichchuda.mp3 => 4.09 MB
-     │       04 - Teri Ye Daphli.mp3 => 6.11 MB
-     │       05 - Nazar Se Nazar.mp3 => 4.91 MB
-     │       06 - Raja Se Kar Le Pyar.mp3 => 5.89 MB
-     │
-     ├─── Raaz 3 (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       Raaz 3 - 01 - Deewana Kar Raha Hai.mp3 => 10.81 MB
-     │       Raaz 3 - 02 - Zindagi Se.mp3 => 9.00 MB
-     │       Raaz 3 - 03 - Rafta Rafta.mp3 => 9.08 MB
-     │       Raaz 3 - 04 - Oh My God.mp3 => 9.95 MB
-     │       Raaz 3 - 05 - Kya Raaz Hai.mp3 => 7.55 MB
-     │       Raaz 3 - 06 - Khayalon Mein.mp3 => 8.65 MB
-     │
-     ├─── Rakhtbeej (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       Rakhtbeej - 01 - Lattoo.mp3 => 10.09 MB
-     │       Rakhtbeej - 02 - Itni Bhi Main Buri Nahi.mp3 => 7.59 MB
-     │       Rakhtbeej - 03 - Rakhtbeej.mp3 => 8.56 MB
-     │       Rakhtbeej - 04 - Adha Gila.mp3 => 8.85 MB
-     │       Rakhtbeej - 05 - Naina Hue Banwre.mp3 => 12.85 MB
-     │       Rakhtbeej - 06 - Bolbala.mp3 => 8.94 MB
-     │       Rakhtbeej - 07 - Adha Gila (Sad Version).mp3 => 2.07 MB
-     │       Rakhtbeej - 08 - Bolbala.mp3 => 9.24 MB
-     │
-     ├─── Rush (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       Rush - 01 - Chup Chup Ke (Film Version).mp3 => 7.21 MB
-     │       Rush - 02 - Fukraa.mp3 => 5.31 MB
-     │       Rush - 03 - Mumkin Nahin.mp3 => 8.26 MB
-     │       Rush - 04 - O Re Khuda.mp3 => 8.12 MB
-     │       Rush - 05 - Rab Ka Junoon.mp3 => 7.06 MB
-     │       Rush - 06 - Chup Chup Ke.mp3 => 7.19 MB
-     │       Rush - 07 - Hote Hote.mp3 => 6.57 MB
-     │
-     ├─── Sadda Adda (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       Sadda Adda - 01 - Sarphira.mp3 => 7.01 MB
-     │       Sadda Adda - 02 - Sadda Adda Acoustic.mp3 => 7.16 MB
-     │       Sadda Adda - 03 - Dilli Ki Billi.mp3 => 6.32 MB
-     │       Sadda Adda - 04 - Aao Saaf Karein.mp3 => 5.22 MB
-     │       Sadda Adda - 05 - Sadda Adda.mp3 => 5.45 MB
-     │       Sadda Adda - 06 - Sarphira Lounge Mix.mp3 => 7.64 MB
-     │       Sadda Adda - 07 - Dilli Ki Billi Remix.mp3 => 7.03 MB
-     │       Sadda Adda - 08 - Dosti.mp3 => 7.06 MB
-     │       Sadda Adda - 09 - Lecture Bunk Karna.mp3 => 8.74 MB
-     │       Sadda Adda - 10 - Dosti Remix.mp3 => 6.53 MB
-     │
-     ├─── Say Yes To Love (2012) [Ripped : 15/03/16]
-     │
-     │       say-yes-to-bollywood01(www.SongsPK.info).mp3 => 4.56 MB
-     │       say-yes-to-bollywood02(www.SongsPK.info).mp3 => 5.60 MB
-     │       say-yes-to-bollywood03(www.SongsPK.info).mp3 => 6.50 MB
-     │       say-yes-to-bollywood04(www.SongsPK.info).mp3 => 5.20 MB
-     │       say-yes-to-bollywood05(www.SongsPK.info).mp3 => 6.55 MB
-     │       say-yes-to-bollywood06(www.SongsPK.info).mp3 => 5.70 MB
-     │       say-yes-to-bollywood07(www.SongsPK.info).mp3 => 2.97 MB
-     │       say-yes-to-bollywood08(www.SongsPK.info).mp3 => 4.62 MB
-     │
-     ├─── Shanghai (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       Shanghai - 01 - Bharat Mata Ki Jai.mp3 => 9.05 MB
-     │       Shanghai - 02 - Imported Kamariya.mp3 => 8.13 MB
-     │       Shanghai - 03 - Duaa.mp3 => 7.72 MB
-     │       Shanghai - 04 - Khudaaya.mp3 => 5.54 MB
-     │       Shanghai - 05 - Morcha.mp3 => 7.41 MB
-     │       Shanghai - 06 - Bharat Mata Ki Jai (Remix).mp3 => 6.73 MB
-     │       Shanghai - 07 - Khudaaya (Remix).mp3 => 6.53 MB
-     │       Shanghai - 08 - Mantra Vishnu Sahasranamam (The Thousand Names Of Lord Vishnu).mp3 => 8.39 MB
-     │
-     ├─── Shirin Farhad Ki Toh Nikal Padi (2012) 320Kbps [Ripped : 15/03/16]
-     │
-     │       [SongsPK.info 01 - Ishq Mein Tere Bina.mp3 => 8.64 MB
-     │       [SongsPK.info 02 - Khatti Meethi.mp3 => 10.43 MB
-     │       [SongsPK.info 03 - Kaafir Andhere.mp3 => 8.55 MB
-     │       [SongsPK.info 04 - Shirin Farhad Ki Toh Nikal Padi 1.mp3 => 7.66 MB
-     │       [SongsPK.info 05 - Kukuduku.mp3 => 8.23 MB
-     │       [SongsPK.info 06 - Ramba Mein Samba.mp3 => 9.60 MB
-     │
-     └─── Son Of Sardaar (2012) 320Kbps [Ripped : 15/03/16]
+├── 2012
+│    │
+│    ├─── 1920 - Evil Returns (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       01 - Apnaa Mujhe Tu Lagaa.mp3 => 11.27 MB
+│    │       02 - Uska Hi Banana.mp3 => 10.20 MB
+│    │       03 - Jaavedaan Hai.mp3 => 10.80 MB
+│    │       04 - Khud Ko Tere.mp3 => 9.57 MB
+│    │       05 - Majboor Tu Bhi Kahin.mp3 => 9.12 MB
+│    │
+│    ├─── 3 Bachelors (2012) [Ripped : 11/03/16]
+│    │
+│    │       01 - Dag Mag Dag Mag.mp3 => 5.30 MB
+│    │       02 - Dhoom Dham.mp3 => 7.35 MB
+│    │       03 - Shankeriya Shankeriya.mp3 => 5.72 MB
+│    │
+│    ├─── Agent Vinod (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       Agent Vinod - 01- I Will Do The Talking Tonight.mp3 => 8.59 MB
+│    │       Agent Vinod - 02 - Pungi.mp3 => 8.29 MB
+│    │       Agent Vinod - 03 - Raabta.mp3 => 7.58 MB
+│    │       Agent Vinod - 04 - Agent Vinod (Theme).mp3 => 9.31 MB
+│    │       Agent Vinod - 05 - I Will Do The Talking Tonight (Remix).mp3 => 8.85 MB
+│    │       Agent Vinod - 06 - Raabta (Night In Motel).mp3 => 5.97 MB
+│    │       Agent Vinod - 07 - Pungi (Remix).mp3 => 8.79 MB
+│    │       Agent Vinod - 08 - Raabta (Kehte Hain Khuda Ne).mp3 => 8.88 MB
+│    │       Agent Vinod - 09 - Raabta (Siyaah Raatein).mp3 => 8.81 MB
+│    │       Agent Vinod - 10 - Dil Mera Muft Ka.mp3 => 8.95 MB
+│    │       Agent Vinod - 11 - Dil Mera Muft Ka (Remix).mp3 => 7.36 MB
+│    │
+│    ├─── Agneepath (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       Agneepath - 01 - Chikni Chameli.mp3 => 9.27 MB
+│    │       Agneepath - 02 - O Saiyyan.mp3 => 7.30 MB
+│    │       Agneepath - 03 - Gun Gun Guna.mp3 => 7.52 MB
+│    │       Agneepath - 04 - Shah Ka Rutba.mp3 => 9.01 MB
+│    │       Agneepath - 05 - Abhi Mujh Mein Kahin.mp3 => 9.55 MB
+│    │       Agneepath - 06 - Deva Shree Ganesha.mp3 => 9.88 MB
+│    │
+│    ├─── Aiyyaa (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       - Aiyyaa - 01 - Dreamum Wakeupum.mp3 => 6.64 MB
+│    │       - Aiyyaa - 02 - Sava Dollar (Lavni).mp3 => 8.99 MB
+│    │       - Aiyyaa - 03 - Aga Bai.mp3 => 8.34 MB
+│    │       - Aiyyaa - 04 - Mahek Bhi.mp3 => 9.90 MB
+│    │       - Aiyyaa - 05 - What To Do.mp3 => 10.15 MB
+│    │       - Aiyyaa - 06 - Wakda.mp3 => 7.83 MB
+│    │
+│    ├─── Ajab Gazabb Love (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       Ajab Gazabb Love - 01 - Boom Boom (Lip Lock).mp3 => 8.62 MB
+│    │       Ajab Gazabb Love - 02 - Tu.mp3 => 8.26 MB
+│    │       Ajab Gazabb Love - 03 - Sun Soniye.mp3 => 8.51 MB
+│    │       Ajab Gazabb Love - 04 - Nachde Punjabi.mp3 => 7.52 MB
+│    │       Ajab Gazabb Love - 05 - Boom Boom (Remix).mp3 => 7.51 MB
+│    │       Ajab Gazabb Love - 06 - Sun Soniye (Remix).mp3 => 7.30 MB
+│    │
+│    ├─── Bittoo Boss (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       Bittoo Boss - 01 - Bittoo Sab Ki Lega.mp3 => 7.43 MB
+│    │       Bittoo Boss - 02 - Kaun Kenda.mp3 => 9.34 MB
+│    │       Bittoo Boss - 03 - Kick Lag Gayi.mp3 => 9.90 MB
+│    │       Bittoo Boss - 04 - Audi (Tenu Tak De).mp3 => 8.12 MB
+│    │       Bittoo Boss - 05 - Kabootar.mp3 => 8.87 MB
+│    │       Bittoo Boss - 06 - Mann Jaage.mp3 => 10.88 MB
+│    │       Bittoo Boss - 07 - Kaun Kenda (Female).mp3 => 8.92 MB
+│    │       Bittoo Boss - 08 - Kick Lag Gayi (Remix).mp3 => 9.78 MB
+│    │
+│    ├─── Blood Money (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       Blood Money - 01 - Chaahat.mp3 => 7.76 MB
+│    │       Blood Money - 02 - Gunaah.mp3 => 8.79 MB
+│    │       Blood Money - 03 - Teri Yaadon Se.mp3 => 8.18 MB
+│    │       Blood Money - 04 - Jo Tere Sang.mp3 => 9.18 MB
+│    │       Blood Money - 05 - Arzoo.mp3 => 7.71 MB
+│    │       Blood Money - 06 - Gunaah (Unplugged).mp3 => 9.82 MB
+│    │       Blood Money - 07 - Teri Yaadon Se (Remix).mp3 => 9.36 MB
+│    │
+│    ├─── Bol Bachchan (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       01 - Bol Bachchan.mp3 => 11.46 MB
+│    │       02 - Chalao Na Naino Se.mp3 => 10.96 MB
+│    │       03 - Nach Le Nach Le.mp3 => 8.67 MB
+│    │       04 - Jab Se Dekhi Hai.mp3 => 7.48 MB
+│    │       05 - Bol Bachchan (Remix).mp3 => 8.79 MB
+│    │       06 - Nach Le Nach Le (Remix).mp3 => 10.40 MB
+│    │       07 - Chalao Na Naino Se (Remix).mp3 => 8.90 MB
+│    │       08 - Jab Se Dekhi Hai (Remix).mp3 => 7.85 MB
+│    │
+│    ├─── Bumboo (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       Bumboo - 01 - Life Saali Life.mp3 => 5.48 MB
+│    │       Bumboo - 02 - Life Saali Life (Remix).mp3 => 6.15 MB
+│    │       Bumboo - 03 - Pinky Punjabi.mp3 => 5.64 MB
+│    │       Bumboo - 04 - Pinky (Reprise).mp3 => 5.94 MB
+│    │       Bumboo - 05 - Lag Gaya Bumboo.mp3 => 6.58 MB
+│    │
+│    ├─── Chaalis Chauraasi (2012) [Ripped : 11/03/16]
+│    │
+│    │       chaalis-chauraasi01(www.SongsPK.info).mp3 => 6.42 MB
+│    │       chaalis-chauraasi02(www.SongsPK.info).mp3 => 6.66 MB
+│    │       chaalis-chauraasi03(www.SongsPK.info).mp3 => 4.12 MB
+│    │       chaalis-chauraasi04(www.SongsPK.info).mp3 => 4.20 MB
+│    │       chaalis-chauraasi05(www.SongsPK.info).mp3 => 4.20 MB
+│    │
+│    ├─── Chaar Din Ki Chandni (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       01 - Chandni O Meri Chandni.mp3 => 7.98 MB
+│    │       02 - Kangna Tera Ni.mp3 => 6.55 MB
+│    │       03 - Radha Rani.mp3 => 6.81 MB
+│    │       04 - Dj Play That Song.mp3 => 8.30 MB
+│    │       05 - O Meri Chandni (House Mix).mp3 => 5.57 MB
+│    │       06 - Chaar Din Ki Chandni (Club Mix).mp3 => 8.65 MB
+│    │
+│    ├─── Chakradhaar (2012) [Ripped : 11/03/16]
+│    │
+│    │       Chakradhaar - 01 - Har Mod Pe.mp3 => 5.09 MB
+│    │       Chakradhaar - 02 -  Bin Tere.mp3 => 5.03 MB
+│    │       Chakradhaar - 03 - Billori.mp3 => 5.51 MB
+│    │       Chakradhaar - 04 - Chakradhaar (Theme).mp3 => 2.08 MB
+│    │
+│    ├─── Chakravyuh (2012) 320Kbps [Ripped : 11/03/16]
+│    │
+│    │       Chakravyuh - 01 - Mehangai.mp3 => 12.02 MB
+│    │       Chakravyuh - 02 - Chheen Ke Lenge.mp3 => 7.78 MB
+│    │       Chakravyuh - 03 - Kunda Khol.mp3 => 7.45 MB
+│    │       Chakravyuh - 04 - Aiyo Piyaji.mp3 => 11.69 MB
+│    │       Chakravyuh - 05 - Tambai Sa Rang.mp3 => 6.92 MB
+│    │       Chakravyuh - 06 - Paro.mp3 => 10.41 MB
+│    │       Chakravyuh - 07 - Mehangai (Remix).mp3 => 8.44 MB
+│    │       Chakravyuh - 08 - Chakravyuh Theme Song.mp3 => 7.67 MB
+│    │
+│    ├─── Chal Pichchur Banate Hain (2012) [Ripped : 12/03/16]
+│    │
+│    │       01 - Copy Paste.mp3 => 5.20 MB
+│    │       02 - It'S Time.mp3 => 4.23 MB
+│    │       03 - Bas Tu Hi (Male).mp3 => 5.65 MB
+│    │       04 - Main Gaa Loon Zara.mp3 => 4.48 MB
+│    │       05 - Baanwra Mann (Male).mp3 => 5.44 MB
+│    │
+│    ├─── Challo Driver (2012) [Ripped : 12/03/16]
+│    │
+│    │       01 - Challo Driver - Kudi Pataka Driver.mp3 => 3.98 MB
+│    │       02 - Challo Driver - Dehle Pe Gulla.mp3 => 4.36 MB
+│    │       03 - Challo Driver - Wakhre Wakhre Kaam.mp3 => 3.68 MB
+│    │       04 - Challo Driver - Umangon Ka Karwan.mp3 => 4.63 MB
+│    │       05 - Challo Driver - Ittefaq Hai Daastan Hai.mp3 => 3.97 MB
+│    │
+│    ├─── Chhodo Kal Ki Baatein (2012) [Ripped : 12/03/16]
+│    │
+│    │       01 - Dil Darpan (Film).mp3 => 5.85 MB
+│    │       02 - Rum Me Gum.mp3 => 4.60 MB
+│    │       03 - Atak Gaya.mp3 => 6.52 MB
+│    │       04 - Kaam Kar.mp3 => 3.98 MB
+│    │       05 - Chhodo Kal Ki Baatein.mp3 => 8.50 MB
+│    │       06 - Rum Me Gum (Remix).mp3 => 6.05 MB
+│    │       07 - Dil Darpan (Guitar Version).mp3 => 7.45 MB
+│    │
+│    ├─── Cigarette Ki Tarah (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       01 - Doorian.mp3 => 10.60 MB
+│    │       02 - Hey Bhagwan.mp3 => 5.66 MB
+│    │       03 - Mujhko Khud Se.mp3 => 12.31 MB
+│    │       04 - Cigarette Ki Tarah.mp3 => 7.73 MB
+│    │       05 - Ye Bata Do Piya.mp3 => 9.22 MB
+│    │
+│    ├─── Cocktail (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       Cocktail - 01 - Tum Hi Ho Bandhu.mp3 => 9.98 MB
+│    │       Cocktail - 02 - Daaru Desi.mp3 => 8.66 MB
+│    │       Cocktail - 03 - Yaariyaan.mp3 => 11.52 MB
+│    │       Cocktail - 04 - Second Hand Jawaani.mp3 => 7.79 MB
+│    │       Cocktail - 05 - Tera Naam Japdi Phiran.mp3 => 6.49 MB
+│    │       Cocktail - 06 - Luttna (Saif Ul Malook).mp3 => 9.96 MB
+│    │       Cocktail - 07 - Jugni.mp3 => 13.07 MB
+│    │       Cocktail - 08 - Yaariyan (Reprise).mp3 => 8.89 MB
+│    │       Cocktail - 09 - Luttna (Version 2).mp3 => 9.22 MB
+│    │       Cocktail - 10 - Tera Naam Japdi Phiran (Version 2).mp3 => 8.46 MB
+│    │
+│    ├─── Daal Mein Kuch Kaala Hai! (2012) [Ripped : 12/03/16]
+│    │
+│    │       01 - Madam Malai.mp3 => 4.83 MB
+│    │       02 - Vada Pav.mp3 => 4.69 MB
+│    │       03 - Mumbai Money Hai.mp3 => 3.92 MB
+│    │       04 - Apun Ki Life.mp3 => 4.96 MB
+│    │       05 - Nadiya.mp3 => 5.32 MB
+│    │
+│    ├─── Dabangg 2 (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       01 - Dagabaaz Re - Dabangg 2.mp3 => 8.65 MB
+│    │       02 - Pandeyjee Seeti - Dabangg 2.mp3 => 9.48 MB
+│    │       03 - Fevicol Se - Dabangg 2.mp3 => 10.23 MB
+│    │       04 - Saanson Ne - Dabangg 2.mp3 => 9.80 MB
+│    │       05 - Dabangg Reloaded - Dabangg 2.mp3 => 8.39 MB
+│    │       06 - Pandeyjee Seeti (Remix) - Dabangg 2.mp3 => 9.03 MB
+│    │       07 - Fevicol Se (Remix) - Dabangg 2.mp3 => 8.90 MB
+│    │       08 - Dabangg Reloaded (Remix) - Dabangg 2.mp3 => 7.83 MB
+│    │
+│    ├─── Dangerous Ishhq (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       01 - Tu Hi Rab Tu Hi Dua - Dangerous Ishq.mp3 => 14.40 MB
+│    │       02 - Naina Re Tu Hi - Dangerous Ishq.mp3 => 10.85 MB
+│    │       03 - Ishq Mein Ruswaa - Dangerous Ishq.mp3 => 8.44 MB
+│    │       04 - Lagan Lagi More Piya - Dangerous Ishq.mp3 => 11.67 MB
+│    │       05 - Umeed Hai - Dangerous Ishq.mp3 => 9.34 MB
+│    │       06 - Naina Re Tu Hi (Reprise) - Dangerous Ishq.mp3 => 10.42 MB
+│    │       07 - Tu Hi Rab Tu Hi Dua (R&B Remix) - Dangerous Ishq.mp3 => 9.20 MB
+│    │       08 - Naina Re (Remix) - Dangerous Ishq.mp3 => 8.71 MB
+│    │       09 - Ishq Mein Ruswaa (Remix) - Dangerous Ishq.mp3 => 5.46 MB
+│    │       10 - Umeed (Remix) - Dangerous Ishq.mp3 => 7.16 MB
+│    │       11 - Tu Hi Rab Tu Hi Dua (Reprise) - Dangerous Ishq.mp3 => 8.75 MB
+│    │
+│    ├─── Dard-E-Disco It&#039;s Rocking (2012) [Ripped : 12/03/16]
+│    │
+│    │       01 - Dard-E-Disco.mp3 => 6.82 MB
+│    │       02 - Boka Chor.mp3 => 5.24 MB
+│    │       03 - Cut To Disco.mp3 => 5.30 MB
+│    │       04 - Mohabat.mp3 => 6.86 MB
+│    │       05 - Disco King.mp3 => 5.53 MB
+│    │       06 - Cut To Disco (Remix).mp3 => 4.64 MB
+│    │       07 - Dard-E-Disco (Remix).mp3 => 5.99 MB
+│    │
+│    ├─── Department (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       Department - 01 - Dan Dan Cheeni Shoot Mix.mp3 => 8.38 MB
+│    │       Department - 02 - Kammo.mp3 => 10.29 MB
+│    │       Department - 03 - Theme Of Department (Ek Do Teen Chaar).mp3 => 7.04 MB
+│    │       Department - 04 - Bad Boys.mp3 => 7.59 MB
+│    │       Department - 05 - Mumbai Police.mp3 => 9.17 MB
+│    │
+│    ├─── Ek Main Aur Ekk Tu (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       01 - Ek Main Aur Ekk Tu.mp3 => 7.97 MB
+│    │       02 - Gubbare.mp3 => 8.18 MB
+│    │       03 - Aunty Ji.mp3 => 8.56 MB
+│    │       04 - Aahatein.mp3 => 7.37 MB
+│    │       05 - Kar Chalna Shuru Tu.mp3 => 8.87 MB
+│    │       06 - Ek Main Aur Ekk Tu (Remix).mp3 => 7.91 MB
+│    │       07 - Aahatein (Remix).mp3 => 6.63 MB
+│    │
+│    ├─── Ek Tha Tiger (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       Ek Tha Tiger - 01 - MashAllah.mp3 => 9.64 MB
+│    │       Ek Tha Tiger - 02 - Laapata.mp3 => 8.43 MB
+│    │       Ek Tha Tiger - 03 - Banjaara.mp3 => 8.79 MB
+│    │       Ek Tha Tiger - 04 - Saiyaara.mp3 => 8.27 MB
+│    │       Ek Tha Tiger - 05 - Tiger's Theme.mp3 => 6.26 MB
+│    │       Ek Tha Tiger - 06 - MashAllah (Remix).mp3 => 6.17 MB
+│    │       Ek Tha Tiger - 07 - Laapata (Remix).mp3 => 6.64 MB
+│    │       Ek Tha Tiger - 08 - Banjaara (Remix).mp3 => 6.65 MB
+│    │
+│    ├─── Ekk Deewana Tha (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       01 - Ekk Deewana Tha - Kya Hai Mohabbat.mp3 => 7.98 MB
+│    │       02 - Ekk Deewana Tha - Dost Hai (Girl I Loved You).mp3 => 7.56 MB
+│    │       03 - Ekk Deewana Tha - Aromale (My Beloved).mp3 => 9.94 MB
+│    │       04 - Ekk Deewana Tha - Hosanna.mp3 => 10.62 MB
+│    │       05 - Ekk Deewana Tha - Phoolon Jaisi.mp3 => 9.56 MB
+│    │       06 - Ekk Deewana Tha - Sharminda Hoon.mp3 => 12.70 MB
+│    │       07 - Ekk Deewana Tha - Sunlo Zara.mp3 => 8.07 MB
+│    │       08 - Ekk Deewana Tha - Zohra-Jabeen.mp3 => 5.59 MB
+│    │       09 - Ekk Deewana Tha - Broken Promises.mp3 => 6.97 MB
+│    │       10 - Ekk Deewana Tha - Moments In Kerala.mp3 => 4.50 MB
+│    │       11 - Ekk Deewana Tha - Jessie's Land.mp3 => 5.24 MB
+│    │       12 - Ekk Deewana Tha - Jessie's Driving Me Crazy.mp3 => 5.55 MB
+│    │
+│    ├─── English Vinglish (2012) 320Kbps [Ripped : 12/03/16]
+│    │
+│    │       01 - Badla Nazara (Female).mp3 => 8.50 MB
+│    │       02 - Dhak Dhuk.mp3 => 9.34 MB
+│    │       03 - Manhattan.mp3 => 8.54 MB
+│    │       04 - Gustakh Dil.mp3 => 10.46 MB
+│    │       05 - Navrai Majhi.mp3 => 8.15 MB
+│    │       06 - Badla Nazara (Male).mp3 => 8.48 MB
+│    │
+│    ├─── Fatso (2012) [Ripped : 12/03/16]
+│    │
+│    │       01 - Fatso.mp3 => 3.95 MB
+│    │       02 - Haye Re Re.mp3 => 4.25 MB
+│    │       03 - Jiya Jaye Na.mp3 => 4.56 MB
+│    │       04 - Very Sorry.mp3 => 3.40 MB
+│    │
+│    ├─── Ferrari Ki Sawaari (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       Ferrari Ki Sawaani - 01 - Maara Re.mp3 => 7.58 MB
+│    │       Ferrari Ki Sawaani - 02 - Rusy's Theme.mp3 => 5.95 MB
+│    │       Ferrari Ki Sawaani - 03 - Mala Jau De.mp3 => 8.77 MB
+│    │       Ferrari Ki Sawaani - 04 - Ae Mere Mann.mp3 => 9.90 MB
+│    │       Ferrari Ki Sawaani - 05 - Good Night.mp3 => 9.34 MB
+│    │       Ferrari Ki Sawaani - 06 - Chal Ghoome (Ferrari Ki Sawaari).mp3 => 7.85 MB
+│    │
+│    ├─── From Sydney With Love (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       01 - From Sydney With Love - Feeling Love In Sydney.mp3 => 5.46 MB
+│    │       02 - From Sydney With Love - Ho Jaayega.mp3 => 7.00 MB
+│    │       03 - From Sydney With Love - Khatkaa Khatkaa.mp3 => 5.96 MB
+│    │       04 - From Sydney With Love - Naino Ne.mp3 => 7.67 MB
+│    │       05 - From Sydney With Love - Item Ye Hi Fi.mp3 => 4.97 MB
+│    │       06 - From Sydney With Love - Pyaari Pyaari.mp3 => 6.10 MB
+│    │       07 - From Sydney With Love - Ho Jaayega (Remix).mp3 => 7.31 MB
+│    │       08 - From Sydney With Love - Feeling Love In Sydney (Remix).mp3 => 4.91 MB
+│    │
+│    ├─── Future To Bright Hai Ji (2012) [Ripped : 13/03/16]
+│    │
+│    │       01 - Future To Bright Hai.mp3 => 3.35 MB
+│    │       02 - Akhiyan Nu Rehn.mp3 => 6.07 MB
+│    │       03 - Tum Mere Sath Ho.mp3 => 10.04 MB
+│    │       04 - Future To Bright Hai Ji.mp3 => 7.85 MB
+│    │       05 - Akhiyan Nu Rehn De.mp3 => 6.14 MB
+│    │
+│    ├─── Gali Gali Chor Hai (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       01 - Gali Gali Chor Hai.mp3 => 14.10 MB
+│    │       02 - Suno Suno.mp3 => 9.65 MB
+│    │       03 - Chhanno.mp3 => 12.31 MB
+│    │       04 - Gali Gali Chor Hai (Remix).mp3 => 7.71 MB
+│    │       05 - Chhanno (Remix).mp3 => 9.90 MB
+│    │       06 - Gali Gali Shor Hai.mp3 => 1.71 MB
+│    │
+│    ├─── Gangs Of Wasseypur (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       01 - Jiya Tu.mp3 => 10.80 MB
+│    │       02 - Hunter.mp3 => 8.58 MB
+│    │       03 - O Womaniya Live.mp3 => 8.99 MB
+│    │       04 - Keh Ke Lunga.mp3 => 9.75 MB
+│    │       05 - Bhoos.mp3 => 10.62 MB
+│    │       06 - Ik Bagal.mp3 => 10.64 MB
+│    │       07 - Bhaiyya.mp3 => 6.25 MB
+│    │       08 - Tain Tain To To.mp3 => 8.21 MB
+│    │       09 - Soona Kar Ke Gharwa.mp3 => 4.17 MB
+│    │       10 - Aey Jawanon.mp3 => 3.98 MB
+│    │       11 - Womaniya.mp3 => 10.14 MB
+│    │       12 - Manmauji.mp3 => 4.86 MB
+│    │       13 - Loonga Loonga.mp3 => 5.96 MB
+│    │       14 - Humni Ke Chhodi Ke.mp3 => 7.74 MB
+│    │
+│    ├─── Gangs Of Wasseypur 2 (2012) [Ripped : 13/03/16]
+│    │
+│    │       01 - Chhi Chha Ledar.mp3 => 4.84 MB
+│    │       02 - Kaala Rey.mp3 => 6.22 MB
+│    │       03 - Electric Piya.mp3 => 4.69 MB
+│    │       04 - Bahut Khoob.mp3 => 2.64 MB
+│    │       05 - Taar Bijli.mp3 => 8.41 MB
+│    │       06 - Aabroo.mp3 => 5.22 MB
+│    │       07 - Perpendicular (Theme).mp3 => 2.82 MB
+│    │       08 - Moora.mp3 => 6.07 MB
+│    │       09 - Tunya.mp3 => 1.77 MB
+│    │       10 - Bahut Khoob 8 Bit.mp3 => 3.68 MB
+│    │       11 - Electric Piya - Fused.mp3 => 5.38 MB
+│    │       12 - Moora - Morning.mp3 => 6.71 MB
+│    │       13 - KKL.mp3 => 4.25 MB
+│    │
+│    ├─── Hate Story (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       Hate Story - 01 - Mahe Jaan.mp3 => 10.25 MB
+│    │       Hate Story - 02 - Dil Kanch Sa.mp3 => 11.20 MB
+│    │       Hate Story - 03 - Raat.mp3 => 10.13 MB
+│    │       Hate Story - 04 - Mahe Jaan (Rock Version).mp3 => 9.16 MB
+│    │       Hate Story - 05 - Raat (Remix).mp3 => 7.54 MB
+│    │       Hate Story - 06 - Dil Kanch Sa (Heart N Soul).mp3 => 11.21 MB
+│    │
+│    ├─── Housefull 2 (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       Housefull 2 - 01 - Papa Toh Band Bajaye.mp3 => 8.41 MB
+│    │       Housefull 2 - 02 - Anarkali Disco Chali.mp3 => 9.35 MB
+│    │       Housefull 2 - 03 - Right Now Now.mp3 => 8.33 MB
+│    │       Housefull 2 - 04 - Do U Know.mp3 => 10.71 MB
+│    │       Housefull 2 - 05 - Anarkali Disco Chali (Hyper Mix).mp3 => 9.00 MB
+│    │       Housefull 2 - 06 - Right Now Now (Remix).mp3 => 8.35 MB
+│    │       Housefull 2 - 07 - Do U Know (Remix).mp3 => 10.42 MB
+│    │       Housefull 2 - 08 - Anarkali Disco Chali (Remix).mp3 => 7.45 MB
+│    │
+│    ├─── Ishaqzaade (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       Ishaqzaade - 01 - Ishaqzaade.mp3 => 8.75 MB
+│    │       Ishaqzaade - 02 - Chokra Jawaan.mp3 => 8.59 MB
+│    │       Ishaqzaade - 03 - Pareshaan.mp3 => 8.28 MB
+│    │       Ishaqzaade - 04 - Jhalla Wallah.mp3 => 9.15 MB
+│    │       Ishaqzaade - 05 - Aafaton Ke Parinde.mp3 => 6.17 MB
+│    │       Ishaqzaade - 06 - Pareshaan (Remix).mp3 => 8.16 MB
+│    │       Ishaqzaade - 07 - Jhalla Wallah (Remix).mp3 => 7.46 MB
+│    │
+│    ├─── Ishkq In Paris (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       Ishkq In Paris - 01 - Its All About Tonight.mp3 => 7.63 MB
+│    │       Ishkq In Paris - 02 - Saiyaan.mp3 => 10.64 MB
+│    │       Ishkq In Paris - 03 - Jaane Bhi De (Duet).mp3 => 8.59 MB
+│    │       Ishkq In Paris - 04 - Teri Choodiyan Da Crazy Crazy Sound.mp3 => 7.73 MB
+│    │       Ishkq In Paris - 05 - Kudiye Di Kurti.mp3 => 8.70 MB
+│    │       Ishkq In Paris - 06 - Jaane Bhi De.mp3 => 8.59 MB
+│    │
+│    ├─── Jab Tak Hai Jaan (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       Jab Tak Hai Jaan - 01 - Challa.mp3 => 10.90 MB
+│    │       Jab Tak Hai Jaan - 02 - Saans.mp3 => 10.52 MB
+│    │       Jab Tak Hai Jaan - 03 - Ishq Shava.mp3 => 9.26 MB
+│    │       Jab Tak Hai Jaan - 04 - Heer.mp3 => 10.22 MB
+│    │       Jab Tak Hai Jaan - 05 - Jiya Re.mp3 => 10.43 MB
+│    │       Jab Tak Hai Jaan - 06 - Jab Tak Hai Jaan.mp3 => 7.45 MB
+│    │       Jab Tak Hai Jaan - 07 - Saans (Reprise).mp3 => 4.06 MB
+│    │       Jab Tak Hai Jaan - 08 - Ishq Dance.mp3 => 7.32 MB
+│    │       Jab Tak Hai Jaan - 09 - Jab Tak Hai Jaan - The Poem.mp3 => 4.52 MB
+│    │
+│    ├─── Jannat 2 (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       Jannat 2 - 01 - Tu Hi Mera.mp3 => 8.52 MB
+│    │       Jannat 2 - 02 - Jannat 2 - Tera Deedar Hua.mp3 => 10.79 MB
+│    │       Jannat 2 - 03 - Tujhe Sochta Hoon.mp3 => 9.77 MB
+│    │       Jannat 2 - 04 - Rab Ka Shukrana.mp3 => 9.33 MB
+│    │       Jannat 2 - 05 - Jannatein Kahan.mp3 => 7.15 MB
+│    │       Jannat 2 - 06 - Sang Hoon Tere.mp3 => 8.27 MB
+│    │       Jannat 2 - 07 - Jannatein Kahan (Power Ballad).mp3 => 8.46 MB
+│    │       Jannat 2 - 08 - Tera Deedar Hua (From The Heart).mp3 => 10.75 MB
+│    │       Jannat 2 - 09 - Rab Ka Shukrana (Reprise).mp3 => 8.65 MB
+│    │
+│    ├─── Jeena Hai Toh Thok Daal (2012) [Ripped : 13/03/16]
+│    │
+│    │       01 - Palang Tod Hai Tere Jawani.mp3 => 5.77 MB
+│    │       02 - Tees Uthee Dil Mein.mp3 => 6.32 MB
+│    │       03 - Ankhiya Mila Ke Channa.mp3 => 5.84 MB
+│    │       04 - Jeena Hai Toh Thok Daal.mp3 => 3.64 MB
+│    │       05 - Kahiya Se Jogali Gullackwa.mp3 => 10.05 MB
+│    │       06 - Palang Tod Hai Tere Jawani (Remix).mp3 => 5.27 MB
+│    │       07 - Ankhiya Mila Ke Channa (Unplugged).mp3 => 4.94 MB
+│    │
+│    ├─── Jism - 2 (2012) 320Kbps [Ripped : 13/03/16]
+│    │
+│    │       01 - Jism 2 - Abhi Abhi (Male).mp3 => 9.96 MB
+│    │       02 - Jism 2 - Yeh Kasoor.mp3 => 9.97 MB
+│    │       03 - Jism 2 - Maula.mp3 => 8.88 MB
+│    │       04 - Jism 2 - Ye Jism.mp3 => 6.60 MB
+│    │       05 - Jism 2 - Darta Hoon (Adhoora).mp3 => 9.53 MB
+│    │       06 - Jism 2 - Abhi Abhi (Duet) Hum To Haare (Abhi Abhi).mp3 => 9.96 MB
+│    │       07 - Jism 2 - Hey Walla.mp3 => 6.83 MB
+│    │
+│    ├─── Jodi Breakers (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       Jodi Breakers - 01 - Kunwara.mp3 => 7.80 MB
+│    │       Jodi Breakers - 02 - Bipasha.mp3 => 8.57 MB
+│    │       Jodi Breakers - 03 - Darmiyaan.mp3 => 9.82 MB
+│    │       Jodi Breakers - 04 - Mujhko Teri Zaroorat Hai.mp3 => 9.50 MB
+│    │       Jodi Breakers - 05 - Jab Main Tumhare Saath Hun.mp3 => 8.94 MB
+│    │       Jodi Breakers - 06 - Darmiyaan (Reprise).mp3 => 4.16 MB
+│    │       Jodi Breakers - 07 - Bipasha (Remix).mp3 => 8.62 MB
+│    │       Jodi Breakers - 08 - Mujhko Teri Zaroorat Hai (Remix).mp3 => 8.54 MB
+│    │
+│    ├─── Joker (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       01 - Joker - Kafirana.mp3 => 9.58 MB
+│    │       02 - Joker - Jugnu.mp3 => 8.08 MB
+│    │       03 - Joker - Sing Raja.mp3 => 7.45 MB
+│    │       04 - Joker - Yeh Joker.mp3 => 9.00 MB
+│    │       05 - Joker - Tears of Joker.mp3 => 6.55 MB
+│    │       06 - Joker - Alien Arrival.mp3 => 5.57 MB
+│    │
+│    ├─── Kahaani (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       Kahaani - 01 - Aami Shotti Bolchi.mp3 => 6.60 MB
+│    │       Kahaani - 02 - Piya Tu Kaahe Rootha Re.mp3 => 8.99 MB
+│    │       Kahaani - 03 - Kahaani.mp3 => 7.91 MB
+│    │       Kahaani - 04 - Tore Bina.mp3 => 10.66 MB
+│    │       Kahaani - 05 - Kahani (Female).mp3 => 7.54 MB
+│    │       Kahaani - 06 - Ekla Cholo Re.mp3 => 9.30 MB
+│    │
+│    ├─── Kamaal Dhamaal Malamaal (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       01 - Dariya Ho.mp3 => 7.96 MB
+│    │       02 - Desi Mem.mp3 => 7.59 MB
+│    │       03 - Zor Naache.mp3 => 7.80 MB
+│    │       04 - Ishq Ki Dafli Baje.mp3 => 6.84 MB
+│    │       05 - Ringa Ringa.mp3 => 8.00 MB
+│    │       06 - Kamaal Dhamaal Malamaal (Theme).mp3 => 2.55 MB
+│    │       07 - Desi Mem (Remix).mp3 => 7.72 MB
+│    │       08 - Dariya Ho (Remix).mp3 => 7.39 MB
+│    │       09 - Ringa Ringa (Remix).mp3 => 7.14 MB
+│    │
+│    ├─── Khiladi 786 (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       Khiladi 786 - 01 - Lonely.mp3 => 7.77 MB
+│    │       Khiladi 786 - 02 - Balma.mp3 => 7.16 MB
+│    │       Khiladi 786 - 03 - Long Drive.mp3 => 8.39 MB
+│    │       Khiladi 786 - 04 - Sari Sari Raat.mp3 => 10.27 MB
+│    │       Khiladi 786 - 05 - Hookah Bar.mp3 => 7.96 MB
+│    │       Khiladi 786 - 06 - Khiladi (Title Track).mp3 => 7.96 MB
+│    │       Khiladi 786 - 07 - Tu Hoor Pari.mp3 => 10.08 MB
+│    │       Khiladi 786 - 08 - Lonely (Remix).mp3 => 7.57 MB
+│    │       Khiladi 786 - 09 - Hookah Bar (Remix).mp3 => 6.36 MB
+│    │       Khiladi 786 - 10 - Long Drive (Bhangra Mix).mp3 => 6.10 MB
+│    │       Khiladi 786 - 11 - Balma (Remix).mp3 => 8.43 MB
+│    │       Khiladi 786 - 12 - Khiladi (Remix).mp3 => 7.63 MB
+│    │
+│    ├─── Kismet Love Paisa Dilli (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       Kismet Love Paisa Dilli -  01 - Dhishkiyaon.mp3 => 8.97 MB
+│    │       Kismet Love Paisa Dilli -  02 - Appy Budday (Videshi).mp3 => 6.79 MB
+│    │       Kismet Love Paisa Dilli -  03 - Jugaad.mp3 => 9.70 MB
+│    │       Kismet Love Paisa Dilli -  04 - Don'T Fuff My Mind.mp3 => 7.63 MB
+│    │       Kismet Love Paisa Dilli -  05 - Appy Budday (Desi).mp3 => 5.48 MB
+│    │       Kismet Love Paisa Dilli -  06 - Don'T Fuff My Mind (Remix).mp3 => 6.57 MB
+│    │
+│    ├─── Kyaa Super Kool Hain Hum (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       01 - Kya Super Kool Hain Hum - Dil Garden Garden Ho Gaya.mp3 => 6.02 MB
+│    │       02 - Kya Super Kool Hain Hum - Shirt Da Button.mp3 => 12.12 MB
+│    │       03 - Kya Super Kool Hain Hum - Hum Toh Hain Cappuccino (U.P. - Bihar Lootne).mp3 => 10.31 MB
+│    │       04 - Kya Super Kool Hain Hum - Volume High Karle.mp3 => 6.45 MB
+│    │       05 - Kya Super Kool Hain Hum - Shirt Da Button (Version 2).mp3 => 11.91 MB
+│    │       06 - Kya Super Kool Hain Hum - Dil Garden Garden Ho Gaya (Remix).mp3 => 6.48 MB
+│    │       07 - Kya Super Kool Hain Hum - Volume High Karle (Remix).mp3 => 6.96 MB
+│    │
+│    ├─── Le Gaya Saddam (2012) [Ripped : 14/03/16]
+│    │
+│    │       01 - Dhin Chak Tak Dhin.mp3 => 8.22 MB
+│    │       02 - Maula Maula.mp3 => 5.91 MB
+│    │       03 - Bill Gates Ki Poti.mp3 => 6.78 MB
+│    │       04 - Ye Le Ye Le.mp3 => 3.68 MB
+│    │       05 - Le Gaya Re Saddam.mp3 => 3.71 MB
+│    │       06 - Jugni Jugni.mp3 => 4.75 MB
+│    │       07 - Madmast Nigahein.mp3 => 5.05 MB
+│    │
+│    ├─── Life Ki Toh Lag Gayi (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       Life Ki Toh Lag Gayi - 01 - Deboshree.mp3 => 7.99 MB
+│    │       Life Ki Toh Lag Gayi - 02 - Galiyan.mp3 => 9.39 MB
+│    │       Life Ki Toh Lag Gayi - 03 - Life Ki Toh Lag Gayi.mp3 => 8.08 MB
+│    │       Life Ki Toh Lag Gayi - 04 - Haryana Ka Sher.mp3 => 5.89 MB
+│    │       Life Ki Toh Lag Gayi - 05 - Zindagi.mp3 => 2.03 MB
+│    │       Life Ki Toh Lag Gayi - 06 - Saja E Maut.mp3 => 1.44 MB
+│    │       Life Ki Toh Lag Gayi - 07 - Haryana Ka Sher (Remix).mp3 => 5.26 MB
+│    │       Life Ki Toh Lag Gayi - 08 - Mumbai Lifeline (Instrumental).mp3 => 3.10 MB
+│    │       Life Ki Toh Lag Gayi - 09 - Character Theme (Instrumental).mp3 => 1.81 MB
+│    │
+│    ├─── London Paris New York (2012) [Ripped : 14/03/16]
+│    │
+│    │       London Paris New York - 01 - London Paris New York.mp3 => 4.31 MB
+│    │       London Paris New York - 02 - Voh Dekhnay Mein.mp3 => 5.14 MB
+│    │       London Paris New York - 03 - Ting Rang.mp3 => 4.79 MB
+│    │       London Paris New York - 04 - Thehree Si Zindagi.mp3 => 5.81 MB
+│    │       London Paris New York - 05 - Oo Lala.mp3 => 5.32 MB
+│    │       London Paris New York - 06 - Aaja.mp3 => 4.37 MB
+│    │       London Paris New York - 07 - Voh Dekhnay mein (Female Acoustic Ver).mp3 => 1.56 MB
+│    │
+│    ├─── Luv Shuv Tey Chicken Khurana (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       01 - KikliKalerdi.mp3 => 7.64 MB
+│    │       02 - Motorwada.mp3 => 8.17 MB
+│    │       03 - Luv Shuv Tey Chicken Khurana.mp3 => 8.23 MB
+│    │       04 - Luni Hasi (Female Version).mp3 => 9.14 MB
+│    │       05 - Makkhan Malai.mp3 => 8.21 MB
+│    │       06 - Farukha Baadi.mp3 => 8.98 MB
+│    │       07 - Luv Shuv Tey Chicken Khurana Theme.mp3 => 5.18 MB
+│    │       08 - Luni hasi (Male Version).mp3 => 7.02 MB
+│    │       09 - KikliKalerdi (Punjabi Version).mp3 => 7.64 MB
+│    │
+│    ├─── Makkhi (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       Makkhi - 01 - Are Are Are.mp3 => 7.86 MB
+│    │       Makkhi - 02 - Thoda Hans Ke.mp3 => 7.71 MB
+│    │       Makkhi - 03 - Naam Apun Ka Jaani.mp3 => 8.90 MB
+│    │       Makkhi - 04 - Lava Lava.mp3 => 7.30 MB
+│    │       Makkhi - 05 - Sapnon Ki Ek.mp3 => 5.34 MB
+│    │       Makkhi - 06 - Naam Apun Ka Jaani (Remix).mp3 => 8.13 MB
+│    │
+│    ├─── Married 2 America (2012) [Ripped : 14/03/16]
+│    │
+│    │       Married To America - 01 - O Pardesi.mp3 => 3.08 MB
+│    │       Married To America - 02 - Dil Ki Itni Kahani Hai.mp3 => 5.85 MB
+│    │       Married To America - 03 - Sanjh Laja Gayi.mp3 => 4.12 MB
+│    │       Married To America - 04 - Haadson Mein.mp3 => 7.18 MB
+│    │       Married To America - 05 - Rabba Re.mp3 => 6.20 MB
+│    │       Married To America - 06 - Dil Ki Itni Kahani Hai (Sad Version).mp3 => 3.11 MB
+│    │
+│    ├─── Maximum (2012) 320Kbps [Ripped : 14/03/16]
+│    │
+│    │       01 - Maximum - Aa Ante Amalapuram.mp3 => 9.11 MB
+│    │       02 - Maximum - Maan Qunto Maula.mp3 => 8.71 MB
+│    │       03 - Maximum - Aaja Meri Jaan.mp3 => 9.12 MB
+│    │       04 - Maximum - Sutta.mp3 => 9.01 MB
+│    │       05 - Maximum - Ya Maula.mp3 => 15.03 MB
+│    │       06 - Maximum - Namani Shamishaan.mp3 => 5.85 MB
+│    │
+│    ├─── Mr. Bhatti On Chutti (2012) [Ripped : 14/03/16]
+│    │
+│    │       01 - Good Boys Bad Boys.mp3 => 5.30 MB
+│    │       02 - Mr. Bhatti On Chutti.mp3 => 6.24 MB
+│    │       03 - Balle Balle.mp3 => 5.43 MB
+│    │       04 - Pani Pani.mp3 => 4.00 MB
+│    │       05 - Bhatti Is Gonna Get Ya.mp3 => 3.07 MB
+│    │
+│    ├─── Myoho (2012) [Ripped : 15/03/16]
+│    │
+│    │       Myoho - 01 - Haq Ali Da.mp3 => 3.96 MB
+│    │       Myoho - 02 - Saathiya.mp3 => 6.98 MB
+│    │       Myoho - 03 - Naag Lapete.mp3 => 5.14 MB
+│    │       Myoho - 04 - Vande Mataram.mp3 => 5.31 MB
+│    │       Myoho - 05 - Boyega.mp3 => 4.77 MB
+│    │       Myoho - 06 - Naag Lapete (Remix).mp3 => 6.15 MB
+│    │       Myoho - 07 - Myoho Theme (Remix).mp3 => 5.21 MB
+│    │
+│    ├─── OMG Oh My God! (2012) [Ripped : 15/03/16]
+│    │
+│    │       Oh My God - 01 - Go Go Govinda.mp3 => 5.96 MB
+│    │       Oh My God - 02 - Go Go Govinda (Reprise).mp3 => 5.93 MB
+│    │
+│    ├─── Players (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       Players - 01 - Jis Jagah Pe Khatam.mp3 => 8.18 MB
+│    │       Players - 02 - Kyun Dooriyan (Jhoom Jhoom Ta Ja).mp3 => 10.05 MB
+│    │       Players - 03 - Ho Gayi Tun.mp3 => 7.79 MB
+│    │       Players - 04 - Buddhi Do Bhagwaan (Charlie's Song).mp3 => 9.59 MB
+│    │       Players - 05 - Dil Ye Bekarar Kyun Hai.mp3 => 8.53 MB
+│    │       Players - 06 - Kyun Dooriyan (Jhoom Jhoom Ta Hun Main).mp3 => 9.19 MB
+│    │       Players - 07 - Dil Ye Bekarar Kyun Hai (Reprise).mp3 => 10.61 MB
+│    │       Players - 08 - Jhoom Jhoom Ta Hun Main (Film Version).mp3 => 9.78 MB
+│    │       Players - 09 - Jis Jagah Pe Khatam (Remix).mp3 => 6.83 MB
+│    │       Players - 10 - Dil Ye Bekarar Kyun Hai (Remix).mp3 => 10.10 MB
+│    │
+│    ├─── Qasam Se Qasam Se (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       01 - Pankh Lage.mp3 => 10.97 MB
+│    │       02 - Rokde Ki Maya.mp3 => 9.46 MB
+│    │       03 - Zindagi Kahe Rahi Hain.mp3 => 9.09 MB
+│    │       04 - Bolne Mein Kya Jaata Hain.mp3 => 8.46 MB
+│    │       05 - Mumkin Nahin.mp3 => 6.84 MB
+│    │       06 - Tum Kahan Ho.mp3 => 10.65 MB
+│    │       07 - Qasam Se Qasam Se.mp3 => 9.33 MB
+│    │       08 - Har Varak.mp3 => 9.23 MB
+│    │       09 - Meethi Yaadein.mp3 => 14.11 MB
+│    │       10 - Tujhe Paya.mp3 => 9.75 MB
+│    │       11 - Mumkin (Sad Version).mp3 => 4.87 MB
+│    │       12 - Meethi Yaadein (Remix).mp3 => 10.30 MB
+│    │
+│    ├─── Qayamat Hi Qayamat (2012) [Ripped : 15/03/16]
+│    │
+│    │       01 - Nakhralo.mp3 => 4.69 MB
+│    │       02 - Janam Janam.mp3 => 5.59 MB
+│    │       03 - Bichchuda.mp3 => 4.09 MB
+│    │       04 - Teri Ye Daphli.mp3 => 6.11 MB
+│    │       05 - Nazar Se Nazar.mp3 => 4.91 MB
+│    │       06 - Raja Se Kar Le Pyar.mp3 => 5.89 MB
+│    │
+│    ├─── Raaz 3 (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       Raaz 3 - 01 - Deewana Kar Raha Hai.mp3 => 10.81 MB
+│    │       Raaz 3 - 02 - Zindagi Se.mp3 => 9.00 MB
+│    │       Raaz 3 - 03 - Rafta Rafta.mp3 => 9.08 MB
+│    │       Raaz 3 - 04 - Oh My God.mp3 => 9.95 MB
+│    │       Raaz 3 - 05 - Kya Raaz Hai.mp3 => 7.55 MB
+│    │       Raaz 3 - 06 - Khayalon Mein.mp3 => 8.65 MB
+│    │
+│    ├─── Rakhtbeej (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       Rakhtbeej - 01 - Lattoo.mp3 => 10.09 MB
+│    │       Rakhtbeej - 02 - Itni Bhi Main Buri Nahi.mp3 => 7.59 MB
+│    │       Rakhtbeej - 03 - Rakhtbeej.mp3 => 8.56 MB
+│    │       Rakhtbeej - 04 - Adha Gila.mp3 => 8.85 MB
+│    │       Rakhtbeej - 05 - Naina Hue Banwre.mp3 => 12.85 MB
+│    │       Rakhtbeej - 06 - Bolbala.mp3 => 8.94 MB
+│    │       Rakhtbeej - 07 - Adha Gila (Sad Version).mp3 => 2.07 MB
+│    │       Rakhtbeej - 08 - Bolbala.mp3 => 9.24 MB
+│    │
+│    ├─── Rush (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       Rush - 01 - Chup Chup Ke (Film Version).mp3 => 7.21 MB
+│    │       Rush - 02 - Fukraa.mp3 => 5.31 MB
+│    │       Rush - 03 - Mumkin Nahin.mp3 => 8.26 MB
+│    │       Rush - 04 - O Re Khuda.mp3 => 8.12 MB
+│    │       Rush - 05 - Rab Ka Junoon.mp3 => 7.06 MB
+│    │       Rush - 06 - Chup Chup Ke.mp3 => 7.19 MB
+│    │       Rush - 07 - Hote Hote.mp3 => 6.57 MB
+│    │
+│    ├─── Sadda Adda (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       Sadda Adda - 01 - Sarphira.mp3 => 7.01 MB
+│    │       Sadda Adda - 02 - Sadda Adda Acoustic.mp3 => 7.16 MB
+│    │       Sadda Adda - 03 - Dilli Ki Billi.mp3 => 6.32 MB
+│    │       Sadda Adda - 04 - Aao Saaf Karein.mp3 => 5.22 MB
+│    │       Sadda Adda - 05 - Sadda Adda.mp3 => 5.45 MB
+│    │       Sadda Adda - 06 - Sarphira Lounge Mix.mp3 => 7.64 MB
+│    │       Sadda Adda - 07 - Dilli Ki Billi Remix.mp3 => 7.03 MB
+│    │       Sadda Adda - 08 - Dosti.mp3 => 7.06 MB
+│    │       Sadda Adda - 09 - Lecture Bunk Karna.mp3 => 8.74 MB
+│    │       Sadda Adda - 10 - Dosti Remix.mp3 => 6.53 MB
+│    │
+│    ├─── Say Yes To Love (2012) [Ripped : 15/03/16]
+│    │
+│    │       say-yes-to-bollywood01(www.SongsPK.info).mp3 => 4.56 MB
+│    │       say-yes-to-bollywood02(www.SongsPK.info).mp3 => 5.60 MB
+│    │       say-yes-to-bollywood03(www.SongsPK.info).mp3 => 6.50 MB
+│    │       say-yes-to-bollywood04(www.SongsPK.info).mp3 => 5.20 MB
+│    │       say-yes-to-bollywood05(www.SongsPK.info).mp3 => 6.55 MB
+│    │       say-yes-to-bollywood06(www.SongsPK.info).mp3 => 5.70 MB
+│    │       say-yes-to-bollywood07(www.SongsPK.info).mp3 => 2.97 MB
+│    │       say-yes-to-bollywood08(www.SongsPK.info).mp3 => 4.62 MB
+│    │
+│    ├─── Shanghai (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       Shanghai - 01 - Bharat Mata Ki Jai.mp3 => 9.05 MB
+│    │       Shanghai - 02 - Imported Kamariya.mp3 => 8.13 MB
+│    │       Shanghai - 03 - Duaa.mp3 => 7.72 MB
+│    │       Shanghai - 04 - Khudaaya.mp3 => 5.54 MB
+│    │       Shanghai - 05 - Morcha.mp3 => 7.41 MB
+│    │       Shanghai - 06 - Bharat Mata Ki Jai (Remix).mp3 => 6.73 MB
+│    │       Shanghai - 07 - Khudaaya (Remix).mp3 => 6.53 MB
+│    │       Shanghai - 08 - Mantra Vishnu Sahasranamam (The Thousand Names Of Lord Vishnu).mp3 => 8.39 MB
+│    │
+│    ├─── Shirin Farhad Ki Toh Nikal Padi (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       [SongsPK.info 01 - Ishq Mein Tere Bina.mp3 => 8.64 MB
+│    │       [SongsPK.info 02 - Khatti Meethi.mp3 => 10.43 MB
+│    │       [SongsPK.info 03 - Kaafir Andhere.mp3 => 8.55 MB
+│    │       [SongsPK.info 04 - Shirin Farhad Ki Toh Nikal Padi 1.mp3 => 7.66 MB
+│    │       [SongsPK.info 05 - Kukuduku.mp3 => 8.23 MB
+│    │       [SongsPK.info 06 - Ramba Mein Samba.mp3 => 9.60 MB
+│    │
+│    ├─── Son Of Sardaar (2012) 320Kbps [Ripped : 15/03/16]
+│    │
+│    │       01 - Son Of Sardaar.mp3 => 9.13 MB
+│    │       02 - Rani Tu Mein Raja.mp3 => 7.07 MB
+│    │       03 - Po Po.mp3 => 7.59 MB
+│    │       04 - Tu Kamaal Di Kudi.mp3 => 7.48 MB
+│    │       05 - Bichdann.mp3 => 10.25 MB
+│    │       06 - Yeh Jo Halki Halki Khumariya.mp3 => 10.29 MB
+│    │       07 - Kabhi Kabhi Mere Dil Mein Yeh Sawaal Aata Hai (Funk Version).mp3 => 7.46 MB
+│    │       08 - Son Of Sardaar (Remix).mp3 => 6.36 MB
+│    │       09 - Rani Tu Mein Raja (Remix).mp3 => 6.33 MB
+│    │       10 - Kabhi Kabhi Mere Dil Mein Yeh Sawaal Aata Hai (Trance).mp3 => 13.36 MB
+│    │       11 - Bichdann (Reprise).mp3 => 7.55 MB
+│    │
+│    ├─── Student Of The Year (2012) [Ripped : 16/03/16]
+│    │
+│    │       Student Of The Year - 01 - Ratta Maar.mp3 => 4.29 MB
+│    │       Student Of The Year - 04 - The Disco Song.mp3.chunk0 => 0.00 MB
+│    │       Student Of The Year - 04 - The Disco Song.mp3.chunk1 => 0.00 MB
+│    │       Student Of The Year - 04 - The Disco Song.mp3.chunk2 => 0.00 MB
+│    │       Student Of The Year - 04 - The Disco Song.mp3.chunk3 => 0.00 MB
+│    │       Student Of The Year - 04 - The Disco Song.mp3.chunk4 => 0.00 MB
+│    │       Student Of The Year - 04 - The Disco Song.mp3.chunks => 0.00 MB
+│    │       Student Of The Year - 05 - Kukkad.mp3 => 5.62 MB
+│    │
+│    ├─── Talaash (2012) 320Kbps [Ripped : 16/03/16]
+│    │
+│    │       Talaash - 01 - Muskaanein Jhooti Hai.mp3 => 6.28 MB
+│    │       Talaash - 02 - Jee Le Zaraa.mp3 => 6.80 MB
+│    │       Talaash - 03 - Jiya Lage Na.mp3 => 8.64 MB
+│    │       Talaash - 04 - Hona Hai Kya.mp3 => 8.83 MB
+│    │       Talaash - 05 - Laakh Duniya Kahe.mp3 => 11.30 MB
+│    │       Talaash - 06 - Jee Le Zaraa (Remix).mp3 => 7.47 MB
+│    │
+│    ├─── Tere Naal Love Ho Gaya (2012) 320Kbps [Ripped : 16/03/16]
+│    │
+│    │       01 - Piya O Re Piya.mp3 => 9.35 MB
+│    │       02 - Jeene De.mp3 => 10.19 MB
+│    │       03 - Pee Pa Pee Pa Ho Gaya.mp3 => 7.30 MB
+│    │       04 - Tu Mohabbat Hai.mp3 => 10.31 MB
+│    │       05 - Fann Ban Gayi.mp3 => 7.32 MB
+│    │       06 - Piya O Re Piya (Sad).mp3 => 4.85 MB
+│    │       07 - Piya (Remix by DJ Suketu).mp3 => 6.14 MB
+│    │       08 - Tu Mohabbat Hai (Remix by DJ Suketu).mp3 => 12.46 MB
+│    │       09 - Jeene De (Coffee House Version).mp3 => 7.99 MB
+│    │       10 - Pee Pa Desi Mix (Remix by VIP Records, UK).mp3 => 6.28 MB
+│    │       11 - Fann Ban Gayi Remix (Remix by VIP Records, UK).mp3 => 6.24 MB
+│    │
+│    ├─── Tezz (2012) 320Kbps [Ripped : 16/03/16]
+│    │
+│    │       Tezz - 01 - Tere Bina.mp3 => 9.21 MB
+│    │       Tezz - 02 - Tezz (Female Version).mp3 => 10.13 MB
+│    │       Tezz - 03 - Main Hoon Shab.mp3 => 9.39 MB
+│    │       Tezz - 04 - Laila.mp3 => 9.13 MB
+│    │       Tezz - 05 - Tere Bina (Female Version).mp3 => 9.22 MB
+│    │       Tezz - 06 - Tezz (Male Version).mp3 => 10.16 MB
+│    │       Tezz - 07 - Laila (Remix).mp3 => 7.49 MB
+│    │       Tezz - 08 - Tere Bina (Remix).mp3 => 9.98 MB
+│    │       Tezz - 09 - Tezz (Female Remix).mp3 => 10.55 MB
+│    │       Tezz - 10 - Tere Bina (Sad Version).mp3 => 5.97 MB
+│    │       Tezz - 11 - Tezz (Male Remix).mp3 => 10.51 MB
+│    │       Tezz - 12 - Tere Bina (Indian).mp3 => 9.50 MB
+│    │
+│    ├─── The Real Life of Mandi (2012) [Ripped : 16/03/16]
+│    │
+│    │       01 - Bahon Mein Bahon Ko.mp3 => 7.35 MB
+│    │       02 - Ishq Khuda Ki Rahmat Hai.mp3 => 5.92 MB
+│    │       03 - Mast Mast Mastani Re.mp3 => 6.31 MB
+│    │       04 - Tu Hai Kahan (Male).mp3 => 7.95 MB
+│    │       05 - Kardi Hawale Tere Maine.mp3 => 7.50 MB
+│    │       06 - Bali Umariya.mp3 => 5.71 MB
+│    │       07 - Beti Hai Paraya Dhan.mp3 => 8.83 MB
+│    │       08 - Tu Hai Kahan (Female).mp3 => 4.69 MB
+│    │
+│    ├─── Tutiya Dil (2012) [Ripped : 16/03/16]
+│    │
+│    │       tutiyadil01(www.SongsPK.info).mp3 => 5.28 MB
+│    │       tutiyadil02(www.SongsPK.info).mp3 => 5.48 MB
+│    │       tutiyadil03(www.SongsPK.info).mp3 => 6.31 MB
+│    │       tutiyadil04(www.SongsPK.info).mp3 => 5.62 MB
+│    │       tutiyadil05(www.SongsPK.info).mp3 => 5.44 MB
+│    │       tutiyadil06(www.SongsPK.info).mp3 => 5.48 MB
+│    │
+│    ├─── Valentine&#039;s Night (2012) [Ripped : 16/03/16]
+│    │
+│    │       valentinesnight01(www.SongsPK.info).mp3 => 5.34 MB
+│    │       valentinesnight02(www.SongsPK.info).mp3 => 4.84 MB
+│    │       valentinesnight03(www.SongsPK.info).mp3 => 4.63 MB
+│    │       valentinesnight04(www.SongsPK.info).mp3 => 5.55 MB
+│    │
+│    ├─── Vicky Donor (2012) 320Kbps [Ripped : 16/03/16]
+│    │
+│    │       Vicky Donor - 01 - Rokda.mp3 => 8.00 MB
+│    │       Vicky Donor - 02 - Kho Jaane De.mp3 => 8.61 MB
+│    │       Vicky Donor - 03 - Rum & Whisky.mp3 => 7.47 MB
+│    │       Vicky Donor - 04 - Pani Da Rang (Male).mp3 => 7.50 MB
+│    │       Vicky Donor - 05 - Mar Jayian (Romantic).mp3 => 9.18 MB
+│    │       Vicky Donor - 06 - Chaddha.mp3 => 6.77 MB
+│    │       Vicky Donor - 07 - Pani Da Rang (Female).mp3 => 8.60 MB
+│    │       Vicky Donor - 08 - Mar Jayian (Sad).mp3 => 7.94 MB
+│    │
+│    ├─── Will You Marry Me? (2012) [Ripped : 16/03/16]
+│    │
+│    │       Will You Marry Me - 01 - Kalma.mp3 => 6.53 MB
+│    │       Will You Marry Me - 02 - Soniye.mp3 => 5.17 MB
+│    │       Will You Marry Me - 03 - Superman.mp3 => 4.37 MB
+│    │       Will You Marry Me - 04 - Danke Ki Chot.mp3 => 4.40 MB
+│    │       Will You Marry Me - 05 - Tu Ru Tu Ru Tu.mp3 => 4.35 MB
+│    │       Will You Marry Me - 06 - Danke Ki Chot (Duet).mp3 => 5.56 MB
+│    │       Will You Marry Me - 07 - Kalma (Remix).mp3 => 5.24 MB
+│    │       Will You Marry Me - 08 - Superman (Remix) .mp3 => 4.40 MB
+│    │
+│    ├─── Yeh Jo Mohabbat Hai (2012) [Ripped : 16/03/16]
+│    │
+│    │       01 - Pyar Karna Na Tha (Male).mp3 => 8.10 MB
+│    │       02 - Pyar Karna Na Tha (Female).mp3 => 7.93 MB
+│    │       03 - Tere Bina Jee Na Lage.mp3 => 6.82 MB
+│    │       04 - Naina Thak Thak Haare.mp3 => 7.99 MB
+│    │       05 - Kyon Kyon.mp3 => 4.83 MB
+│    │       06 - Big Fat Indian Wedding.mp3 => 6.67 MB
+│    │       07 - Angel My Angel.mp3 => 7.49 MB
+├── 2011
+│    │
+│    ├─── 404 - Error Not Found (2011) 320Kbps [Ripped : 16/03/16]
+│    │
+│    │        404 Error Not Found - 01 - Kya Dekh Raha Hai.mp3 => 4.98 MB
+│    │        404 Error Not Found - 02 - Aisa Hi Hai.mp3 => 5.92 MB
+│    │        404 Error Not Found - 03 - Psycho Baba.mp3 => 3.90 MB
+│    │        404 Error Not Found - 04 - Its All In The Mind.mp3 => 6.20 MB
+│    │        404 Error Not Found - 05 - Chal Soch Le.mp3 => 5.89 MB
+│    │        404 Error Not Found - 06 - 404 Theme.mp3 => 4.71 MB
+│    │
+│    ├─── 5 Ghantey Mien 5 Crore (2011) [Ripped : 16/03/16]
+│    │
+│    │       5ghantey-5crore01(www.SongsPK.info).mp3 => 5.65 MB
+│    │       5ghantey-5crore02(www.SongsPK.info).mp3 => 5.48 MB
+│    │       5ghantey-5crore03(www.SongsPK.info).mp3 => 3.42 MB
+│    │       5ghantey-5crore04(www.SongsPK.info).mp3 => 4.16 MB
+│    │       5ghantey-5crore05(www.SongsPK.info).mp3 => 4.14 MB
+│    │       5ghantey-5crore06(www.SongsPK.info).mp3 => 5.76 MB
+│    │       5ghantey-5crore07(www.SongsPK.info).mp3 => 3.34 MB
+│    │       5ghantey-5crore08(www.SongsPK.info).mp3 => 5.06 MB
+│    │       5ghantey-5crore09(www.SongsPK.info).mp3 => 5.05 MB
+│    │
+│    ├─── 7 Khoon Maaf (2011) 320Kbps [Ripped : 16/03/16]
+│    │
+│    │       7 Khoon Maaf - 01 - Darling.mp3 => 6.54 MB
+│    │       7 Khoon Maaf - 02 - Bekaraan.mp3 => 11.59 MB
+│    │       7 Khoon Maaf - 03 - O' Mama.mp3 => 8.95 MB
+│    │       7 Khoon Maaf - 04 - Awaara.mp3 => 10.12 MB
+│    │       7 Khoon Maaf - 05 - Tere liye.mp3 => 10.50 MB
+│    │       7 Khoon Maaf - 06 - Dil Dil hai.mp3 => 5.77 MB
+│    │       7 Khoon Maaf - 07 - Yeshu.mp3 => 11.41 MB
+│    │       7 Khoon Maaf - 08 - Doosri Darling.mp3 => 5.69 MB
+│    │       7 Khoon Maaf - 09 - O' Mama (Acoustic).mp3 => 3.36 MB
+│    │
+│    ├─── A Strange Love Story (2011) [Ripped : 16/03/16]
+│    │
+│    │       astrangelovestory01(www.SongsPK.info).mp3 => 2.86 MB
+│    │       astrangelovestory02(www.SongsPK.info).mp3 => 2.90 MB
+│    │       astrangelovestory03(www.SongsPK.info).mp3 => 2.80 MB
+│    │       astrangelovestory04(www.SongsPK.info).mp3 => 1.99 MB
+│    │       astrangelovestory05(www.SongsPK.info).mp3 => 0.76 MB
+│    │       astrangelovestory06(www.SongsPK.info).mp3 => 1.50 MB
+│    │       astrangelovestory07(www.SongsPK.info).mp3 => 1.97 MB
+│    │
+│    ├─── Aarakshan (2011) 320Kbps [Ripped : 17/03/16]
+│    │
+│    │       Aarakshan - 01 - Achha Lagta Hai.mp3 => 7.17 MB
+│    │       Aarakshan - 02 - Mauka.mp3 => 8.72 MB
+│    │       Aarakshan - 03 - Kaun Si Dor.mp3 => 10.26 MB
+│    │       Aarakshan - 04 - Roshanee.mp3 => 8.28 MB
+│    │       Aarakshan - 05 - Saans Albeli.mp3 => 10.23 MB
+│    │       Aarakshan - 06 - Mauka - Remix.mp3 => 6.19 MB
+│    │
+│    ├─── Aashiqui.in (2011) [Ripped : 17/03/16]
+│    │
+│    │       aashiqui.in01(www.SongsPK.info).mp3 => 4.41 MB
+│    │       aashiqui.in02(www.SongsPK.info).mp3 => 4.19 MB
+│    │       aashiqui.in03(www.SongsPK.info).mp3 => 4.98 MB
+│    │       aashiqui.in04(www.SongsPK.info).mp3 => 5.20 MB
+│    │       aashiqui.in05(www.SongsPK.info).mp3 => 3.64 MB
+│    │       aashiqui.in06(www.SongsPK.info).mp3 => 3.81 MB
+│    │       aashiqui.in07(www.SongsPK.info).mp3 => 4.25 MB
+│    │       aashiqui.in08(www.SongsPK.info).mp3 => 4.06 MB
+│    │       aashiqui.in09(www.SongsPK.info).mp3 => 4.49 MB
+│    │       aashiqui.in10(www.SongsPK.info).mp3 => 4.14 MB
+│    │
+│    ├─── Aazaan (2011) 320Kbps [Ripped : 17/03/16]
+│    │
+│    │       Aazaan - 01 - Afreen.mp3 => 7.40 MB
+│    │       Aazaan - 02 - Khuda Ke liye.mp3 => 9.25 MB
+│    │       Aazaan - 03 - Bismillah.mp3 => 6.96 MB
+│    │       Aazaan - 04 - Habibi Habibi.mp3 => 9.10 MB
+│    │       Aazaan - 05 - Azaan Theme.mp3 => 3.97 MB
+│    │       Aazaan - 06 - Khuda Ke Liye (Remixed by Abhijit Vaghani).mp3 => 9.23 MB
+│    │       Aazaan - 07 - Afreen (Dessert Mix by Abhijit Vaghani).mp3 => 6.88 MB
+│    │       Aazaan - 08 - Afreen (DJ Suketu feat Pavan).mp3 => 9.46 MB
+│    │       Aazaan - 09 - Afreen (Reprise).mp3 => 7.91 MB
+│    │
+│    ├─── Always Kabhi Kabhi (2011) 320Kbps [Ripped : 17/03/16]
+│    │
+│    │       01 - Always Kabhi Kabhi.mp3 => 7.05 MB
+│    │       02 - Antenna.mp3 => 8.62 MB
+│    │       03 - School Ke Din.mp3 => 7.83 MB
+│    │       04 - Better Not Mess With Me (Rock Mix).mp3 => 6.62 MB
+│    │       05 - Undi The Condi.mp3 => 7.41 MB
+│    │       06 - Jane Kyon (Soul Version).mp3 => 8.38 MB
+│    │       07 - Better Not Mess With Me (Club Mix).mp3 => 6.27 MB
+│    │       08 - Jane Kyon (Sufi Version).mp3 => 7.38 MB
+│    │       09 - Antenna (Reloaded - Srk Mix).mp3 => 6.96 MB
+│    │       10 - Always Kabhi Kabhi (Unplugged).mp3 => 7.15 MB
+│    │
+│    ├─── Angel (2011) 320Kbps [Ripped : 17/03/16]
+│    │
+│    │       Angel - 01 - Phir Teri.mp3 => 8.79 MB
+│    │       Angel - 02 - Rubaru (Kyun Faaslein Hai).mp3 => 8.88 MB
+│    │       Angel - 03 - Aye Khuda.mp3 => 10.62 MB
+│    │       Angel - 04 - Angel.mp3 => 10.59 MB
+│    │       Angel - 05 - Tell Me Why.mp3 => 9.49 MB
+│    │       Angel - 06 - Titliyon Ki Phoor.mp3 => 7.86 MB
+│    │       Angel - 07 - Aye Khuda.mp3 => 10.71 MB
+│    │
+│    ├─── Bbuddah...Hoga Terra Baap (2011) [Ripped : 17/03/16]
+│    │
+│    │       bbuddah-hoga-tera-baap01(www.SongsPK.info).mp3 => 6.29 MB
+│    │       bbuddah-hoga-tera-baap02(www.SongsPK.info).mp3 => 3.26 MB
+│    │       bbuddah-hoga-tera-baap03(www.SongsPK.info).mp3 => 3.76 MB
+│    │       bbuddah-hoga-tera-baap04(www.SongsPK.info).mp3 => 8.11 MB
+│    │       bbuddah-hoga-tera-baap05(www.SongsPK.info).mp3 => 4.39 MB
+│    │
+│    ├─── Be-Careful (2011) [Ripped : 17/03/16]
+│    │
+│    │       be-careful01(www.SongsPK.info).mp3 => 5.12 MB
+│    │       be-careful02(www.SongsPK.info).mp3 => 6.92 MB
+│    │       be-careful03(www.SongsPK.info).mp3 => 6.51 MB
+│    │       be-careful04(www.SongsPK.info).mp3 => 4.95 MB
+│    │       be-careful05(www.SongsPK.info).mp3 => 5.10 MB
+│    │
+│    ├─── Bheja Fry 2 (2011) 320Kbps [Ripped : 17/03/16]
+│    │
+│    │       Bheja Fry 2 - 01 - Ishq Da Keeda.mp3 => 6.63 MB
+│    │       Bheja Fry 2 - 02 - We Go Crazy Tu.mp3 => 6.40 MB
+│    │       Bheja Fry 2 - 03 - O Rahi.mp3 => 6.24 MB
+│    │       Bheja Fry 2 - 04 - Banjaare.mp3 => 5.46 MB
+│    │       Bheja Fry 2 - 05 - Burra Na Maano Ji.mp3 => 7.27 MB
+│    │       Bheja Fry 2 - 06 - We Go Crazy (Remix).mp3 => 4.90 MB
+│    │
+│    ├─── Bhindi Baazaar Inc (2011) [Ripped : 17/03/16]
+│    │
+│    │       bhindibaazaar01(www.SongsPK.info).mp3 => 6.21 MB
+│    │       bhindibaazaar02(www.SongsPK.info).mp3 => 4.08 MB
+│    │       bhindibaazaar03(www.SongsPK.info).mp3 => 7.09 MB
+│    │       bhindibaazaar04(www.SongsPK.info).mp3 => 5.76 MB
+│    │       bhindibaazaar05(www.SongsPK.info).mp3 => 5.94 MB
+│    │       bhindibaazaar06(www.SongsPK.info).mp3 => 4.13 MB
+│    │
+│    ├─── Bin Bulaye Baarati (2011) [Ripped : 17/03/16]
+│    │
+│    │       binbulayebaraati01(www.SongsPK.info).mp3 => 4.47 MB
+│    │       binbulayebaraati02(www.SongsPK.info).mp3 => 4.07 MB
+│    │       binbulayebaraati03(www.SongsPK.info).mp3 => 4.31 MB
+│    │       binbulayebaraati04(www.SongsPK.info).mp3 => 3.74 MB
+│    │       binbulayebaraati05(www.SongsPK.info).mp3 => 4.41 MB
+│    │
+│    ├─── Bodyguard (2011) 320Kbps [Ripped : 17/03/16]
+│    │
+│    │       Bodyguard - 01 - Bodyguard (Title Track).mp3 => 6.88 MB
+│    │       Bodyguard - 02 - I Love You.mp3 => 7.78 MB
+│    │       Bodyguard - 03 - Desi Beat.mp3 => 7.71 MB
+│    │       Bodyguard - 04 - Teri Meri.mp3 => 9.71 MB
+│    │       Bodyguard - 05 - Desi Beat (Remix).mp3 => 7.17 MB
+│    │       Bodyguard - 06 - Teri Meri (Reprise).mp3 => 6.52 MB
+│    │       Bodyguard - 07 - Teri Meri (Remix).mp3 => 9.96 MB
+│    │       Bodyguard - 08 - Bodyguard (Title Track Remix).mp3 => 6.22 MB
+│    │       Bodyguard - 09 - Desi Beat (Punjabi Hip Hop Mix).mp3 => 7.31 MB
+│    │       Bodyguard - 10 - I Love You (Remix).mp3 => 7.06 MB
+│    │       Bodyguard - 11 - I Love You (Unplugged).mp3 => 7.51 MB
+│    │       Bodyguard - 12 - Theme Of Bodyguard.mp3 => 4.62 MB
+│    │
+│    ├─── Chala Mussaddi - Office Office (2011) [Ripped : 17/03/16]
+│    │
+│    │       cm-officeoffice01(www.SongsPK.info).mp3 => 4.37 MB
+│    │       cm-officeoffice02(www.SongsPK.info).mp3 => 5.27 MB
+│    │       cm-officeoffice03(www.SongsPK.info).mp3 => 1.56 MB
+│    │       cm-officeoffice04(www.SongsPK.info).mp3 => 4.35 MB
+│    │       cm-officeoffice05(www.SongsPK.info).mp3 => 4.53 MB
+│    │       cm-officeoffice06(www.SongsPK.info).mp3 => 5.31 MB
+│    │       cm-officeoffice07(www.SongsPK.info).mp3 => 1.59 MB
+│    │
+│    ├─── Chalo Dilli (2011) [Ripped : 17/03/16]
+│    │
+│    │       chalodilli01(www.SongsPK.info).mp3 => 5.18 MB
+│    │       chalodilli02(www.SongsPK.info).mp3 => 5.33 MB
+│    │       chalodilli03(www.SongsPK.info).mp3 => 7.02 MB
+│    │       chalodilli04(www.SongsPK.info).mp3 => 3.66 MB
+│    │       chalodilli05(www.SongsPK.info).mp3 => 5.57 MB
+│    │       chalodilli06(www.SongsPK.info).mp3 => 6.51 MB
+│    │       chalodilli07(www.SongsPK.info).mp3 => 2.80 MB
+│    │       chalodilli08(www.SongsPK.info).mp3 => 4.24 MB
+│    │
+│    ├─── Chargesheet (2011) [Ripped : 17/03/16]
+│    │
+│    │       chargesheet01(www.SongsPK.info).mp3 => 4.46 MB
+│    │       chargesheet02(www.SongsPK.info).mp3 => 6.05 MB
+│    │       chargesheet03(www.SongsPK.info).mp3 => 5.04 MB
+│    │       chargesheet04(www.SongsPK.info).mp3 => 6.21 MB
+│    │       chargesheet05(www.SongsPK.info).mp3 => 4.36 MB
+│    │       chargesheet06(www.SongsPK.info).mp3 => 4.88 MB
+│    │
+│    ├─── Chatur Singh Two Star (2011) 320Kbps [Ripped : 17/03/16]
+│    │
+│    │       01 - Singh Singh Singh.mp3 => 7.86 MB
+│    │       02 - Chandni Chowk Se.mp3 => 8.10 MB
+│    │       03 - Ishqan Da Ishqan Da.mp3 => 8.15 MB
+│    │       04 - Jungle Ki Heerni Hu.mp3 => 8.77 MB
+│    │       05 - Murga Anda Dega.mp3 => 8.62 MB
+│    │       06 - Jungle Ki Heerni Hu (Remix).mp3 => 8.47 MB
+│    │       07 - Singh Singh (Remix).mp3 => 8.16 MB
+│    │
+│    ├─── Chitkabrey - Shades Of Grey (2011) [Ripped : 18/03/16]
+│    │
+│    │       chitkabrey01(www.SongsPK.info).mp3 => 6.15 MB
+│    │       chitkabrey02(www.SongsPK.info).mp3 => 4.51 MB
+│    │       chitkabrey03(www.SongsPK.info).mp3 => 4.86 MB
+│    │       chitkabrey04(www.SongsPK.info).mp3 => 5.60 MB
+│    │       chitkabrey05(www.SongsPK.info).mp3 => 4.16 MB
+│    │
+│    ├─── College Campus (2011) [Ripped : 18/03/16]
+│    │
+│    │       01 - Akhiyan Mila Mila Jara.mp3 => 7.12 MB
+│    │       02 - Tanhai Mein Khamoshi Se.mp3 => 8.86 MB
+│    │       03 - Ishq Mein Ruswai.mp3 => 7.06 MB
+│    │       04 - Dum Bhar Na Dum Lenge.mp3 => 9.32 MB
+│    │       05 - Ishq Mein Ruswai (Ishq Manjil).mp3 => 7.10 MB
+│    │       06 - U R My Love.mp3 => 5.82 MB
+│    │
+│    ├─── Dam 999 (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       Dam 999 - 01 - Mujhe Chod Ke.mp3 => 9.38 MB
+│    │       Dam 999 - 02 - Mujhe Chod Ke.mp3 => 9.52 MB
+│    │       Dam 999 - 03 - Baath Yeh Kya.mp3 => 10.21 MB
+│    │       Dam 999 - 04 - Dam999 Theme Song.mp3 => 7.80 MB
+│    │       Dam 999 - 05 - Every Day.mp3 => 7.83 MB
+│    │       Dam 999 - 06 - O My Queen.mp3 => 7.84 MB
+│    │       Dam 999 - 07 - I Walk Away.mp3 => 7.72 MB
+│    │       Dam 999 - 08 - Dakkanaga.mp3 => 8.47 MB
+│    │
+│    ├─── Damadamm! (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       Damadamm - 01 - Damadamm.mp3 => 11.51 MB
+│    │       Damadamm - 02 - Umrao Jaan.mp3 => 8.51 MB
+│    │       Damadamm - 03 - Aaja Ve.mp3 => 4.82 MB
+│    │       Damadamm - 04 - Madhushala.mp3 => 9.20 MB
+│    │       Damadamm - 05 - Yun Toh Mera Dil.mp3 => 5.56 MB
+│    │       Damadamm - 06 - Hum Tum.mp3 => 10.09 MB
+│    │       Damadamm - 07 - Tere Bina.mp3 => 10.45 MB
+│    │       Damadamm - 08 - I Need My Space.mp3 => 9.43 MB
+│    │       Damadamm - 09 - Mango.mp3 => 6.93 MB
+│    │       Damadamm - 10 - Damadamm (Remix).mp3 => 9.62 MB
+│    │       Damadamm - 11 - Umrao Jaan (Remix).mp3 => 9.48 MB
+│    │       Damadamm - 12 - Aaja Ve (Remix).mp3 => 6.27 MB
+│    │       Damadamm - 13 - Madhushala (Remix).mp3 => 8.82 MB
+│    │       Damadamm - 14 - Madhushala (House Mix).mp3 => 9.55 MB
+│    │       Damadamm - 15 - Bhool Jaaun (Promotional Video Song).mp3 => 8.06 MB
+│    │
+│    ├─── Desi Boyz (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       Desi Boyz - 01 - Make Some Noise For The Desi Boyz.mp3 => 8.95 MB
+│    │       Desi Boyz - 02 - Subha Hone Na De.mp3 => 9.30 MB
+│    │       Desi Boyz - 03 - Jhak Maar Ke.mp3 => 7.81 MB
+│    │       Desi Boyz - 04 - Allah Maaf Kare.mp3 => 7.65 MB
+│    │       Desi Boyz - 05 - Let It Be.mp3 => 8.62 MB
+│    │       Desi Boyz - 06 - Tu Mera Hero (Subha Hone Na De).mp3 => 9.02 MB
+│    │       Desi Boyz - 07 - Allah Maaf Kare (Remix).mp3 => 9.37 MB
+│    │       Desi Boyz - 09 - Jhak Mar Ke (Remix).mp3 => 5.70 MB
+│    │       Desi Boyz - 09 - Subha Hone Na De (Remix).mp3 => 9.55 MB
+│    │       Desi Boyz - 10 - Make Some Noise For The Desi Boyz (Remix).mp3 => 8.93 MB
+│    │
+│    ├─── Don 2 (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       Don 2 - 01  - Zaraa Dil Ko Thaam Lo.mp3 => 9.07 MB
+│    │       Don 2 - 01 - Aa Raha Hoon Palat Ke.mp3 => 1.10 MB
+│    │       Don 2 - 03 - Hai Ye Maya.mp3 => 8.96 MB
+│    │       Don 2 - 04 - Dushman Mera .mp3 => 7.04 MB
+│    │       Don 2 - 05 - The King Is Back (Theme).mp3 => 7.49 MB
+│    │       Don 2 - 06 - Mujhko Pehchaanlo.mp3 => 6.32 MB
+│    │       Don 2 - 07 - Hai Yeh Maya (Remix).mp3 => 8.85 MB
+│    │       Don 2 - 08 - Mujhko Pehchaanlo (Remix).mp3 => 8.16 MB
+│    │       Don 2 - 09 - The 'Don' Waltz.mp3 => 5.83 MB
+│    │
+│    ├─── Double Dhamaal (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       Double Dhamaal - 01 - Chal Kudie.mp3 => 6.81 MB
+│    │       Double Dhamaal - 02 - Oye Oye.mp3 => 8.00 MB
+│    │       Double Dhamaal - 03 - Jalebi Bai.mp3 => 7.63 MB
+│    │       Double Dhamaal - 04 - Chill Maro.mp3 => 6.35 MB
+│    │       Double Dhamaal - 05 - Chal Kudie (Remix).mp3 => 6.41 MB
+│    │       Double Dhamaal - 06 - Oye Oye (Remix).mp3 => 8.00 MB
+│    │       Double Dhamaal - 07 - Chill Maro (Remix).mp3 => 5.34 MB
+│    │
+│    ├─── Dum Maaro Dum (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       Dum Maaro Dum - 01 - Mit Jaaye Gham (Dum Maaro Dum) .mp3 => 7.37 MB
+│    │       Dum Maaro Dum - 02 - Te Amo (Duet).mp3 => 9.27 MB
+│    │       Dum Maaro Dum - 03 - Jiyein Kyun.mp3 => 8.46 MB
+│    │       Dum Maaro Dum - 04 - Jaana Hai.mp3 => 12.66 MB
+│    │       Dum Maaro Dum - 05 - Thayn Thayn.mp3 => 6.63 MB
+│    │       Dum Maaro Dum - 06 - Te Amo (Female).mp3 => 9.22 MB
+│    │       Dum Maaro Dum - 07 - Te Amo (Reprise).mp3 => 8.42 MB
+│    │       Dum Maaro Dum - 08 - Te Amo (Remix by Kiron Kamath).mp3 => 9.76 MB
+│    │
+│    ├─── F.A.L.T.U (2011) [Ripped : 18/03/16]
+│    │
+│    │       faltu01(www.SongsPK.info).mp3 => 6.53 MB
+│    │       faltu02(www.SongsPK.info).mp3 => 4.63 MB
+│    │       faltu03(www.SongsPK.info).mp3 => 5.00 MB
+│    │       faltu04(www.SongsPK.info).mp3 => 5.53 MB
+│    │       faltu05(www.SongsPK.info).mp3 => 5.65 MB
+│    │       faltu06(www.SongsPK.info).mp3 => 4.94 MB
+│    │       faltu07(www.SongsPK.info).mp3 => 4.50 MB
+│    │       faltu08(www.SongsPK.info).mp3 => 3.87 MB
+│    │       faltu09(www.SongsPK.info).mp3 => 5.29 MB
+│    │       faltu10(www.SongsPK.info).mp3 => 4.02 MB
+│    │       faltu11(www.SongsPK.info).mp3 => 4.43 MB
+│    │
+│    ├─── Faraar (2011) [Ripped : 18/03/16]
+│    │
+│    │       faraar01(www.SongsPK.info).mp3 => 6.30 MB
+│    │       faraar02(www.SongsPK.info).mp3 => 6.33 MB
+│    │       faraar03(www.SongsPK.info).mp3 => 5.65 MB
+│    │       faraar04(www.SongsPK.info).mp3 => 5.18 MB
+│    │       faraar05(www.SongsPK.info).mp3 => 6.95 MB
+│    │       faraar06(www.SongsPK.info).mp3 => 5.27 MB
+│    │
+│    ├─── Force (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       Force - 01 - Khwabon Khwabon.mp3 => 9.73 MB
+│    │       Force - 02 - Chahoon Bhi.mp3 => 8.91 MB
+│    │       Force - 03 - Dum Hai To Aaja.mp3 => 9.21 MB
+│    │       Force - 04 - Main Chali.mp3 => 9.49 MB
+│    │       Force - 05 - Dil Ki Hai Tamanna.mp3 => 10.35 MB
+│    │
+│    ├─── Game (2011) 320Kbps [Ripped : 18/03/16]
+│    │
+│    │       [SongsPK.info Game - 01 - It's a Game.mp3 => 6.10 MB
+│    │       [SongsPK.info Game - 02 - Maine Yeh Kab Socha Tha.mp3 => 9.01 MB
+│    │       [SongsPK.info Game - 03 - Mehki Mehki.mp3 => 7.75 MB
+│    │       [SongsPK.info Game - 04 - Kaun Hai Ajnabi.mp3 => 7.66 MB
+│    │       [SongsPK.info Game - 05 - It's a Game (Reprise).mp3 => 8.56 MB
+│    │       [SongsPK.info Game - 06 - Mehki Mehki (Remix).mp3 => 6.80 MB
+│    │       [SongsPK.info Game - 07 - Kaun Hai Ajnabi (Remix).mp3 => 6.92 MB
+│    │
+│    ├─── Gandhi To Hitler (2011) [Ripped : 18/03/16]
+│    │
+│    │       gandhitohitler01(www.SongsPK.info).mp3 => 7.90 MB
+│    │       gandhitohitler02(www.SongsPK.info).mp3 => 6.76 MB
+│    │       gandhitohitler03(www.SongsPK.info).mp3 => 7.40 MB
+│    │       gandhitohitler04(www.SongsPK.info).mp3 => 7.99 MB
+│    │       gandhitohitler05(www.SongsPK.info).mp3 => 7.83 MB
+│    │       gandhitohitler06(www.SongsPK.info).mp3 => 6.36 MB
+│    │       gandhitohitler07(www.SongsPK.info).mp3 => 5.87 MB
+│    │       gandhitohitler08(www.SongsPK.info).mp3 => 3.51 MB
+│    │
+│    ├─── Ghost (2011) 320Kbps [Ripped : 19/03/16]
+│    │
+│    │       Ghost - 01 - Jalwanuma.mp3 => 8.34 MB
+│    │       Ghost - 02 - Aaja Khatam Sabr.mp3 => 8.65 MB
+│    │       Ghost - 03 - Salame Salame.mp3 => 8.83 MB
+│    │       Ghost - 04 - Dil Ke Liye.mp3 => 10.19 MB
+│    │       Ghost - 05 - Kahan Hai Tu.mp3 => 9.33 MB
+│    │
+│    ├─── Hair Is Falling (2011) [Ripped : 19/03/16]
+│    │
+│    │       hairisfalling01(www.SongsPK.info).mp3 => 6.28 MB
+│    │       hairisfalling02(www.SongsPK.info).mp3 => 6.37 MB
+│    │       hairisfalling03(www.SongsPK.info).mp3 => 3.25 MB
+│    │       hairisfalling04(www.SongsPK.info).mp3 => 6.89 MB
+│    │       hairisfalling05(www.SongsPK.info).mp3 => 5.83 MB
+│    │       hairisfalling06(www.SongsPK.info).mp3 => 5.00 MB
+│    │
+│    ├─── Happy Husbands (2011) 320Kbps [Ripped : 19/03/16]
+│    │
+│    │       01 - Aai Aai Aai Hai.mp3 => 6.95 MB
+│    │       02 - Tuhi Meri.mp3 => 7.12 MB
+│    │       03 - Aish Kar Aish Kar.mp3 => 7.05 MB
+│    │       04 - Tum Se.mp3 => 6.32 MB
+│    │       05 - Love You.mp3 => 7.87 MB
+│    │
+│    ├─── Haunted - 3D (2011) 320Kbps [Ripped : 19/03/16]
+│    │
+│    │       Haunted 3D - 01 - Tum Ho Mera Pyar.mp3 => 9.79 MB
+│    │       Haunted 3D - 02 - Jaaniya.mp3 => 9.58 MB
+│    │       Haunted 3D - 03 - Tera Hi Bas Hona Chaahoon.mp3 => 10.43 MB
+│    │       Haunted 3D - 04 - Mujhe De De Har Gham Tera.mp3 => 9.39 MB
+│    │       Haunted 3D - 05 - You're So Beautiful.mp3 => 8.34 MB
+│    │       Haunted 3D - 06 - Sau Baras.mp3 => 8.90 MB
+│    │
+│    ├─── Hostel (2011) [Ripped : 19/03/16]
+│    │
+│    │       hostel01(www.SongsPK.info).mp3 => 6.76 MB
+│    │       hostel02(www.SongsPK.info).mp3 => 5.21 MB
+│    │       hostel03(www.SongsPK.info).mp3 => 5.03 MB
+│    │       hostel04(www.SongsPK.info).mp3 => 7.49 MB
+│    │       hostel05(www.SongsPK.info).mp3 => 4.05 MB
+│    │       hostel06(www.SongsPK.info).mp3 => 4.34 MB
+│    │       hostel07(www.SongsPK.info).mp3 => 8.17 MB
+│    │
+│    ├─── Hum Dono Rangeen (2011) [Ripped : 19/03/16]
+│    │
+│    │       humdonorangeen01(www.SongsPK.info).mp3 => 1.26 MB
+│    │       humdonorangeen02(www.SongsPK.info).mp3 => 5.45 MB
+│    │       humdonorangeen03(www.SongsPK.info).mp3 => 1.04 MB
+│    │       humdonorangeen04(www.SongsPK.info).mp3 => 4.98 MB
+│    │       humdonorangeen05(www.SongsPK.info).mp3 => 2.01 MB
+│    │       humdonorangeen06(www.SongsPK.info).mp3 => 5.08 MB
+│    │       humdonorangeen07(www.SongsPK.info).mp3 => 0.56 MB
+│    │       humdonorangeen08(www.SongsPK.info).mp3 => 4.11 MB
+│    │       humdonorangeen09(www.SongsPK.info).mp3 => 0.64 MB
+│    │       humdonorangeen10(www.SongsPK.info).mp3 => 5.05 MB
+│    │       humdonorangeen11(www.SongsPK.info).mp3 => 0.69 MB
+│    │       humdonorangeen12(www.SongsPK.info).mp3 => 3.43 MB
+│    │
+│    ├─── Hum Tum Shabana (2011) 320Kbps [Ripped : 19/03/16]
+│    │
+│    │       Hum Tum Shabana - 01 - Musik Bandh Na Karo.mp3 => 6.96 MB
+│    │       Hum Tum Shabana - 02 - Hey Na Na Shabana.mp3 => 5.65 MB
+│    │       Hum Tum Shabana - 03 - Thank U Mr DJ.mp3 => 8.50 MB
+│    │       Hum Tum Shabana - 04 - Piya Kesariyo.mp3 => 8.05 MB
+│    │       Hum Tum Shabana - 05 - Kaari Kaari.mp3 => 6.83 MB
+│    │       Hum Tum Shabana - 06 - Hey Na Na Shabana (Party Map Remix).mp3 => 6.53 MB
+│    │       Hum Tum Shabana - 07 - Musik Bandh Na Karo (Remix).mp3 => 8.85 MB
+│    │
+│    ├─── I Am (2011) 320Kbps [Ripped : 19/03/16]
+│    │
+│    │       I Am - 01 - Baangur.mp3 => 8.06 MB
+│    │       I Am - 02 - Issi Baat Pe.mp3 => 7.97 MB
+│    │       I Am - 03 - Bhojhal Se.mp3 => 8.58 MB
+│    │       I Am - 04 - Aankhein.mp3 => 7.90 MB
+│    │       I Am - 05 - Saye Saye.mp3 => 9.01 MB
+│    │       I Am - 06 - Wundoo Yeredoo.mp3 => 7.17 MB
+│    │       I Am - 07 - Bhojhal Se (Remix).mp3 => 7.94 MB
+│    │       I Am - 08 - Issi Baat Pe (Bombay Bounce Club Mix).mp3 => 5.32 MB
+│    │       I Am - 09 - Baangur (Remix).mp3 => 9.03 MB
+│    │
+│    ├─── I Am Kalam (2011) [Ripped : 19/03/16]
+│    │
+│    │       iamkalam01(www.SongsPK.info).mp3 => 4.69 MB
+│    │       iamkalam02(www.SongsPK.info).mp3 => 5.36 MB
+│    │       iamkalam03(www.SongsPK.info).mp3 => 3.94 MB
+│    │       iamkalam04(www.SongsPK.info).mp3 => 3.90 MB
+│    │       iamkalam05(www.SongsPK.info).mp3 => 5.80 MB
+│    │       iamkalam06(www.SongsPK.info).mp3 => 3.26 MB
+│    │       iamkalam07(www.SongsPK.info).mp3 => 2.20 MB
+│    │       iamkalam08(www.SongsPK.info).mp3 => 4.23 MB
+│    │
+│    ├─── I Am Singh (2011) 320Kbps [Ripped : 19/03/16]
+│    │
+│    │       I Am Singh - 01 - Dukaalang Pranaasi-Shabad.mp3 => 11.80 MB
+│    │       I Am Singh - 02 - I Am Singh.mp3 => 12.84 MB
+│    │       I Am Singh - 03 - Dhol Wajda.mp3 => 8.72 MB
+│    │       I Am Singh - 04 - Kya Jeena.mp3 => 9.12 MB
+│    │       I Am Singh - 05 - Channd Paragge.mp3 => 11.23 MB
+│    │       I Am Singh - 06 - Dil Nayio Lagda.mp3 => 9.87 MB
+│    │       I Am Singh - 07 - Doori Hai.mp3 => 3.29 MB
+│    │       I Am Singh - 08 - Khanda Prithme Saajke-Chandi Di Waar.mp3 => 6.23 MB
+│    │       I Am Singh - 09 - Turban Victory.mp3 => 8.47 MB
+│    │       I Am Singh - 10 - I Am Singh (Video Edit).mp3 => 6.92 MB
+│    │
+│    ├─── Ishaan (Walt Disney Drama) [Ripped : 19/03/16]
+│    │
+│    │       ishaan01(www.SongsPK.info).mp3 => 3.71 MB
+│    │       ishaan02(www.SongsPK.info).mp3 => 4.03 MB
+│    │       ishaan03(www.SongsPK.info).mp3 => 3.91 MB
+│    │       ishaan04(www.SongsPK.info).mp3 => 4.79 MB
+│    │       ishaan05(www.SongsPK.info).mp3 => 2.29 MB
+│    │       ishaan06(www.SongsPK.info).mp3 => 2.46 MB
+│    │       ishaan07(www.SongsPK.info).mp3 => 5.50 MB
+│    │       ishaan08(www.SongsPK.info).mp3 => 3.02 MB
+│    │       ishaan09(www.SongsPK.info).mp3 => 3.62 MB
+│    │       ishaan10(www.SongsPK.info).mp3 => 2.94 MB
+│    │
+│    ├─── Jaana Pehchana (2011) [Ripped : 19/03/16]
+│    │
+│    │       jaanapehchana01(www.SongsPK.info).mp3 => 4.63 MB
+│    │       jaanapehchana02(www.SongsPK.info).mp3 => 5.35 MB
+│    │       jaanapehchana03(www.SongsPK.info).mp3 => 2.29 MB
+│    │       jaanapehchana04(www.SongsPK.info).mp3 => 4.48 MB
+│    │       jaanapehchana05(www.SongsPK.info).mp3 => 2.24 MB
+│    │       jaanapehchana06(www.SongsPK.info).mp3 => 2.01 MB
+│    │
+│    ├─── Jo Dooba So Paar - It&#039;s Love in Bihar! (2011) [Ripped : 19/03/16]
+│    │
+│    │       jo-dooba-so-paar01(www.SongsPK.info).mp3 => 4.25 MB
+│    │       jo-dooba-so-paar02(www.SongsPK.info).mp3 => 3.95 MB
+│    │       jo-dooba-so-paar03(www.SongsPK.info).mp3 => 4.73 MB
+│    │       jo-dooba-so-paar04(www.SongsPK.info).mp3 => 3.15 MB
+│    │       jo-dooba-so-paar05(www.SongsPK.info).mp3 => 3.44 MB
+│    │
+│    ├─── Jo Hum Chahein (2011) 320Kbps [Ripped : 19/03/16]
+│    │
+│    │       Jo Hum Chahein - 01 - Aaj Bhi Party.mp3 => 7.12 MB
+│    │       Jo Hum Chahein - 02 - Ishq Hothon Se.mp3 => 9.72 MB
+│    │       Jo Hum Chahein - 03 - Peepni.mp3 => 6.92 MB
+│    │       Jo Hum Chahein - 04 - Abhi Abhi.mp3 => 8.37 MB
+│    │       Jo Hum Chahein - 05 - One More One More.mp3 => 7.68 MB
+│    │
+│    ├─── Kaccha Limboo (2011) [Ripped : 19/03/16]
+│    │
+│    │       kacchalimboo01(www.SongsPK.info).mp3 => 3.85 MB
+│    │       kacchalimboo02(www.SongsPK.info).mp3 => 2.59 MB
+│    │       kacchalimboo03(www.SongsPK.info).mp3 => 3.61 MB
+│    │       kacchalimboo04(www.SongsPK.info).mp3 => 3.15 MB
+│    │       kacchalimboo05(www.SongsPK.info).mp3 => 2.86 MB
+│    │       kacchalimboo06(www.SongsPK.info).mp3 => 3.39 MB
+│    │
+│    ├─── Kashmakash (2011) [Ripped : 20/03/16]
+│    │
+│    │       kashmakash01(www.SongsPK.info).mp3 => 4.48 MB
+│    │       kashmakash02(www.SongsPK.info).mp3 => 6.67 MB
+│    │       kashmakash03(www.SongsPK.info).mp3 => 5.14 MB
+│    │       kashmakash04(www.SongsPK.info).mp3 => 5.60 MB
+│    │       kashmakash05(www.SongsPK.info).mp3 => 2.97 MB
+│    │
+│    ├─── Khap (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Khap - 01 - Deewanagi.mp3 => 7.09 MB
+│    │       Khap - 02 - Ye Wahi To Hai Hasin Chehra.mp3 => 7.84 MB
+│    │       Khap - 03 - Yeh Pyar Kaise Kab Ho Jaaye.mp3 => 10.46 MB
+│    │       Khap - 04 - Aaina Dekha.mp3 => 9.18 MB
+│    │       Khap - 05 - Ishq Ro Raha Hai.mp3 => 8.41 MB
+│    │       Khap - 06 - Tumse Bichud Kar.mp3 => 10.71 MB
+│    │       Khap - 07 - Es Pyar Ki Jadugari.mp3 => 5.39 MB
+│    │       Khap - 08 - Har Ek Burai.mp3 => 7.65 MB
+│    │
+│    ├─── Kucch Luv Jaisaa (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Kucch Luv Jaisa - 01 - Naina.mp3 => 9.69 MB
+│    │       Kucch Luv Jaisa - 02 - Thoda Sa Pyaar.mp3 => 8.46 MB
+│    │       Kucch Luv Jaisa - 03 - Baadlon Pe Paon.mp3 => 7.78 MB
+│    │       Kucch Luv Jaisa - 04 - Khwab (Rock).mp3 => 8.45 MB
+│    │       Kucch Luv Jaisa - 05 - Thoda Sa Pyaar (Raghav's Search For Love).mp3 => 8.85 MB
+│    │       Kucch Luv Jaisa - 06 - Khwab (Raghav's Confession).mp3 => 10.35 MB
+│    │       Kucch Luv Jaisa - 07 - Thoda Sa Pyaar (Madhu's Search For Love).mp3 => 9.53 MB
+│    │
+│    ├─── Ladies Vs Ricky Bahl (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Ladies Vs Ricky Bahl - 01 - Aadat Se Majboor.mp3 => 8.69 MB
+│    │       Ladies Vs Ricky Bahl - 02 - Jazba.mp3 => 8.35 MB
+│    │       Ladies Vs Ricky Bahl - 03 - Thug Le.mp3 => 6.81 MB
+│    │       Ladies Vs Ricky Bahl - 04 - Jigar Da Tukda.mp3 => 7.80 MB
+│    │       Ladies Vs Ricky Bahl - 05 - Fatal Attraction.mp3 => 6.57 MB
+│    │       Ladies Vs Ricky Bahl - 06 - Aadat Se Majboor (Remix).mp3 => 8.64 MB
+│    │       Ladies Vs Ricky Bahl - 07 - Jazba (Remix).mp3 => 7.40 MB
+│    │
+│    ├─── Lanka (2011) [Ripped : 20/03/16]
+│    │
+│    │       lanka01(www.SongsPK.info).mp3 => 4.56 MB
+│    │       lanka02(www.SongsPK.info).mp3 => 5.58 MB
+│    │       lanka03(www.SongsPK.info).mp3 => 4.85 MB
+│    │       lanka04(www.SongsPK.info).mp3 => 5.09 MB
+│    │       lanka05(www.SongsPK.info).mp3 => 5.90 MB
+│    │       lanka06(www.SongsPK.info).mp3 => 4.83 MB
+│    │       lanka07(www.SongsPK.info).mp3 => 3.71 MB
+│    │
+│    ├─── Loot (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Loot - 01 - Jawani Ki Bank Loot Le.mp3 => 8.96 MB
+│    │       Loot - 02 - Loot Loot.mp3 => 9.13 MB
+│    │       Loot - 03 - Saari Duniya Mere Ispe.mp3 => 8.13 MB
+│    │       Loot - 04 - Ek Pata Ya Do Pata Ke.mp3 => 8.87 MB
+│    │       Loot - 05 - Ajab Hulchal Si.mp3 => 10.22 MB
+│    │
+│    ├─── Love Breakups Zindagi (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Love Breakups Zindagi - 01 - Rozaana.mp3 => 6.77 MB
+│    │       Love Breakups Zindagi - 02 - Rab Rakha.mp3 => 8.80 MB
+│    │       Love Breakups Zindagi - 03 - Love Love Love.mp3 => 8.38 MB
+│    │       Love Breakups Zindagi - 04 - Chhayee Hai Tanhayee.mp3 => 5.79 MB
+│    │       Love Breakups Zindagi - 05 - Rozaana.mp3 => 7.86 MB
+│    │
+│    ├─── Love Express (2011) [Ripped : 20/03/16]
+│    │
+│    │       loveexpress01(www.SongsPK.info).mp3 => 5.21 MB
+│    │       loveexpress02(www.SongsPK.info).mp3 => 6.36 MB
+│    │       loveexpress03(www.SongsPK.info).mp3 => 8.88 MB
+│    │       loveexpress04(www.SongsPK.info).mp3 => 4.68 MB
+│    │       loveexpress05(www.SongsPK.info).mp3 => 6.29 MB
+│    │       loveexpress06(www.SongsPK.info).mp3 => 5.04 MB
+│    │       loveexpress07(www.SongsPK.info).mp3 => 4.80 MB
+│    │
+│    ├─── Love U... Mr. Kalakaar! (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Love U Mr Kalakaar - 01 - Sarphira Sa Hai Dil.mp3 => 10.40 MB
+│    │       Love U Mr Kalakaar - 02 - Tera Intezaar.mp3 => 8.21 MB
+│    │       Love U Mr Kalakaar - 03 - Bhoore Bhoore Badal.mp3 => 8.29 MB
+│    │       Love U Mr Kalakaar - 04 - Love U Mr.Kalakaar.mp3 => 7.24 MB
+│    │       Love U Mr Kalakaar - 05 - Kahin Se Chali Aa.mp3 => 8.68 MB
+│    │       Love U Mr Kalakaar - 06 - Tera Intezaar (Revisited).mp3 => 5.66 MB
+│    │       Love U Mr Kalakaar - 07 - Reaching For The Rainbow.mp3 => 7.02 MB
+│    │
+│    ├─── Luv Ka The End (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       - Luv Ka The End - 01 - Luv Ka The End.mp3 => 7.04 MB
+│    │       - Luv Ka The End - 02 - Tonight.mp3 => 5.75 MB
+│    │       - Luv Ka The End - 03 - Freak Out.mp3 => 5.51 MB
+│    │       - Luv Ka The End - 04 - The Mutton Song.mp3 => 7.35 MB
+│    │       - Luv Ka The End - 05 - F.U.N. Fun Funaa.mp3 => 8.54 MB
+│    │       - Luv Ka The End - 06 - Heppy Budday Beybee #6.mp3 => 1.39 MB
+│    │
+│    ├─── Mausam (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Mausam - 01 - Rabba Main Toh Mar Gaya Oye.mp3 => 9.12 MB
+│    │       Mausam - 02 - Sajh Dhaj Ke.mp3 => 9.97 MB
+│    │       Mausam - 03 - Ik Tu Hi Tu Hi.mp3 => 13.19 MB
+│    │       Mausam - 04 - Poore Se Zara Sa Kam Hain.mp3 => 7.15 MB
+│    │       Mausam - 05 - Aag Lage Us Aag Ko.mp3 => 6.27 MB
+│    │       Mausam - 06 - Mallo Malli.mp3 => 7.19 MB
+│    │       Mausam - 07 - Rabba Main Toh Mar Gaya Oye.mp3 => 8.22 MB
+│    │       Mausam - 08 - Sajh Dhaj Ke (Desi Mix Tiger Style).mp3 => 10.03 MB
+│    │       Mausam - 09 - Sajh Dhag Ke (Club Mix Tiger Style).mp3 => 9.89 MB
+│    │       Mausam - 10 - Ik Tu Hi Tu Hi (Reprise).mp3 => 12.01 MB
+│    │       Mausam - 11 - Ik Tu Hi Tu Hi (Mehfil Mix).mp3 => 11.51 MB
+│    │       Mausam - 12 - Mallo Malli.mp3 => 7.10 MB
+│    │       Mausam - 13 - Mallo Malli (Remix).mp3 => 9.20 MB
+│    │
+│    ├─── Me Mamu &amp; 7 (2011) [Ripped : 20/03/16]
+│    │
+│    │       memamu7-01(www.SongsPK.info).mp3 => 6.33 MB
+│    │       memamu7-02(www.SongsPK.info).mp3 => 4.71 MB
+│    │       memamu7-03(www.SongsPK.info).mp3 => 6.10 MB
+│    │       memamu7-04(www.SongsPK.info).mp3 => 4.91 MB
+│    │       memamu7-05(www.SongsPK.info).mp3 => 4.65 MB
+│    │
+│    ├─── Memories In March (2011) [Ripped : 20/03/16]
+│    │
+│    │       memoriesinmarch01(www.SongsPK.info).mp3 => 3.36 MB
+│    │       memoriesinmarch02(www.SongsPK.info).mp3 => 4.84 MB
+│    │       memoriesinmarch03(www.SongsPK.info).mp3 => 3.13 MB
+│    │       memoriesinmarch04(www.SongsPK.info).mp3 => 5.09 MB
+│    │       memoriesinmarch05(www.SongsPK.info).mp3 => 4.00 MB
+│    │       memoriesinmarch06(www.SongsPK.info).mp3 => 4.24 MB
+│    │       memoriesinmarch07(www.SongsPK.info).mp3 => 2.61 MB
+│    │       memoriesinmarch08(www.SongsPK.info).mp3 => 3.56 MB
+│    │
+│    ├─── Men Will Be Men (2011) [Ripped : 20/03/16]
+│    │
+│    │       menwillbemen01(www.SongsPK.info).mp3 => 4.19 MB
+│    │       menwillbemen02(www.SongsPK.info).mp3 => 3.82 MB
+│    │       menwillbemen03(www.SongsPK.info).mp3 => 4.05 MB
+│    │
+│    ├─── Mere Brother Ki Dulhan (2011) 320Kbps [Ripped : 20/03/16]
+│    │
+│    │       Mere Brother Ki Dulhan - 01 - Mere Brother Ki Dulhan.mp3 => 7.74 MB
+│    │       Mere Brother Ki Dulhan - 02 - Dhunki.mp3 => 7.70 MB
+│    │       Mere Brother Ki Dulhan - 03 - Choomantar.mp3 => 7.56 MB
+│    │       Mere Brother Ki Dulhan - 04 - Isq Risk.mp3 => 8.01 MB
+│    │       Mere Brother Ki Dulhan - 05 - Madhubala.mp3 => 7.57 MB
+│    │       Mere Brother Ki Dulhan - 06 - Do Dhaari Talwaar.mp3 => 8.20 MB
+│    │       Mere Brother Ki Dulhan - 07 - Choomantar (Remix).mp3 => 6.81 MB
+│    │       Mere Brother Ki Dulhan - 08 - Isq Risk (Risky Mix).mp3 => 8.45 MB
+│    │
+│    ├─── Miley Naa Miley Hum (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Miley Naa Miley Hum - 01 - Haan Yahi Pyaar Hai.mp3 => 8.66 MB
+│    │       Miley Naa Miley Hum - 02 - Wake Up Now.mp3 => 9.19 MB
+│    │       Miley Naa Miley Hum - 03 - Katto Gilehri.mp3 => 8.65 MB
+│    │       Miley Naa Miley Hum - 04 - Mahi Mahi.mp3 => 7.01 MB
+│    │       Miley Naa Miley Hum - 05 - Nazar Je Nazar Mile (Rahat Version).mp3 => 9.28 MB
+│    │       Miley Naa Miley Hum - 06 - Nazar Se Nazar Mile.mp3 => 9.45 MB
+│    │
+│    ├─── Mod (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       MOD - 01 - Tu Hi Tu.mp3 => 9.43 MB
+│    │       MOD - 02 - Ai Meri Jaaniya.mp3 => 6.61 MB
+│    │       MOD - 03 - Chand Pal Ke Hamsafar.mp3 => 10.13 MB
+│    │       MOD - 04 - Aaj Main Ho Gayi Jawaan.mp3 => 8.78 MB
+│    │       MOD - 05 - Tu Hi Tu (Unplugged).mp3 => 7.93 MB
+│    │       MOD - 06 - Aaj Main Ho Gayi Jawaan (Remix).mp3 => 8.74 MB
+│    │
+│    ├─── Mujhse Fraaandship Karoge (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       01 - Dheaon Dheaon- Mujhse Fraaandship Karoge.mp3 => 6.78 MB
+│    │       02 - Uh-Oh Uh-Oh! - Mujhse Fraaandship Karoge.mp3 => 5.99 MB
+│    │       03 - Baatein Shuru - Mujhse Fraaandship Karoge.mp3 => 5.60 MB
+│    │       04 - Chhoo Le - Mujhse Fraaandship Karoge.mp3 => 7.33 MB
+│    │       05 - Har Saans Mein - Mujhse Fraaandship Karoge.mp3 => 12.04 MB
+│    │       06 - Dheaon Dheaon (The Seeti Seeti Bang Bang Mix) - Mujhse Fraaandship Karoge.mp3 => 9.58 MB
+│    │       07 - Uh-Oh Uh-Oh 2.0 - Mujhse Fraaandship Karoge.mp3 => 6.43 MB
+│    │       08 - Chhoo Le (The Big Bang Mix) - Mujhse Fraaandship Karoge.mp3 => 7.76 MB
+│    │
+│    ├─── Murder 2 (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Murder 2 - 01 - Hale Dil.mp3 => 11.24 MB
+│    │       Murder 2 - 02 - Aa Zara.mp3 => 9.19 MB
+│    │       Murder 2 - 03 - Aye Khuda.mp3 => 12.75 MB
+│    │       Murder 2 - 04 - Phir Mohabbat.mp3 => 9.33 MB
+│    │       Murder 2 - 05 - Tujhko Bhulaana.mp3 => 7.46 MB
+│    │       Murder 2 - 06 - Aa Zara (Reloaded).mp3 => 9.37 MB
+│    │       Murder 2 - 07 - Hale Dil (Acoustic).mp3 => 9.42 MB
+│    │       Murder 2 - 08 - Aye Khuda (Remix).mp3 => 6.91 MB
+│    │
+│    ├─── Naughty @ 40 (2011) [Ripped : 21/03/16]
+│    │
+│    │       naughty40-01(www.SongsPK.info).mp3 => 4.70 MB
+│    │       naughty40-02(www.SongsPK.info).mp3 => 3.50 MB
+│    │       naughty40-03(www.SongsPK.info).mp3 => 3.83 MB
+│    │       naughty40-04(www.SongsPK.info).mp3 => 4.13 MB
+│    │
+│    ├─── Not A Love Story (2011) [Ripped : 21/03/16]
+│    │
+│    │       notalovestory01(www.SongsPK.info).mp3 => 2.69 MB
+│    │       notalovestory02(www.SongsPK.info).mp3 => 3.73 MB
+│    │       notalovestory03(www.SongsPK.info).mp3 => 3.96 MB
+│    │       notalovestory04(www.SongsPK.info).mp3 => 2.66 MB
+│    │       notalovestory05(www.SongsPK.info).mp3 => 3.51 MB
+│    │
+│    ├─── Patiala House (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Patiala House - 01 - Laung Da Lashkara.mp3 => 9.24 MB
+│    │       Patiala House - 02 - Kyun Main Jaagoon.mp3 => 9.41 MB
+│    │       Patiala House - 03 - Rola Pe Gaya.mp3 => 8.34 MB
+│    │       Patiala House - 04 - Aadat Hai Voh.mp3 => 7.43 MB
+│    │       Patiala House - 05 - Baby When You Talk To Me.mp3 => 8.04 MB
+│    │       Patiala House - 06 - Tumba Tumba.mp3 => 8.89 MB
+│    │       Patiala House - 07 - Kyun Main Jaagoon (Unplugged).mp3 => 9.03 MB
+│    │       Patiala House - 08 - Aval Allah.mp3 => 4.66 MB
+│    │       Patiala House - 09 - Kyun Main Jaagoon (Remix).mp3 => 5.55 MB
+│    │       Patiala House - 10 - Baby When You Talk To Me (Remix).mp3 => 8.52 MB
+│    │       Patiala House - 11 - Rola Pe Gaya (Remix).mp3 => 7.73 MB
+│    │       Patiala House - 12 - Laung Da Lashkara (Remix).mp3 => 10.62 MB
+│    │
+│    ├─── Phhir (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Phhir - 01 - Yaadein.mp3 => 9.34 MB
+│    │       Phhir - 02 - Satrangi Saathiya.mp3 => 7.87 MB
+│    │       Phhir - 03 - Love Is All I Got.mp3 => 9.07 MB
+│    │       Phhir - 04 - Karma Queen.mp3 => 8.50 MB
+│    │       Phhir - 05 - Gumsum.mp3 => 7.44 MB
+│    │       Phhir - 06 - Loot.mp3 => 7.97 MB
+│    │
+│    ├─── Pyaar Ka Punchnama (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Pyaar Ka Punchnama - 01 - Life Sahi Hai.mp3 => 9.99 MB
+│    │       Pyaar Ka Punchnama - 02 - Koi Aa Raha Paas Hai.mp3 => 7.32 MB
+│    │       Pyaar Ka Punchnama - 03 - Kutta.mp3 => 7.15 MB
+│    │       Pyaar Ka Punchnama - 04 - Chak Glassi.mp3 => 8.36 MB
+│    │       Pyaar Ka Punchnama - 05 - Baanwre.mp3 => 11.85 MB
+│    │       Pyaar Ka Punchnama - 06 - Ishq Na Kariyo Kakke.mp3 => 10.51 MB
+│    │       Pyaar Ka Punchnama - 07 - Koi Aa Raha Paas Hai (Revisited).mp3 => 7.58 MB
+│    │       Pyaar Ka Punchnama - 08 - Chak Glassi (Ad Boyz).mp3 => 8.47 MB
+│    │
+│    ├─── Queens! Destiny Of Dance (2011) [Ripped : 21/03/16]
+│    │
+│    │       iqueensdod01(www.SongsPK.info).mp3 => 7.78 MB
+│    │       iqueensdod02(www.SongsPK.info).mp3 => 8.97 MB
+│    │       iqueensdod03(www.SongsPK.info).mp3 => 5.58 MB
+│    │       iqueensdod04(www.SongsPK.info).mp3 => 7.12 MB
+│    │       iqueensdod05(www.SongsPK.info).mp3 => 7.52 MB
+│    │       iqueensdod06(www.SongsPK.info).mp3 => 4.77 MB
+│    │       iqueensdod07(www.SongsPK.info).mp3 => 6.35 MB
+│    │
+│    ├─── Ra One (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Ra.One - 01 - Chammak Challo.mp3 => 7.13 MB
+│    │       Ra.One - 02 - Dildaara (Stand By Me).mp3 => 8.35 MB
+│    │       Ra.One - 03 - Criminal.mp3 => 10.27 MB
+│    │       Ra.One - 04 - Bhare Naina.mp3 => 10.74 MB
+│    │       Ra.One - 05 - Right By Your Side.mp3 => 9.30 MB
+│    │       Ra.One - 06 - Raftaarein.mp3 => 9.64 MB
+│    │       Ra.One - 07 - Jiya Mora Ghabraaye (The Chase).mp3 => 8.87 MB
+│    │       Ra.One - 08 - Chammak Challo (Remix Abhijit Vaghani).mp3 => 8.18 MB
+│    │       Ra.One - 09 - Comes The Light (Theme).mp3 => 3.05 MB
+│    │       Ra.One - 10 - I'm On (Theme).mp3 => 2.92 MB
+│    │       Ra.One - 11 - Song Of The End (Theme).mp3 => 3.15 MB
+│    │       Ra.One - 12 - Chammak Challo (Remix DJ Kushi).mp3 => 8.38 MB
+│    │       Ra.One - 13 - Criminal (Remix).mp3 => 11.78 MB
+│    │       Ra.One - 14 - Chammak Challo (International Version).mp3 => 7.12 MB
+│    │       Ra.One - 15 - Chammak Challo (Remix).mp3 => 9.44 MB
+│    │
+│    ├─── Ragini MMS (2011) [Ripped : 21/03/16]
+│    │
+│    │       raginimms01(www.SongsPK.info).mp3 => 5.83 MB
+│    │       raginimms02(www.SongsPK.info).mp3 => 4.22 MB
+│    │       raginimms03(www.SongsPK.info).mp3 => 4.34 MB
+│    │       raginimms04(www.SongsPK.info).mp3 => 4.35 MB
+│    │       raginimms05(www.SongsPK.info).mp3 => 4.24 MB
+│    │       raginimms06(www.SongsPK.info).mp3 => 6.44 MB
+│    │
+│    ├─── Rascals (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Rascals - 01 - Tik Tuk.mp3 => 7.67 MB
+│    │       Rascals - 02 - Shake It Saiyyan.mp3 => 7.37 MB
+│    │       Rascals - 03 - Pardaah Nasheen.mp3 => 8.52 MB
+│    │       Rascals - 04 - Rascals.mp3 => 8.65 MB
+│    │       Rascals - 05 - Shake It Saiyyan (Hip-Hop Mix).mp3 => 6.47 MB
+│    │       Rascals - 06 - Rascals (Dance Mix).mp3 => 9.55 MB
+│    │
+│    ├─── Ready (2011) 320Kbps [Ripped : 21/03/16]
+│    │
+│    │       Ready - 01 - Character Dheela (Ishq Ke Naam).mp3 => 8.06 MB
+│    │       Ready - 02 - Humko Pyar Hua (Chal Chale).mp3 => 10.82 MB
+│    │       Ready - 03 - Dhinka Chika.mp3 => 9.90 MB
+│    │       Ready - 04 - Meri Ada Bhi (Ishq Ne Mere).mp3 => 8.58 MB
+│    │       Ready - 05 - Dhinka Chika (Remix).mp3 => 9.89 MB
+│    │       Ready - 06 - Humko Pyar Hua (Remix) (Chal Chale Remix).mp3 => 9.09 MB
+│    │       Ready - 07 - Character Dheela (Remix) (Ishq Ke Naam Remix).mp3 => 6.27 MB
+│    │       Ready - 08 - Meri Ada Bhi (Remix) (Ishq Ne Mere Remix).mp3 => 7.19 MB
+│    │
+│    ├─── Rockstar (2011) 320Kbps [Ripped : 22/03/16]
+│    │
+│    │       Rockstar - 01 - Phir Se Ud Chala.mp3 => 7.95 MB
+│    │       Rockstar - 02 - Jo Bhi Main.mp3 => 7.88 MB
+│    │       Rockstar - 03 - Katiya Karun.mp3 => 7.22 MB
+│    │       Rockstar - 04 - Kun Faya Kun.mp3 => 13.89 MB
+│    │       Rockstar - 05 - Sheher Mein.mp3 => 7.27 MB
+│    │       Rockstar - 06 - Hawaa Hawaa.mp3 => 10.66 MB
+│    │       Rockstar - 07 - Aur Ho.mp3 => 9.75 MB
+│    │       Rockstar - 08 - Tango For Taj.mp3 => 5.44 MB
+│    │       Rockstar - 09 - Tum Ko.mp3 => 9.46 MB
+│    │       Rockstar - 10 - The Dichotomy Of Fame.mp3 => 4.63 MB
+│    │       Rockstar - 11 - Nadaan Parinde.mp3 => 11.42 MB
+│    │       Rockstar - 12 - Tum Ho.mp3 => 8.74 MB
+│    │       Rockstar - 13 - Saadda Haq.mp3 => 11.42 MB
+│    │       Rockstar - 14 - Meeting Place.mp3 => 1.84 MB
+│    │
+│    ├─── Sahi Dhandhe Galat Bande (2011) [Ripped : 22/03/16]
+│    │
+│    │       sahi-dhandhe-galat-bande01(www.SongsPK.info).mp3 => 5.03 MB
+│    │       sahi-dhandhe-galat-bande02(www.SongsPK.info).mp3 => 4.31 MB
+│    │       sahi-dhandhe-galat-bande03(www.SongsPK.info).mp3 => 5.24 MB
+│    │       sahi-dhandhe-galat-bande04(www.SongsPK.info).mp3 => 5.31 MB
+│    │       sahi-dhandhe-galat-bande05(www.SongsPK.info).mp3 => 4.56 MB
+│    │       sahi-dhandhe-galat-bande06(www.SongsPK.info).mp3 => 5.02 MB
+│    │       sahi-dhandhe-galat-bande07(www.SongsPK.info).mp3 => 5.81 MB
+│    │       sahi-dhandhe-galat-bande08(www.SongsPK.info).mp3 => 6.76 MB
+│    │       sahi-dhandhe-galat-bande09(www.SongsPK.info).mp3 => 4.85 MB
+│    │       sahi-dhandhe-galat-bande10(www.SongsPK.info).mp3 => 5.04 MB
+│    │       sahi-dhandhe-galat-bande11(www.SongsPK.info).mp3 => 5.50 MB
+│    │
+│    ├─── Satrangee Parachute (2011) [Ripped : 22/03/16]
+│    │
+│    │       satrangeeparachute01(www.SongsPK.info).mp3 => 4.86 MB
+│    │       satrangeeparachute02(www.SongsPK.info).mp3 => 5.46 MB
+│    │       satrangeeparachute03(www.SongsPK.info).mp3 => 6.07 MB
+│    │       satrangeeparachute04(www.SongsPK.info).mp3 => 5.77 MB
+│    │       satrangeeparachute05(www.SongsPK.info).mp3 => 6.48 MB
+│    │       satrangeeparachute06(www.SongsPK.info).mp3 => 4.27 MB
+│    │       satrangeeparachute07(www.SongsPK.info).mp3 => 5.89 MB
+│    │       satrangeeparachute08(www.SongsPK.info).mp3 => 3.72 MB
+│    │
+│    ├─── Shaitan (2011) 320Kbps [Ripped : 22/03/16]
+│    │
+│    │       Shaitan - 01 - Bali (The Sound Of Shaitan).mp3 => 6.42 MB
+│    │       Shaitan - 02 - Nasha.mp3 => 6.08 MB
+│    │       Shaitan - 03 - Josh.mp3 => 6.98 MB
+│    │       Shaitan - 04 - Fareeda.mp3 => 6.19 MB
+│    │       Shaitan - 05 - O Yaara.mp3 => 9.72 MB
+│    │       Shaitan - 06 - Pintya.mp3 => 5.38 MB
+│    │       Shaitan - 07 - Zindagi.mp3 => 5.91 MB
+│    │       Shaitan - 08 - Amy's Theme.mp3 => 5.64 MB
+│    │       Shaitan - 09 - Nasha (Rock & Soul Version).mp3 => 7.84 MB
+│    │       Shaitan - 10 - Enter (Music).mp3 => 2.48 MB
+│    │       Shaitan - 11 - Retro Pop Shit (Music).mp3 => 6.32 MB
+│    │       Shaitan - 12 - Unleashed (Music).mp3 => 5.74 MB
+│    │       Shaitan - 13 - Outro (Music).mp3 => 2.79 MB
+│    │
+│    ├─── Shakal Pe Mat Ja (2011) [Ripped : 22/03/16]
+│    │
+│    │       shakal-pe-mat-ja01(www.SongsPK.info).mp3 => 3.58 MB
+│    │       shakal-pe-mat-ja02(www.SongsPK.info).mp3 => 5.25 MB
+│    │       shakal-pe-mat-ja03(www.SongsPK.info).mp3 => 6.40 MB
+│    │       shakal-pe-mat-ja04(www.SongsPK.info).mp3 => 4.25 MB
+│    │       shakal-pe-mat-ja05(www.SongsPK.info).mp3 => 2.09 MB
+│    │       shakal-pe-mat-ja06(www.SongsPK.info).mp3 => 1.75 MB
+│    │
+│    ├─── Shivam (2011) [Ripped : 22/03/16]
+│    │
+│    │       shivam01(www.SongsPK.info).mp3 => 4.53 MB
+│    │       shivam02(www.SongsPK.info).mp3 => 6.80 MB
+│    │       shivam03(www.SongsPK.info).mp3 => 4.35 MB
+│    │       shivam04(www.SongsPK.info).mp3 => 4.76 MB
+│    │       shivam05(www.SongsPK.info).mp3 => 4.46 MB
+│    │
+│    ├─── Shor In The City (2011) [Ripped : 22/03/16]
+│    │
+│    │       shorinthecity01(www.SongsPK.info).mp3 => 3.90 MB
+│    │       shorinthecity02(www.SongsPK.info).mp3 => 4.10 MB
+│    │       shorinthecity03(www.SongsPK.info).mp3 => 4.96 MB
+│    │       shorinthecity04(www.SongsPK.info).mp3 => 3.44 MB
+│    │       shorinthecity05(www.SongsPK.info).mp3 => 4.09 MB
+│    │       shorinthecity06(www.SongsPK.info).mp3 => 5.10 MB
+│    │       shorinthecity07(www.SongsPK.info).mp3 => 4.76 MB
+│    │       shorinthecity08(www.SongsPK.info).mp3 => 6.37 MB
+│    │
+│    ├─── Singham (2011) [Ripped : 22/03/16]
+│    │
+│    │       singham01(www.SongsPK.info).mp3 => 7.30 MB
+│    │       singham02(www.SongsPK.info).mp3 => 6.01 MB
+│    │       singham03(www.SongsPK.info).mp3 => 4.94 MB
+│    │       singham04(www.SongsPK.info).mp3 => 4.19 MB
+│    │       singham05(www.SongsPK.info).mp3 => 5.96 MB
+│    │       singham06(www.SongsPK.info).mp3 => 4.67 MB
+│    │
+│    ├─── Soundtrack (2011) 320Kbps [Ripped : 22/03/16]
+│    │
+│    │       Soundtrack - 01 - Atomizer.mp3 => 8.26 MB
+│    │       Soundtrack - 02 - Banao.mp3 => 8.15 MB
+│    │       Soundtrack - 03 - Ek Manzil.mp3 => 7.54 MB
+│    │       Soundtrack - 04 - Fakira.mp3 => 8.09 MB
+│    │       Soundtrack - 05 - Main Chala.mp3 => 9.72 MB
+│    │       Soundtrack - 06 - Naina Laagey.mp3 => 12.18 MB
+│    │       Soundtrack - 07 - Ruk Jaana Nahin (Remix).mp3 => 8.70 MB
+│    │       Soundtrack - 08 - Symphony Of The Streets.mp3 => 5.99 MB
+│    │       Soundtrack - 09 - The Soundtrack Theme.mp3 => 6.10 MB
+│    │       Soundtrack - 10 - What The F.mp3 => 7.86 MB
+│    │       Soundtrack - 11 - Yeh Jeevan Hai (Remix).mp3 => 9.05 MB
+│    │
+│    ├─── Speedy Singhs (2011) [Ripped : 22/03/16]
+│    │
+│    │       speedysinghs01(www.SongsPK.info).mp3 => 3.97 MB
+│    │       speedysinghs02(www.SongsPK.info).mp3 => 4.03 MB
+│    │       speedysinghs03(www.SongsPK.info).mp3 => 2.90 MB
+│    │       speedysinghs04(www.SongsPK.info).mp3 => 3.43 MB
+│    │       speedysinghs05(www.SongsPK.info).mp3 => 4.63 MB
+│    │       speedysinghs06(www.SongsPK.info).mp3 => 4.37 MB
+│    │       speedysinghs07(www.SongsPK.info).mp3 => 4.85 MB
+│    │       speedysinghs08(www.SongsPK.info).mp3 => 3.01 MB
+│    │
+│    ├─── Stand By (2011) [Ripped : 22/03/16]
+│    │
+│    │       standby01(www.SongsPK.info).mp3 => 5.78 MB
+│    │       standby02(www.SongsPK.info).mp3 => 7.06 MB
+│    │       standby03(www.SongsPK.info).mp3 => 5.03 MB
+│    │       standby04(www.SongsPK.info).mp3 => 6.18 MB
+│    │       standby05(www.SongsPK.info).mp3 => 7.41 MB
+│    │       standby06(www.SongsPK.info).mp3 => 5.34 MB
+│    │
+│    ├─── Stanley Ka Dabba (2011) [Ripped : 22/03/16]
+│    │
+│    │       stanleykadabba01(www.SongsPK.info).mp3 => 5.62 MB
+│    │       stanleykadabba02(www.SongsPK.info).mp3 => 5.10 MB
+│    │       stanleykadabba03(www.SongsPK.info).mp3 => 6.62 MB
+│    │       stanleykadabba04(www.SongsPK.info).mp3 => 6.32 MB
+│    │       stanleykadabba05(www.SongsPK.info).mp3 => 2.81 MB
+│    │       stanleykadabba06(www.SongsPK.info).mp3 => 1.92 MB
+│    │       stanleykadabba07(www.SongsPK.info).mp3 => 3.48 MB
+│    │
+│    ├─── Tanu Weds Manu (2011) 320Kbps [Ripped : 22/03/16]
+│    │
+│    │       Tanu Weds Manu - 01 - Sadi Gali.mp3 => 8.00 MB
+│    │       Tanu Weds Manu - 02 - Yun Hi.mp3 => 8.43 MB
+│    │       Tanu Weds Manu - 03 - Piya.mp3 => 10.46 MB
+│    │       Tanu Weds Manu - 04 - Rangrez (wadali bros).mp3 => 12.02 MB
+│    │       Tanu Weds Manu - 05 - Manu Bhaiya.mp3 => 9.11 MB
+│    │       Tanu Weds Manu - 06 - Jugni.mp3 => 6.08 MB
+│    │       Tanu Weds Manu - 07 - Rangrez.mp3 => 12.19 MB
+│    │
+│    ├─── Teen Thay Bhai (2011) 320Kbps [Ripped : 22/03/16]
+│    │
+│    │       01 - Pigeon-Kabootar - Teen Thay Bhai.mp3 => 7.27 MB
+│    │       02 - Chakkar Chakkar.mp3 => 7.96 MB
+│    │       03 - Mein Chalna Bhool Gaya.mp3 => 8.01 MB
+│    │       04 - Aar Dariya.mp3 => 8.16 MB
+│    │       05 - Teen Thay Bhai - Full Mood Mein.mp3 => 7.27 MB
+│    │       06 - Bhai Ke Chakkar - Fultu Mix.mp3 => 6.45 MB
+│    │       07 - Pgieon-Kabootar - Full On Mix.mp3 => 8.17 MB
+│    │
+│    ├─── Tell Me O Kkhuda (2011) 320Kbps [Ripped : 22/03/16]
+│    │
+│    │       Tell Me O Kkhuda - 01 - Someone Somebody.mp3 => 10.33 MB
+│    │       Tell Me O Kkhuda - 02 - Mera Man Jabse Racha Hai Sawariya.mp3 => 9.74 MB
+│    │       Tell Me O Kkhuda - 03 - Mile Na Tu.mp3 => 6.98 MB
+│    │       Tell Me O Kkhuda - 04 - Nagma Koi Gunguna Ne Ka.mp3 => 8.86 MB
+│    │       Tell Me O Kkhuda - 05 - Love You Dad.mp3 => 7.32 MB
+│    │       Tell Me O Kkhuda - 06 - Someone Somebody (Remix).mp3 => 9.74 MB
+│    │       Tell Me O Kkhuda - 07 - Tell Me O Kkhuda.mp3 => 8.49 MB
+│    │
+│    ├─── Tere Mere Phere (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       Tere Mere Phere - 01 - Hey Dude I Dont Like Shaadi.mp3 => 4.21 MB
+│    │       Tere Mere Phere - 02 - Bum Bhole.mp3 => 6.40 MB
+│    │       Tere Mere Phere - 03 - Ishq Khumari.mp3 => 6.83 MB
+│    │       Tere Mere Phere - 04 - Tere Mere Phere.mp3 => 8.95 MB
+│    │       Tere Mere Phere - 05 - Tere Bina.mp3 => 10.10 MB
+│    │
+│    ├─── Thank You (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       01 - Thankyou - Pyaar Do Pyaar Lo .mp3 => 11.39 MB
+│    │       02 - Thankyou - Razia.mp3 => 10.70 MB
+│    │       03 - Thankyou - Full Volume.mp3 => 8.83 MB
+│    │       04 - Thankyou - My Heart Is Beating.mp3 => 8.58 MB
+│    │       05 - Thankyou - Pyaar Mein.mp3 => 10.06 MB
+│    │       06 - Thankyou - Razia (Remix).mp3 => 9.30 MB
+│    │       07 - Thankyou - Pyaar Do Pyaar Lo (Remix).mp3 => 9.47 MB
+│    │       08 - Thankyou - Full Volume (Remix).mp3 => 8.41 MB
+│    │       09 - Thankyou - My Hear Is Beating (Remix).mp3 => 9.39 MB
+│    │
+│    ├─── The Dirty Picture (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       The Dirty Picture - 01 - Ooh La La.mp3 => 8.37 MB
+│    │       The Dirty Picture - 02 - Ishq Sufiyana (Male).mp3 => 10.00 MB
+│    │       The Dirty Picture - 03 - Ishq Sufiyana (Female).mp3 => 10.19 MB
+│    │       The Dirty Picture - 04 - Honeymoon Ki Raat.mp3 => 8.43 MB
+│    │       The Dirty Picture - 05 - Twinkle Twinkle.mp3 => 6.08 MB
+│    │       The Dirty Picture - 06 - Ooh La La (Dhol Mix).mp3 => 8.45 MB
+│    │
+│    ├─── Tum Hi To Ho (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       Tum Hi To Ho - 01 - Dil Ne Mere Dil Ne.mp3 => 9.64 MB
+│    │       Tum Hi To Ho - 02 - Rock You Baby.mp3 => 6.38 MB
+│    │       Tum Hi To Ho - 03 - Teri Shame Mere Sabere.mp3 => 7.41 MB
+│    │       Tum Hi To Ho - 04 - Aaye Khuda Dard Ye Gum.mp3 => 9.08 MB
+│    │       Tum Hi To Ho - 05 - Tum Hi To Ho.mp3 => 8.25 MB
+│    │       Tum Hi To Ho - 06 - Ayo Manaye Jashn.mp3 => 7.90 MB
+│    │
+│    ├─── U R My Jaan (2011) [Ripped : 23/03/16]
+│    │
+│    │       urmyjaan01(www.SongsPK.info).mp3 => 4.68 MB
+│    │       urmyjaan02(www.SongsPK.info).mp3 => 4.87 MB
+│    │       urmyjaan03(www.SongsPK.info).mp3 => 5.97 MB
+│    │       urmyjaan04(www.SongsPK.info).mp3 => 5.19 MB
+│    │       urmyjaan05(www.SongsPK.info).mp3 => 6.33 MB
+│    │       urmyjaan06(www.SongsPK.info).mp3 => 4.93 MB
+│    │
+│    ├─── United Six (2011) [Ripped : 23/03/16]
+│    │
+│    │       unitedsix01(www.SongsPK.info).mp3 => 5.33 MB
+│    │       unitedsix02(www.SongsPK.info).mp3 => 5.39 MB
+│    │       unitedsix03(www.SongsPK.info).mp3 => 5.71 MB
+│    │       unitedsix04(www.SongsPK.info).mp3 => 4.37 MB
+│    │       unitedsix05(www.SongsPK.info).mp3 => 4.14 MB
+│    │
+│    ├─── Utt Pataang (2011) [Ripped : 23/03/16]
+│    │
+│    │       uttpataang01(www.SongsPK.info).mp3 => 4.95 MB
+│    │       uttpataang02(www.SongsPK.info).mp3 => 7.36 MB
+│    │       uttpataang03(www.SongsPK.info).mp3 => 6.09 MB
+│    │       uttpataang04(www.SongsPK.info).mp3 => 5.67 MB
+│    │       uttpataang05(www.SongsPK.info).mp3 => 4.78 MB
+│    │
+│    ├─── Vikalp (2011) [Ripped : 23/03/16]
+│    │
+│    │       vikalp01(www.SongsPK.info).mp3 => 6.58 MB
+│    │       vikalp02(www.SongsPK.info).mp3 => 6.08 MB
+│    │       vikalp03(www.SongsPK.info).mp3 => 5.44 MB
+│    │       vikalp04(www.SongsPK.info).mp3 => 5.31 MB
+│    │       vikalp05(www.SongsPK.info).mp3 => 5.00 MB
+│    │
+│    ├─── West Is West (2011) [Ripped : 23/03/16]
+│    │
+│    │       westiswest01(www.SongsPK.info).mp3 => 3.35 MB
+│    │       westiswest02(www.SongsPK.info).mp3 => 3.37 MB
+│    │       westiswest03(www.SongsPK.info).mp3 => 2.65 MB
+│    │       westiswest04(www.SongsPK.info).mp3 => 2.31 MB
+│    │       westiswest05(www.SongsPK.info).mp3 => 3.40 MB
+│    │       westiswest06(www.SongsPK.info).mp3 => 5.93 MB
+│    │       westiswest07(www.SongsPK.info).mp3 => 2.31 MB
+│    │       westiswest08(www.SongsPK.info).mp3 => 2.86 MB
+│    │       westiswest09(www.SongsPK.info).mp3 => 2.55 MB
+│    │       westiswest10(www.SongsPK.info).mp3 => 2.75 MB
+│    │       westiswest11(www.SongsPK.info).mp3 => 2.84 MB
+│    │       westiswest12(www.SongsPK.info).mp3 => 3.84 MB
+│    │       westiswest13(www.SongsPK.info).mp3 => 5.69 MB
+│    │       westiswest14(www.SongsPK.info).mp3 => 4.16 MB
+│    │       westiswest15(www.SongsPK.info).mp3 => 1.28 MB
+│    │       westiswest16(www.SongsPK.info).mp3 => 3.79 MB
+│    │       westiswest17(www.SongsPK.info).mp3 => 3.58 MB
+│    │       westiswest18(www.SongsPK.info).mp3 => 8.67 MB
+│    │
+│    ├─── Ye Stupid Pyar (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       Ye Stupid Pyar - 01 - Lamha Lamha.mp3 => 8.09 MB
+│    │       Ye Stupid Pyar - 02 - Tere Naam Se.mp3 => 7.82 MB
+│    │       Ye Stupid Pyar - 03 - Aana Phir Se Aana.mp3 => 4.65 MB
+│    │       Ye Stupid Pyar - 04 - Ishq Da Mausam (feat. Ritu Pathak).mp3 => 6.20 MB
+│    │       Ye Stupid Pyar - 05 - Mehroom Hoon Main.mp3 => 5.98 MB
+│    │       Ye Stupid Pyar - 06 - Stupid Pyar (feat. Vipin Patwa).mp3 => 6.16 MB
+│    │       Ye Stupid Pyar - 07 - Aana (Remix).mp3 => 8.36 MB
+│    │       Ye Stupid Pyar - 08 - Lamha (Remix).mp3 => 7.91 MB
+│    │       Ye Stupid Pyar - 09 - Tere Naam Se (Remix).mp3 => 7.04 MB
+│    │       Ye Stupid Pyar - 10 - Romantic Theme.mp3 => 2.36 MB
+│    │       Ye Stupid Pyar - 11 - Maskara (feat. Sasha & Sadhu).mp3 => 6.21 MB
+│    │
+│    ├─── Yeh Dooriyan (2011) [Ripped : 23/03/16]
+│    │
+│    │       yehdooriyan01(www.SongsPK.info).mp3 => 4.60 MB
+│    │       yehdooriyan02(www.SongsPK.info).mp3 => 4.65 MB
+│    │       yehdooriyan03(www.SongsPK.info).mp3 => 4.62 MB
+│    │       yehdooriyan04(www.SongsPK.info).mp3 => 5.33 MB
+│    │       yehdooriyan05(www.SongsPK.info).mp3 => 5.83 MB
+│    │       yehdooriyan06(www.SongsPK.info).mp3 => 6.27 MB
+│    │       yehdooriyan07(www.SongsPK.info).mp3 => 6.20 MB
+│    │       yehdooriyan08(www.SongsPK.info).mp3 => 5.03 MB
+│    │       yehdooriyan09(www.SongsPK.info).mp3 => 5.69 MB
+│    │       yehdooriyan10(www.SongsPK.info).mp3 => 4.23 MB
+│    │       yehdooriyan11(www.SongsPK.info).mp3 => 5.05 MB
+│    │       yehdooriyan12(www.SongsPK.info).mp3 => 6.67 MB
+│    │       yehdooriyan13(www.SongsPK.info).mp3 => 3.45 MB
+│    │
+│    ├─── Yeh Saali Zindagi (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       01 - Yeh Saali Zindagi (Duet).mp3 => 9.45 MB
+│    │       02 - Sararara.mp3 => 11.08 MB
+│    │       03 - Dil Dar-Ba-Dar.mp3 => 10.87 MB
+│    │       04 - Ishq Tere Jalwe.mp3 => 10.65 MB
+│    │       05 - Kaise Kahein Alvida.mp3 => 7.78 MB
+│    │       06 - Yeh Saali Zindagi (Bonus Song).mp3 => 6.38 MB
+│    │       07 - Sararara (Zindagi Nikal Chali Sararara).mp3 => 11.05 MB
+│    │       08 - Yeh Saali Zindagi (Female).mp3 => 9.45 MB
+│    │
+│    ├─── Zindagi Na Milegi Dobara (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       Zindagi Na Milegi Dobara - 01 - Dil Dhadakne Do.mp3 => 7.92 MB
+│    │       Zindagi Na Milegi Dobara - 02 - Aisi Gehraiyaan Aisi Tanhaiyaan.mp3 => 2.45 MB
+│    │       Zindagi Na Milegi Dobara - 03 - Ik Junoon (Paint It Red).mp3 => 9.59 MB
+│    │       Zindagi Na Milegi Dobara - 04 - Yeh Jaane Kaisa Raaz Hai.mp3 => 2.24 MB
+│    │       Zindagi Na Milegi Dobara - 05 - Khaabon Ke Parinday.mp3 => 7.91 MB
+│    │       Zindagi Na Milegi Dobara - 06 - Senorita.mp3 => 7.89 MB
+│    │       Zindagi Na Milegi Dobara - 07 - Dil Aakhir Tu Kyun Rota Hai.mp3 => 2.48 MB
+│    │       Zindagi Na Milegi Dobara - 08 - Der Lagi Lekin.mp3 => 10.24 MB
+│    │       Zindagi Na Milegi Dobara - 09 - Toh Zinda Ho Tum.mp3 => 2.49 MB
+│    │       Zindagi Na Milegi Dobara - 10 - Sooraj Ki Baahon Mein.mp3 => 6.62 MB
+│    │       Zindagi Na Milegi Dobara - 11 - Ik Junoon (Remix).mp3 => 7.86 MB
+│    │       Zindagi Na Milegi Dobara - 12 - Senorita (Remix).mp3 => 9.28 MB
+│    │
+│    ├─── Zokkomon (2011) 320Kbps [Ripped : 23/03/16]
+│    │
+│    │       Zokkomon - 01 - Eena Meena Myna Mo.mp3 => 7.46 MB
+│    │       Zokkomon - 02 - Suno Brother.mp3 => 5.53 MB
+│    │       Zokkomon - 03 - Zokkomon.mp3 => 6.64 MB
+│    │       Zokkomon - 04 - Zokkomon Title Song.mp3 => 8.28 MB
+│    │       Zokkomon - 05 - Jhunjhunmakadstrama.mp3 => 9.26 MB
+│    │       Zokkomon - 06 - Tum Bin Ye Dil Ghabraye.mp3 => 7.74 MB
+└── 2010
+     │
+     ├─── 332 Mumbai To India (2010) [Ripped : 23/03/16]
+     │
+     │       332 - Mumbai To India - 01 - Amchi Mumbai.mp3 => 8.25 MB
+     │       332 - Mumbai To India - 02 - Unmaad Ranjit.mp3 => 6.07 MB
+     │       332 - Mumbai To India - 03 - Maula Mere Maula.mp3 => 6.44 MB
+     │       332 - Mumbai To India - 04 - Saare Jahan Se Achha.mp3 => 9.82 MB
+     │       332 - Mumbai To India - 05 - Unmaad Ranjit (Alternate).mp3 => 7.95 MB
+     │       332 - Mumbai To India - 06 - Lost In Darkness (Instrumental).mp3 => 4.36 MB
+     │
+     ├─── A Flat (2010) [Ripped : 24/03/16]
+     │
+     │       A Flat - 01  - Meetha Sa Ishq.mp3 => 8.22 MB
+     │       A Flat - 02  - Dil Kashi.mp3 => 6.69 MB
+     │       A Flat - 03  - Chal Halke Halke.mp3 => 6.43 MB
+     │       A Flat - 04  - Pyar Itna Na Kar.mp3 => 5.98 MB
+     │       A Flat - 05  - Meetha Sa (unplugged).mp3 => 6.58 MB
+     │       A Flat - 06  - Dil Kashi.mp3 => 6.69 MB
+     │       A Flat - 07  - Meetha Sa (partymap mix).mp3 => 6.30 MB
+     │
+     ├─── Aakhari Decision (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Aakhari Decision - 01 - Zaraa Maara Maara Sa.mp3 => 8.36 MB
+     │       Aakhari Decision - 02 - Maula Mere Maula Mere.mp3 => 9.55 MB
+     │       Aakhari Decision - 03 - Yeh Asmaan Yeh Zameen.mp3 => 6.83 MB
+     │       Aakhari Decision - 04 - Oye Paape Ek Peg De.mp3 => 6.47 MB
+     │       Aakhari Decision - 05 - Maula Mere Maula Mere (Remix).mp3 => 9.36 MB
+     │       Aakhari Decision - 06 - Yeh Asmaan Yeh Zameen (Remix).mp3 => 8.79 MB
+     │
+     ├─── Aakrosh (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Aakrosh - 01 - Isak Se Meetha.mp3 => 9.88 MB
+     │       Aakrosh - 02 - Sauda Hai Dil Ka.mp3 => 11.47 MB
+     │       Aakrosh - 03 - Man Ki Mat.mp3 => 8.90 MB
+     │       Aakrosh - 04 - Isak Se Meetha (Dhol Mix).mp3 => 10.91 MB
+     │       Aakrosh - 05 - Sasural Munia.mp3 => 10.77 MB
+     │       Aakrosh - 06 - Ramkatha.mp3 => 8.32 MB
+     │       Aakrosh - 07 - Isak Se Meetha (Remix).mp3 => 8.95 MB
+     │       Aakrosh - 08 - Sauda Hai Dil Ka (Encore).mp3 => 11.51 MB
+     │
+     ├─── Aashayein (2010) [Ripped : 24/03/16]
+     │
+     │       Aashayein - 01 - Mera Jeena Hai Kya.mp3 => 6.97 MB
+     │       Aashayein - 02 - Dilkash Dildaar Duniya.mp3 => 4.55 MB
+     │       Aashayein - 03 - Rabba.mp3 => 5.18 MB
+     │       Aashayein - 04 - Ab Mujhko Jeena.mp3 => 6.54 MB
+     │       Aashayein - 05 - Shukriya Zindagi.mp3 => 5.31 MB
+     │       Aashayein - 06 - Pal Mein Mila Jahan.mp3 => 6.15 MB
+     │       Aashayein - 07 - Chala Aaya Pyar.mp3 => 6.28 MB
+     │       Aashayein - 08 - Pal Mein Mila Jahan.mp3 => 6.45 MB
+     │       Aashayein - 09 - Mera Jeena Hai Kya (Remix).mp3 => 7.56 MB
+     │       Aashayein - 10 - Ab Mujhko Jeena (Remix).mp3 => 5.55 MB
+     │       Aashayein - 11 - Shukriya Zindagi (Remix).mp3 => 5.71 MB
+     │       Aashayein - 12 - Dilkash Dildaar Duniya (Remix).mp3 => 4.25 MB
+     │       Aashayein - 13 - Shukriya Zindagi (Sad).mp3 => 1.25 MB
+     │
+     ├─── Action Replayy (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Action Replayy - 01 - Zor Ka Jhatka.mp3 => 8.16 MB
+     │       Action Replayy - 02 - O Bekhabar.mp3 => 8.58 MB
+     │       Action Replayy - 03 - Nakhre.mp3 => 10.87 MB
+     │       Action Replayy - 04 - Chhan Ke Mohalla.mp3 => 9.98 MB
+     │       Action Replayy - 05 - Tera Mera Pyaar.mp3 => 11.33 MB
+     │       Action Replayy - 06 - Dhak Dhak Dhak.mp3 => 8.30 MB
+     │       Action Replayy - 07 - Luk Chup Jaana.mp3 => 8.17 MB
+     │       Action Replayy - 08 - I Am Dog Gone Crazy.mp3 => 6.96 MB
+     │       Action Replayy - 09 - Baki Main Bhool Gayi.mp3 => 7.58 MB
+     │       Action Replayy - 10 - Zor Ka Jhatka (Remix).mp3 => 7.44 MB
+     │       Action Replayy - 11 - Chhan Ke Mohalla (Remix).mp3 => 9.16 MB
+     │       Action Replayy - 12 - Tera Mera Pyaar (Remix).mp3 => 12.44 MB
+     │       Action Replayy - 13 - Nakhre (Remix).mp3 => 9.11 MB
+     │
+     ├─── Admissions Open (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Admissions Open - 01 - Aasman Ke Paar.mp3 => 9.79 MB
+     │       Admissions Open - 02 - Dariya Ubale.mp3 => 8.39 MB
+     │       Admissions Open - 03 - Meri Rooh.mp3 => 8.27 MB
+     │       Admissions Open - 04 - Music Hi Hai.mp3 => 6.95 MB
+     │       Admissions Open - 05 - Roshni.mp3 => 7.03 MB
+     │       Admissions Open - 06 - Aasman Ke Paar (Club Version).mp3 => 9.40 MB
+     │
+     ├─── Aisha (2010) 128Kbps [Ripped : 24/03/16]
+     │
+     │       Aisha - 01 - Suno Aisha.mp3 => 6.13 MB
+     │       Aisha - 02 - Gal Mitthi Mitthi.mp3 => 6.03 MB
+     │       Aisha - 03 - Sham.mp3 => 6.69 MB
+     │       Aisha - 04 - Behke Behke.mp3 => 5.31 MB
+     │       Aisha - 05 - Lehrein.mp3 => 6.82 MB
+     │       Aisha - 06 - By the way.mp3 => 5.02 MB
+     │       Aisha - 07 - Gal Mitthi Mitthi (The Bombay Bounce Dhol Mix).mp3 => 5.72 MB
+     │       Aisha - 08 - Lehrein (The Bombay Bounce Lounge Mix).mp3 => 6.71 MB
+     │
+     ├─── Allah Ke Banday (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       - 01 - Allah Ke Banday - Maula.mp3 => 6.03 MB
+     │       - 02 - Allah Ke Banday - Kya Hawa Kya Badal.mp3 => 6.38 MB
+     │       - 03 - Allah Ke Banday - Rabba Rabba.mp3 => 3.44 MB
+     │       - 04 - Allah Ke Banday - Mayoos.mp3 => 6.91 MB
+     │       - 05 - Allah Ke Banday - Kaala Jaadu.mp3 => 5.74 MB
+     │       - 06 - Allah Ke Banday - Kya Hawa Kya Badal (Full Version).mp3 => 12.15 MB
+     │
+     ├─── Anjaana Anjaani (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Anjaana Anjaani - 01 - Anjaana Anjaani Ki Kahani.mp3 => 9.58 MB
+     │       Anjaana Anjaani - 02 - Hairat.mp3 => 8.60 MB
+     │       Anjaana Anjaani - 03 - Aas Paas Khuda.mp3 => 10.10 MB
+     │       Anjaana Anjaani - 04 - Tumse Hi Tumse.mp3 => 8.67 MB
+     │       Anjaana Anjaani - 05 - Tujhe Bhula Diya.mp3 => 8.64 MB
+     │       Anjaana Anjaani - 06 - I Feel Good.mp3 => 10.35 MB
+     │       Anjaana Anjaani - 07 - Anjaana Anjaani.mp3 => 11.52 MB
+     │       Anjaana Anjaani - 08 - Tujhe Bhula Diya (Remix the Dance to Forget Mix).mp3 => 8.67 MB
+     │       Anjaana Anjaani - 9 - Aas Paas Khuda (Unplugged).mp3 => 5.93 MB
+     │
+     ├─── Apartment (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Apartment - 01 - Candy Man.mp3 => 5.93 MB
+     │       Apartment - 02 - Ye Hai Mumbai.mp3 => 6.20 MB
+     │       Apartment - 03 - Ankhiya Na Mar.mp3 => 8.75 MB
+     │       Apartment - 04 - O Jaane Jaan Jaan.mp3 => 7.96 MB
+     │       Apartment - 05 - Ghar Dil Mein.mp3 => 8.66 MB
+     │       Apartment - 06 - O Jaane Jaan Jaan.mp3 => 7.96 MB
+     │       Apartment - 07 - Ankhiya Na Mar (Remix).mp3 => 8.74 MB
+     │       Apartment - 08 - Ye Hai Mumbai (Remix).mp3 => 6.91 MB
+     │       Apartment - 09 - Candy Man (Remix).mp3 => 6.18 MB
+     │
+     ├─── Atithi Tum Kab Jaoge? (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Atithi Tum Kab Jaoge - 01 - Atithi Tum Kab Jaoge.mp3 => 4.81 MB
+     │       Atithi Tum Kab Jaoge - 02 - Jyoti Jalaile.mp3 => 9.66 MB
+     │       Atithi Tum Kab Jaoge - 03 - Aaja Aaja.mp3 => 8.65 MB
+     │       Atithi Tum Kab Jaoge - 04 - Dohe.mp3 => 3.92 MB
+     │       Atithi Tum Kab Jaoge - 05 - Sukhakarta.mp3 => 8.68 MB
+     │       Atithi Tum Kab Jaoge - 06 - Aaja Aaja Remix.mp3 => 7.18 MB
+     │
+     ├─── Badmaash Company (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Badmaash Company - 01 - Ayaashi.mp3 => 7.91 MB
+     │       Badmaash Company - 02 - Jingle Jingle.mp3 => 7.92 MB
+     │       Badmaash Company - 03 - Chaska.mp3 => 9.38 MB
+     │       Badmaash Company - 04 - Fakeera.mp3 => 8.38 MB
+     │       Badmaash Company - 05 - Badmaash Company.mp3 => 7.25 MB
+     │       Badmaash Company - 06 - Ayaashi (Remix).mp3 => 7.95 MB
+     │       Badmaash Company - 07 - Chaska (Remix).mp3 => 6.63 MB
+     │
+     ├─── Band Baaja Baaraat (2010) [Ripped : 24/03/16]
+     │
+     │       Band Baaja Baaraat - 01 - Ainvayi Ainvayi.mp3 => 5.23 MB
+     │       Band Baaja Baaraat - 02 -Tarkeebein.mp3 => 5.71 MB
+     │       Band Baaja Baaraat - 03 - Aadha Ishq.mp3 => 5.42 MB
+     │       Band Baaja Baaraat - 04 - Dum Dum.mp3 => 6.01 MB
+     │       Band Baaja Baaraat - 05 - Mitra.mp3 => 4.36 MB
+     │       Band Baaja Baaraat - 06 - Baari Barsi.mp3 => 5.69 MB
+     │       Band Baaja Baaraat - 07 - Band Baaja Baaraat (Theme).mp3 => 2.29 MB
+     │       Band Baaja Baaraat - 08 - Ainvayi (Dilli Club Mix).mp3 => 4.28 MB
+     │       Band Baaja Baaraat - 09 - Dum Dum (Sufi Mix).mp3 => 5.24 MB
+     │
+     ├─── Bird Idol (2010) 320Kbps [Ripped : 24/03/16]
+     │
+     │       Bird Idol - 01 - Oomph Soniye.mp3 => 8.52 MB
+     │       Bird Idol - 02 - Dil Jaana (Duet).mp3 => 7.45 MB
+     │       Bird Idol - 03 - Happy Bird Day.mp3 => 7.63 MB
+     │       Bird Idol - 04 - Hey You (Muskurumber).mp3 => 8.57 MB
+     │       Bird Idol - 05 - Dil Jaana (Solo).mp3 => 7.44 MB
+     │       Bird Idol - 06 - Fly Fly Fly.mp3 => 8.17 MB
+     │       Bird Idol - 07 - Dil Jaana (Sad).mp3 => 1.90 MB
+     │       Bird Idol - 08 - Hey You (Muskurumber Remix).mp3 => 9.74 MB
+     │       Bird Idol - 09 - Happy Bird Day (Remix).mp3 => 7.10 MB
+     │       Bird Idol - 10 - Dil Jaana (The Flying Mix).mp3 => 10.50 MB
+     │       Bird Idol - 11 - Oomph Soniye (Remix).mp3 => 6.12 MB
+     │
+     └─── Break Ke Baad (2010) [Ripped : 24/03/16]
       
-             01 - Son Of Sardaar.mp3 => 9.13 MB
-             02 - Rani Tu Mein Raja.mp3 => 7.07 MB
-             03 - Po Po.mp3 => 7.59 MB
-             04 - Tu Kamaal Di Kudi.mp3 => 7.48 MB
-             05 - Bichdann.mp3 => 10.25 MB
-             06 - Yeh Jo Halki Halki Khumariya.mp3 => 10.29 MB
-             07 - Kabhi Kabhi Mere Dil Mein Yeh Sawaal Aata Hai (Funk Version).mp3 => 7.46 MB
-             08 - Son Of Sardaar (Remix).mp3 => 6.36 MB
-             09 - Rani Tu Mein Raja (Remix).mp3 => 6.33 MB
-             10 - Kabhi Kabhi Mere Dil Mein Yeh Sawaal Aata Hai (Trance).mp3 => 13.36 MB
-             11 - Bichdann (Reprise).mp3 => 7.55 MB
+             Break Ke Baad - 01 - Adhoore.mp3 => 5.02 MB
+             Break Ke Baad - 02 - Ajab Leher.mp3 => 4.74 MB
+             Break Ke Baad - 03 - Dhoop Ke Makaan.mp3 => 5.19 MB
+             Break Ke Baad - 04 - Dooriyan Hain Zaroori.mp3 => 4.76 MB
+             Break Ke Baad - 05 - Main Jiyoonga.mp3 => 3.70 MB
+             Break Ke Baad - 06 - Dont Worry About Me.mp3 => 3.40 MB
+             Break Ke Baad - 07 - Adhoore (Remix).mp3 => 4.72 MB
+             Break Ke Baad - 08 - Dhoop Ke Makaan (Acoustic).mp3 => 4.43 MB

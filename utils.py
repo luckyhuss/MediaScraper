@@ -14,6 +14,9 @@ import datetime
 from shutil import copyfile
 import database
 
+if sys.platform == "linux2":
+	import paramiko
+
 # RegEx
 patternA = "<a.*</a>"
 patternAGroup = "<a\s+(?:[^>]*?\s+)?href=\"([^\"]*)([^/]+).+"
@@ -461,3 +464,21 @@ def treeDownloads():
 	b.close()
 
 	info("{0} seconds to tree downloads".format(stopTimer(start_curr)))
+
+def checkWDMyCloud():
+	"""Open SSHv2 connection to WDMyCloud and kill processes"""
+	info("Connecting to WDMyCloud ..")
+
+	ssh = paramiko.SSHClient()
+	ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+	ssh.connect('192.168.100.101', username='root', password='wdmycloud')
+	info("Connected to WDMyCloud")
+
+	#/etc/init.d/wdmcserverd stop
+	#/etc/init.d/wdphotodbmergerd stop
+	info("Stopping wdmcserverd ..")
+	stdin, stdout, stderr = ssh.exec_command("/etc/init.d/wdmcserverd stop")
+	info(stdout.readlines())
+	info("Stopping wdphotodbmergerd ..")
+	stdin, stdout, stderr = ssh.exec_command("/etc/init.d/wdphotodbmergerd stop")
+	info(stdout.readlines())
