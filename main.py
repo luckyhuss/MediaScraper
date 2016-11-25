@@ -2,7 +2,7 @@
 # Author : Anwar Buchoo (luckyhuss@msn.com | http://ideaof.me)
 # Date : 01/03/2016
 # Date : 25/11/2016
-# Version : 3.4
+# Version : 3.4.2
 # sudo crontab -l
 # sudo crontab -e
 # m h  dom mon dow   command
@@ -48,8 +48,16 @@ def main():
 			utils.checkWDMyCloud()
 			return
 		elif sys.argv[1] == "rsync":
-			# rsync torrents
-			utils.launchRsync("rsync_torrents", "/var/lib/transmission-daemon/info/torrents/", "/media/shares/SEAGATE-II/RasperryPi/torrents/") 
+			# rsync
+			if sys.argv[2] == "torrents":
+				# torrents
+				utils.launchRsync("rsync_torrents", "/var/lib/transmission-daemon/info/torrents/", "/media/shares/SEAGATE-II/RasperryPi/torrents/")
+			if sys.argv[2] == "movies":
+				# movies
+				utils.launchRsync("rsync_movies", "/media/shares/SEAGATE-II/Torrent/Done", "/media/shares/WDMyCloud")
+			if sys.argv[2] == "mp3":
+				# movies
+				utils.launchRsync("rsync_mp3", "/media/shares/SEAGATE-II/Torrent/Others", "/media/shares/WDMyCloud")
 			return
 
 	# generate top level pages (by year)
@@ -93,7 +101,7 @@ def main():
 	# database backup => OK
 	# 06/11/2016
 	# check if WDMyCloud has been loaded (electricity cut) => KO
-	# automate rsync in python instead of cron => KO
+	# automate rsync in python instead of cron rsync => OK
 
 	utils.info("Exiting program")
 	
