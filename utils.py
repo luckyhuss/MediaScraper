@@ -64,6 +64,7 @@ elif sys.platform == "linux2":
 CLIENT_HEADER = {"User-Agent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2228.0 Safari/537.36"}
 COMMAND_PYLOAD = "pyLoadCli add \"{0}\" {1}"
 COMMAND_MYSQLDUMP = "mysqldump -uroot -pmysql mediascraper > \"{0}\""
+COMMAND_RSYNC = "sudo rsync -av --progress --log-file=" + PATH_LOG + "/{0}.log {1} {2}"
 
 def error(e):
 	mylogger.logger.error("Error {0}".format(e))
@@ -482,3 +483,16 @@ def checkWDMyCloud():
 	info("Stopping wdphotodbmergerd ..")
 	stdin, stdout, stderr = ssh.exec_command("/etc/init.d/wdphotodbmergerd stop")
 	info(stdout.readlines())
+
+def launchRsync(logName, sourceFolder, destinationFolder):
+	"""One-way synchronisation of two folders"""
+	rSync = COMMAND_RSYNC.format(logName, sourceFolder, destinationFolder)
+	try:
+		info("Launching rsync ..")
+		#sudo rsync -av --progress --log-file=/media/shares/SEAGATE-II/RasperryPi/rsync_torrents.log /var/lib/transmission-daemon/info/torrents/ /media/shares/SEAGATE-II/RasperryPi/torrents/		
+		subprocess.call(rSync, shell=True)
+		info("rsync : " + sourceFolder + " >> " + destinationFolder)		
+		return 0 # success
+	except Exception as e:
+		mylogger.logger.error("Error {0} : {1}".format(e, rSync))
+		return 1 # failure

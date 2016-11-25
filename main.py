@@ -1,8 +1,8 @@
 # This program scrapes the web page to get download urls for mp3
 # Author : Anwar Buchoo (luckyhuss@msn.com | http://ideaof.me)
 # Date : 01/03/2016
-# Date : 21/11/2016
-# Version : 3.3
+# Date : 25/11/2016
+# Version : 3.4
 # sudo crontab -l
 # sudo crontab -e
 # m h  dom mon dow   command
@@ -11,7 +11,6 @@
 # launch MediaScraper every 3 hours:15mins
 #15 */3 * * * python /home/pi/mypython/MediaScraper/main.py
 
-#import os
 import sys
 
 # include custom files
@@ -47,6 +46,10 @@ def main():
 		elif sys.argv[1] == "wdmycloud":
 			# open SSHv2 to WDMycloud
 			utils.checkWDMyCloud()
+			return
+		elif sys.argv[1] == "rsync":
+			# rsync torrents
+			utils.launchRsync("rsync_torrents", "/var/lib/transmission-daemon/info/torrents/", "/media/shares/SEAGATE-II/RasperryPi/torrents/") 
 			return
 
 	# generate top level pages (by year)

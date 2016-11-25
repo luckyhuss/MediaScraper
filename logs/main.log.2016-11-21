@@ -1,0 +1,58 @@
+21/11/2016 11:23:25 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+21/11/2016 11:23:25 INFO: Run 1662 times
+21/11/2016 11:23:25 WARNING: [D1]There are links to be scraped first
+21/11/2016 11:23:25 INFO: Checking for new albums : year 2016
+21/11/2016 11:23:27 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+21/11/2016 11:23:27 INFO: 1.77 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+21/11/2016 11:23:27 INFO: 106/194 valid urls scraped
+21/11/2016 11:23:27 INFO: Albums online : 106, Albums database : 106
+21/11/2016 11:23:27 INFO: No new album added
+21/11/2016 11:23:27 WARNING: There are albums to be scraped first
+21/11/2016 11:23:27 WARNING: 674 : File(s) already downloading
+21/11/2016 11:23:27 INFO: 0.06 seconds to rename and save files
+21/11/2016 11:23:27 INFO: 0.03 seconds to update albums size
+21/11/2016 11:23:27 INFO: 0.02 seconds to update albums pyLoad pid
+21/11/2016 11:23:27 INFO: 0.04 seconds to update albums error
+21/11/2016 11:23:27 INFO: Exiting program
+21/11/2016 11:29:49 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+21/11/2016 11:29:49 INFO: Run 1663 times
+21/11/2016 11:29:49 WARNING: [D1]There are links to be scraped first
+21/11/2016 11:29:49 INFO: Checking for new albums : year 2016
+21/11/2016 11:29:51 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+21/11/2016 11:29:51 INFO: 1.59 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+21/11/2016 11:29:51 INFO: 106/194 valid urls scraped
+21/11/2016 11:29:51 INFO: Albums online : 106, Albums database : 106
+21/11/2016 11:29:51 INFO: No new album added
+21/11/2016 11:29:51 WARNING: There are albums to be scraped first
+21/11/2016 11:29:51 WARNING: 674 : File(s) already downloading
+21/11/2016 11:29:51 INFO: 0.06 seconds to rename and save files
+21/11/2016 11:29:51 INFO: 0.02 seconds to update albums size
+21/11/2016 11:29:51 INFO: 0.02 seconds to update albums pyLoad pid
+21/11/2016 11:29:51 INFO: 0.04 seconds to update albums error
+21/11/2016 11:29:51 INFO: Exiting program
+21/11/2016 11:38:48 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+21/11/2016 11:38:48 INFO: Run 1664 times
+21/11/2016 11:38:48 WARNING: [D1]There are links to be scraped first
+21/11/2016 11:38:48 INFO: Checking for new albums : year 2016
+21/11/2016 11:38:50 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
+21/11/2016 11:38:50 INFO: 2.08 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
+21/11/2016 11:38:50 INFO: 106/194 valid urls scraped
+21/11/2016 11:38:50 INFO: Albums online : 106, Albums database : 106
+21/11/2016 11:38:50 INFO: No new album added
+21/11/2016 11:38:50 WARNING: There are albums to be scraped first
+21/11/2016 11:38:50 WARNING: 674 : File(s) already downloading
+21/11/2016 11:38:50 INFO: 0.06 seconds to rename and save files
+21/11/2016 11:38:51 INFO: 0.03 seconds to update albums size
+21/11/2016 11:38:51 INFO: 0.02 seconds to update albums pyLoad pid
+21/11/2016 11:38:51 INFO: 0.04 seconds to update albums error
+21/11/2016 11:38:51 INFO: Exiting program
+21/11/2016 11:39:02 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+21/11/2016 11:39:02 INFO: Run 1665 times
+21/11/2016 11:39:03 INFO: 0.93 seconds to tree downloads
+21/11/2016 11:40:14 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+21/11/2016 11:40:14 INFO: Run 1666 times
+21/11/2016 11:40:14 INFO: tree
+21/11/2016 11:40:15 INFO: 0.73 seconds to tree downloads
+21/11/2016 11:42:07 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+21/11/2016 11:42:07 INFO: Run 1667 times
+21/11/2016 11:42:07 INFO: COnnecting to WDMyCloud
