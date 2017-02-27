@@ -12,6 +12,7 @@
 #15 */3 * * * python /home/pi/mypython/MediaScraper/main.py
 
 import sys
+import os
 
 # include custom files
 import mylogger
@@ -34,9 +35,23 @@ def initialise():
 
 	#utils.info("Dump @ {0}".format(utils.FILE_MYSQLDUMP))
 
+def checkWDMyCloud():
+
+	wdMyCloudNotLoaded = False
+	# check if access.txt file exists on my cloud
+	if not os.path.exists("/media/shares/WDMyCloud/access.txt"):
+		wdMyCloudNotLoaded = True
+		utils.info("WDMyCloud not loaded, exiting program.")
+
+	return wdMyCloudNotLoaded
+
 def main():
 	# initialise application
 	initialise()
+
+	# check if WDMyCloud is running (electricity cut problem)
+	if checkWDMyCloud():
+		return
 	
 	if len(sys.argv) > 1:
 		if sys.argv[1] == "tree":
@@ -100,8 +115,9 @@ def main():
 	# automate setup on linux through shell => OK
 	# database backup => OK
 	# 06/11/2016
-	# check if WDMyCloud has been loaded (electricity cut) => KO
 	# automate rsync in python instead of cron rsync => OK
+	# 27/02/2017
+	# check if WDMyCloud has been loaded (electricity cut) => KO
 
 	utils.info("Exiting program")
 	

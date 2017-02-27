@@ -1,67 +1,10 @@
-25/11/2016 22:24:07 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 22:24:07 INFO: Run 1688 times
-25/11/2016 22:24:07 WARNING: [D1]There are links to be scraped first
-25/11/2016 22:24:07 INFO: Checking for new albums : year 2016
-25/11/2016 22:24:09 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
-25/11/2016 22:24:09 INFO: 1.91 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
-25/11/2016 22:24:09 INFO: 106/194 valid urls scraped
-25/11/2016 22:24:09 INFO: Albums online : 106, Albums database : 106
-25/11/2016 22:24:09 INFO: No new album added
-25/11/2016 22:24:09 WARNING: There are albums to be scraped first
-25/11/2016 22:24:09 WARNING: 674 : File(s) already downloading
-25/11/2016 22:24:09 INFO: 0.06 seconds to rename and save files
-25/11/2016 22:24:09 INFO: 0.03 seconds to update albums size
-25/11/2016 22:24:09 INFO: 0.02 seconds to update albums pyLoad pid
-25/11/2016 22:24:09 INFO: 0.04 seconds to update albums error
-25/11/2016 22:24:09 INFO: Exiting program
-25/11/2016 22:24:32 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 22:24:32 INFO: Run 1689 times
-25/11/2016 22:24:34 WARNING: [D1]There are links to be scraped first
-25/11/2016 22:24:34 INFO: Checking for new albums : year 2016
-25/11/2016 22:24:35 ERROR: Error substring not found in title ['SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs']
-25/11/2016 22:24:35 INFO: 1.39 seconds to load [SongsPK &gt;&gt; Bollywood Albums List 2016 - Download Bollywood Latest &amp; Old Songs] page @ http://www.songspk.help/indian_movie/2016_List.html
-25/11/2016 22:24:35 INFO: 106/194 valid urls scraped
-25/11/2016 22:24:35 INFO: Albums online : 106, Albums database : 106
-25/11/2016 22:24:35 INFO: No new album added
-25/11/2016 22:24:35 WARNING: There are albums to be scraped first
-25/11/2016 22:24:35 WARNING: 674 : File(s) already downloading
-25/11/2016 22:24:35 INFO: 0.06 seconds to rename and save files
-25/11/2016 22:24:35 INFO: 0.03 seconds to update albums size
-25/11/2016 22:24:35 INFO: 0.02 seconds to update albums pyLoad pid
-25/11/2016 22:24:35 INFO: 0.05 seconds to update albums error
-25/11/2016 22:24:35 INFO: Exiting program
-25/11/2016 22:34:55 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 22:34:55 INFO: Run 1690 times
-25/11/2016 22:34:56 INFO: Connecting to WDMyCloud ..
-25/11/2016 23:05:16 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:05:16 INFO: Run 1691 times
-25/11/2016 23:06:25 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:06:25 INFO: Run 1692 times
-25/11/2016 23:06:48 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:06:48 INFO: Run 1693 times
-25/11/2016 23:07:20 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:07:20 INFO: Run 1694 times
-25/11/2016 23:15:59 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:16:00 INFO: Run 1695 times
-25/11/2016 23:16:24 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:16:24 INFO: Run 1696 times
-25/11/2016 23:16:39 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:16:39 INFO: Run 1697 times
-25/11/2016 23:18:05 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:18:05 INFO: Run 1698 times
-25/11/2016 23:18:05 INFO: Launching rsync ..
-25/11/2016 23:30:50 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:30:50 INFO: Run 1700 times
-25/11/2016 23:31:03 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:31:03 INFO: Run 1701 times
-25/11/2016 23:31:08 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:31:08 INFO: Run 1702 times
-25/11/2016 23:31:26 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:31:26 INFO: Run 1703 times
-25/11/2016 23:31:28 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:31:28 INFO: Run 1704 times
-25/11/2016 23:31:33 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:31:33 INFO: Run 1705 times
-25/11/2016 23:31:36 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
-25/11/2016 23:31:36 INFO: Run 1706 times
-25/11/2016 23:31:37 INFO: Launching rsync ..
+27/02/2017 20:18:36 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:18:36 INFO: Run 2791 times
+27/02/2017 20:18:59 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:18:59 INFO: Run 2792 times
+27/02/2017 20:19:32 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:19:32 INFO: Run 2793 times
+27/02/2017 20:19:32 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:19:53 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:19:53 INFO: Run 2794 times
+27/02/2017 20:19:53 INFO: WDMyCloud not loaded, exiting program.
