@@ -27,6 +27,7 @@ patternTitle = "<title[^>]*>(.*?)<\/title>"
 PARAM_LaunchCount = "Application.LaunchCount"
 PARAM_TopLevelPage = "Download.TopLevelPage"
 PARAM_MaxAlbumPerDay = "Download.MaxAlbumPerDay"
+PARAM_WDMyCloudFailed = "WDMyCloud.FailureCount"
 
 # application paths
 if sys.platform == "win32" or sys.platform == "darwin":
@@ -65,6 +66,7 @@ CLIENT_HEADER = {"User-Agent":"Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (
 COMMAND_PYLOAD = "pyLoadCli add \"{0}\" {1}"
 COMMAND_MYSQLDUMP = "mysqldump -uroot -pmysql mediascraper > \"{0}\""
 COMMAND_RSYNC = "sudo rsync -av --progress --log-file=" + PATH_LOG + "/{0}.log {1} {2}"
+COMMAND_REBOOT = "sudo reboot"
 
 def error(e):
 	mylogger.logger.error("Error {0}".format(e))

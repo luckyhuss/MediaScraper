@@ -8,3 +8,32 @@
 27/02/2017 20:19:53 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
 27/02/2017 20:19:53 INFO: Run 2794 times
 27/02/2017 20:19:53 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:23:48 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:23:48 INFO: Run 2795 times
+27/02/2017 20:23:49 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:47:27 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:47:27 INFO: Run 2798 times
+27/02/2017 20:47:27 ERROR: Error 'NoneType' object has no attribute '__getitem__'
+27/02/2017 20:47:46 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:47:46 INFO: Run 2799 times
+27/02/2017 20:47:47 ERROR: Error 'NoneType' object has no attribute '__getitem__'
+27/02/2017 20:52:20 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:52:20 INFO: Run 2800 times
+27/02/2017 20:52:20 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:52:38 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:52:38 INFO: Run 2801 times
+27/02/2017 20:52:38 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:53:20 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:53:20 INFO: Run 2802 times
+27/02/2017 20:53:20 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:53:20 INFO: Rebooting raspberry..
+27/02/2017 20:53:37 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:53:37 INFO: Run 2803 times
+27/02/2017 20:53:37 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:53:50 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:53:50 INFO: Run 2804 times
+27/02/2017 20:53:50 INFO: WDMyCloud not loaded, exiting program.
+27/02/2017 20:53:50 INFO: Rebooting raspberry..
+27/02/2017 20:54:03 INFO: Starting program with BASE : /Users/anwar/Dropbox/WinApp/MediaScraper
+27/02/2017 20:54:03 INFO: Run 2805 times
+27/02/2017 20:54:03 INFO: WDMyCloud not loaded, exiting program.

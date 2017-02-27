@@ -38,10 +38,24 @@ def initialise():
 def checkWDMyCloud():
 
 	wdMyCloudNotLoaded = False
+	wdMyCloudFailureCount = int(database.getParam(utils.PARAM_WDMyCloudFailed))
+
 	# check if access.txt file exists on my cloud
 	if not os.path.exists("/media/shares/WDMyCloud/access.txt"):
 		wdMyCloudNotLoaded = True
-		utils.info("WDMyCloud not loaded, exiting program.")
+		utils.info("WDMyCloud not loaded ..")
+		database.setParam(utils.PARAM_WDMyCloudFailed, wdMyCloudFailureCount + 1)
+	else:
+		utils.info("WDMyCloud Ok")
+
+	# check failure count
+	if int(database.getParam(utils.PARAM_WDMyCloudFailed)) > 1:
+		# reboot raspberry pi
+		utils.info("Rebooting raspberry ..")
+		# reset counter failure count in db
+		database.setParam(utils.PARAM_WDMyCloudFailed, 0)
+		# sudo reboot
+		subprocess.call(utils.COMMAND_REBOOT, shell=True)
 
 	return wdMyCloudNotLoaded
 
